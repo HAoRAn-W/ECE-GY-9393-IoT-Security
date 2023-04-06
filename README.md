@@ -35,4 +35,5 @@ Haoran Wang | Mahati Madhira
 - prompt 3
 ### Mahati
 - prompt 4
+As a network expert, you are tasked with analyzing URLs visited by IoT devices. Your goal is to determine the purpose of each URL and provide the following information in JSON format: company name, company website, and the purpose of the domain. Please choose one of the following purposes for each domain: tracking, marketing, advertising, analytics, CDN, static server, DNS, or first-party host. The JSON format should include the following keys: "company", "company_website", and "result".
 - prompt 5
