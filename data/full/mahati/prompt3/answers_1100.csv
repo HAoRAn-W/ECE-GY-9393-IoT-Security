@@ -1,0 +1,101 @@
+,remote_hostname,company,company_website,result
+1100,amazon.ca,Amazon,https://www.amazon.com,first-party host
+1101,cnn.io,,,
+1102,cbsinteractive.com,CBS Interactive,https://www.cbsinteractive.com/,marketing
+1103,samsunghealth.com,Samsung,www.samsung.com,First-party host
+1104,w-x.co,,,
+1105,bleacherreport.net,Bleacher Report,https://www.bleacherreport.com/,CDN
+1106,imdbws.com,IMDb,https://www.imdb.com/,CDN
+1107,loginradius.com,LoginRadius,https://www.loginradius.com/,first-party host
+1108,outturner.com,Outturner,https://outturner.com/,marketing
+1109,viafoura.co,Viafoura,https://viafoura.com/,analytics
+1110,lrcontent.com,Liveramp,https://liveramp.com/,Advertising
+1111,lenovomm.com,Lenovo,https://www.lenovo.com/,marketing
+1112,zillow.com,Zillow,zillow.com,first-party host
+1113,stratoserver.net,Strato,www.strato.de,static server
+1114,ip-pool.com,IP Pool,http://www.ip-pool.com/,DNS
+1115,24olympia.com,24 Olympia,https://www.24olympia.com/,First-party host
+1116,criteo.com,Criteo,https://www.criteo.com/,advertising
+1117,omnitagjs.com,Ensighten,https://www.ensighten.com/,tag management and data collection for analytics and marketing purposes
+1118,theguardian.com,The Guardian,theguardian.com,first-party host
+1119,criteo.net,Criteo,https://www.criteo.com/,advertising
+1120,eyeota.net,Eyeota,https://eyeota.com/,Tracking
+1121,betrad.com,Beeswax,https://www.beeswax.com/,advertising
+1122,360yield.com,360 Yield Center,https://www.360yieldcenter.com/,marketing
+1123,guim.co.uk,GUI Media,https://www.guimedia.co.uk/,first-party host
+1124,gu-web.net,GU-Web,https://www.gu-web.net/,static server
+1125,brandmetrics.com,Brand Metrics,brandmetrics.com,analytics
+1126,the-ozone-project.com,The Ozone Project,https://www.theozoneproject.com,advertising
+1127,stackassets.com,StackPath,https://www.stackpath.com/,CDN
+1128,mobimagic.com,Mobimagic,mobimagic.com,marketing
+1129,bellaliant.net,Bell Aliant,https://www.bellaliant.ca/,DNS
+1130,quadranet.com,QuadraNet,https://www.quadranet.com/,CDN
+1131,online.no,Online.no,https://www.online.no/,first-party host
+1132,colocrossing.com,ColoCrossing,https://www.colocrossing.com/,CDN
+1133,dnainternet.fi,DNA,https://www.dna.fi/,DNS
+1134,dsl4u.ca,DSL4U,https://www.dsl4u.ca,DNS
+1135,sefiber.dk,SEFIBER,https://www.sefiber.dk/,first-party host
+1136,ifxnetworks.com,IFX Networks,https://www.ifxnetworks.com/,CDN
+1137,utg.ge,United Telecom Group,http://utg.ge/,DNS
+1138,coolideas.co.za,Cool Ideas,https://www.coolideas.co.za/,first-party host
+1139,utcluj.ro,Technical University of Cluj-Napoca,https://www.utcluj.ro/,first-party host
+1140,s-microsoft.com,Microsoft Corporation,https://www.microsoft.com/,first-party host
+1141,meetcircle-blue.co,,,
+1142,forzamotorsport.net,Microsoft Studios,https://www.microsoft.com/en-us/studios/forza/,first-party host
+1143,google.fi,Google,https://www.google.com,DNS
+1144,yle.fi,Yleisradio,https://yle.fi/en/,first-party host
+1145,myvisualiq.net,Visual IQ,https://www.visualiq.com/,analytics
+1146,samknows.com,SamKnows,https://samknows.com/,analytics
+1147,ebay.com,eBay,www.ebay.com,E-commerce platform for buying and selling goods and services
+1148,ebaystatic.com,eBay,www.ebay.com,static server
+1149,ebayimg.com,eBay,www.ebay.com,CDN
+1150,bbc.com,BBC,bbc.com,first-party host
+1151,measurement-lab.org,Measurement Lab,https://www.measurementlab.net/,analytics
+1152,cnn.com,CNN,https://www.cnn.com/,news website - first-party host
+1153,imdb.com,IMDb,https://www.imdb.com/,first-party host
+1154,quantserve.com,Quantcast,https://www.quantcast.com/,Analytics
+1155,chartbeat.com,Chartbeat,https://chartbeat.com/,analytics
+1156,telmtp.xyz,Unknown,,DNS
+1157,umu.se,Umeå University,https://www.umu.se/en/,first-party host
+1158,trakt.tv,Trakt,https://trakt.tv/,tracking
+1159,licdn.com,LinkedIn Corporation,https://www.linkedin.com,analytics
+1160,ecobee.com,ecobee,https://www.ecobee.com,first-party host
+1161,kqed.org,KQED,https://www.kqed.org/,first-party host
+1162,jwplayer.com,JW Player,https://www.jwplayer.com/,CDN
+1163,nintendo.com,Nintendo,https://www.nintendo.com/,first-party host
+1164,yospace.com,Yospace,https://www.yospace.com/,marketing
+1165,driftt.com,Drift,https://www.drift.com/,marketing
+1166,ninjajournalist.com,Ninja Journalist,https://ninjajournalist.com/,news and information website
+1167,wsj.com,The Wall Street Journal,www.wsj.com,first-party host
+1168,noaa.gov,National Oceanic and Atmospheric Administration,https://www.noaa.gov/,first-party host
+1169,crunchyroll.com,Crunchyroll,https://www.crunchyroll.com/,first-party host
+1170,theplatform.com,thePlatform,https://www.theplatform.com/,CDN
+1171,nbc.com,NBCUniversal,nbcuniversal.com,first-party host
+1172,taplytics.com,Taplytics,https://www.taplytics.com/,analytics
+1173,jdownloader.org,JDownloader,https://jdownloader.org/,Static server
+1174,deployads.com,DeployAds,https://www.deployads.com/,advertising
+1175,bazaarvoice.com,Bazaarvoice,https://www.bazaarvoice.com/,analytics
+1176,art19.com,ART19,https://art19.com/,CDN
+1177,contextweb.com,ContextWeb,https://www.contextweb.com/,advertising
+1178,hlserve.com,Highwinds Network Group,https://www.stackpath.com/,CDN
+1179,dc-storm.com,DC Storm,https://www.dc-storm.com/,analytics
+1180,simplecast.com,Simplecast,https://simplecast.com/,marketing
+1181,bouyguesbox.fr,Bouygues Telecom,https://www.bouyguestelecom.fr/,first-party host
+1182,weborama.fr,Weborama,https://weborama.com/,advertising
+1183,meetrics.net,Meetrics,https://www.meetrics.com/,analytics
+1184,intuit.com,Intuit,intuit.com,first-party host
+1185,tesla.services,"Tesla, Inc.",https://www.tesla.com/,first-party host
+1186,tmz.com,TMZ,https://www.tmz.com/,entertainment news website
+1187,mint.com,Mint,https://www.mint.com/,tracking
+1188,mwbsys.com,Malwarebytes,https://www.malwarebytes.com/,analytics
+1189,aka.ms,Microsoft,https://www.microsoft.com/,URL shortener for Microsoft services
+1190,avastbrowser.com,Avast,avast.com,first-party host
+1191,myexternalip.com,My External IP,https://www.myexternalip.com/,DNS
+1192,v0cdn.net,Verizon Digital Media Services,https://www.verizondigitalmedia.com/,CDN
+1193,getgo.com,GetGo,www.getgo.com,first-party host
+1194,cedexis.com,Cedexis,https://www.cedexis.com/,CDN
+1195,cedexis-radar.net,Cedexis,https://www.cedexis.com/,CDN
+1196,perimeterx.net,PerimeterX,https://www.perimeterx.com/,CDN
+1197,usebutton.com,Button,https://www.usebutton.com/,marketing
+1198,webex.com,Webex,https://www.webex.com/,video conferencing and collaboration platform
+1199,outlookmobile.com,Microsoft,https://www.microsoft.com/,mobile email application

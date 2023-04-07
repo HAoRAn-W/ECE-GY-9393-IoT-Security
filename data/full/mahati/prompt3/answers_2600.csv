@@ -1,0 +1,101 @@
+,remote_hostname,company,company_website,result
+2600,grouponcdn.com,Groupon,https://www.groupon.com/,CDN
+2601,iinet.net.au,iiNet,https://www.iinet.net.au/,Internet Service Provider
+2602,mynetname.net,,,
+2603,liquidtelecom.net,Liquid Telecom,https://www.liquidtelecom.com/,first-party host
+2604,s-onetag.com,S-Onetag,https://www.s-onetag.com/,marketing
+2605,tynt.com,Tynt,https://www.tynt.com/,analytics
+2606,liadm.com,LiaDM,liadm.com,marketing
+2607,onaudience.com,OnAudience,onaudience.com,analytics
+2608,dtscdn.com,DataTack Solutions,https://www.dtscdn.com/,CDN
+2609,riskified.com,Riskified,https://www.riskified.com/,marketing
+2610,signifyd.com,Signifyd,https://www.signifyd.com/,Marketing
+2611,itech.ru,iTech,https://www.itech.ru/,static server
+2612,mobisystems.com,Mobisystems,mobisystems.com,static server
+2613,zdnet.com,ZDNet,www.zdnet.com,Technology news and business information
+2614,lifehacker.com,Lifehacker,www.lifehacker.com,first-party host
+2615,engadget.com,Engadget,https://www.engadget.com/,technology news and reviews
+2616,feedly.com,Feedly,https://feedly.com/,RSS feed reader
+2617,slashdot.org,Slashdot Media,https://www.slashdotmedia.com/,first-party host
+2618,gog.com,GOG,www.gog.com,first-party host
+2619,fedex.com,FedEx,fedex.com,shipping and logistics
+2620,bbc.net.uk,BBC,www.bbc.com,first-party host
+2621,boardingarea.com,BoardingArea,boardingarea.com,marketing
+2622,cnode.io,CNode,https://cnode.io/,CDN
+2623,escdn.co,Edgecast Networks,https://www.verizondigitalmedia.com/,CDN
+2624,titnked.net,Unknown,,Unknown purpose
+2625,usenet-crawler.com,Usenet Crawler,https://www.usenet-crawler.com/,first-party host
+2626,google.co.za,Google,https://www.google.com/,first-party host
+2627,b-cdn.net,BelugaCDN,https://belugacdn.com/,CDN
+2628,streamable.com,Streamable,https://streamable.com/,CDN
+2629,unimelb.edu.au,University of Melbourne,https://www.unimelb.edu.au/,First-party host
+2630,nctu.edu.tw,National Chiao Tung University,https://www.nctu.edu.tw/en,First-party host
+2631,wxug.com,Weather Underground,www.wunderground.com,weather tracking and forecasting
+2632,huffpost.com,HuffPost,www.huffpost.com,news publisher
+2633,no-ip.com,No-IP,https://www.noip.com/,DNS
+2634,pressablecdn.com,Pressable,https://pressable.com/,CDN
+2635,campus-rv.net,Campus RV,campus-rv.net,Static server
+2636,shopifycloud.com,Shopify,https://www.shopify.com/,CDN
+2637,uptimerobot.com,Uptime Robot,https://uptimerobot.com/,analytics
+2638,launtel.net.au,Launtel,https://launtel.net.au/,DNS
+2639,commbank.com.au,Commonwealth Bank,https://www.commbank.com.au/,first-party host
+2640,citymapper.com,Citymapper,https://citymapper.com/,analytics
+2641,splitwise.com,Splitwise,splitwise.com,first-party host
+2642,mchsi.com,Mediacom Communications Corporation,https://mediacomcable.com/,first-party host
+2643,wargaming.net,Wargaming.net,https://www.wargaming.net/,gaming
+2644,kbronet.com.tw,Kbro,https://www.kbro.com.tw/,first-party host
+2645,home.ne.jp,NTT Communications,https://www.ntt.com/en/index.html,DNS
+2646,telenor.se,Telenor,https://www.telenor.se/,first-party host
+2647,la.net.ua,,,
+2648,digikabel.hu,Digi Hungary,https://www.digi.hu/,first-party host
+2649,telekom.hu,Magyar Telekom,https://www.telekom.hu/,first-party host
+2650,amplia.co.tt,Amplia Communications,https://www.amplia.co.tt/,CDN
+2651,privacy.network,Privacy Network,https://privacy.network/,DNS
+2652,cloudmobi.net,CloudMobi,https://www.cloudmobi.net,Advertising
+2653,libreelec.tv,LibreELEC,https://libreelec.tv/,static server
+2654,envisacor.com,Envisacor,envisacor.com,first-party host
+2655,brivity.com,Brivity,https://www.brivity.com/,Marketing
+2656,hubapi.com,HubSpot,https://www.hubspot.com,Marketing
+2657,hsadspixel.net,AdRoll,https://www.adroll.com/,tracking
+2658,hsleadflows.net,Hubspot,https://www.hubspot.com/,marketing
+2659,netvigator.com,Netvigator,https://www.netvigator.com/en/index.html,first-party host
+2660,real-debrid.com,Real-Debrid,https://real-debrid.com/,CDN
+2661,google.pt,Google,https://www.google.com/,DNS
+2662,gismeteo.ru,Gismeteo,https://www.gismeteo.ru/,Weather forecasting website
+2663,ladmedia.fr,LAD Media,ladmedia.fr,marketing
+2664,wonderpush.com,WonderPush,https://www.wonderpush.com/,marketing
+2665,fonts.net,Monotype Imaging Inc.,https://www.monotype.com/,static server
+2666,discourse-cdn.com,Discourse,https://www.discourse.org/,CDN
+2667,ambientweather.net,Ambient Weather,https://www.ambientweather.com/,first-party host
+2668,thetake.com,TheTake,https://www.thetake.com/,First-party host
+2669,shopifycdn.com,Shopify,https://www.shopify.com/,CDN
+2670,stamped.io,Stamped.io,https://stamped.io/,marketing
+2671,inet.fi,Inet Oy,https://www.inet.fi/,DNS
+2672,myicomfort.com,Lennox International,https://www.lennoxinternational.com/,first-party host
+2673,omegacdn.net,OmegaCDN,https://www.omegacdn.com,CDN
+2674,psicdn.net,PsiTest,https://psitests.com/,CDN
+2675,epson.net,Epson,https://www.epson.com/,first-party host
+2676,express.co.uk,Express.co.uk,https://www.express.co.uk/,news and media
+2677,b2c.com,Unknown,,Unknown
+2678,torrenti.al,Unknown,,DNS
+2679,nuki.io,Nuki,https://nuki.io/,first-party host
+2680,bldrdoc.gov,National Institute of Standards and Technology,https://www.nist.gov/,government website
+2681,nuri.net,Nuri,https://nuri.net/,first-party host
+2682,cmcore.com,CMCore,https://www.cmcore.com/,CDN
+2683,akahost.net,Akaunting,https://akaunting.com/,DNS
+2684,whatbox.ca,Whatbox Inc.,https://whatbox.ca/,static server
+2685,rapidssl.com,RapidSSL,https://www.rapidssl.com/,DNS
+2686,kalay.net.cn,"Shenzhen Kalay Intelligent Technology Co., Ltd.",http://www.kalay.net.cn/,CDN
+2687,protonvpn.com,ProtonVPN,https://protonvpn.com/,VPN service provider
+2688,startpage.com,Startpage B.V.,https://www.startpage.com/,search engine
+2689,apsalar.com,Apsalar,www.apsalar.com,analytics
+2690,latt.net,,,
+2691,apple-studies.com,Apple Inc.,www.apple.com,marketing
+2692,shelly.cloud,Shelly,https://shelly.cloud/,IoT first-party host
+2693,brightspace.com,Brightspace,https://www.brightspace.com/,first-party host
+2694,cambrium.nl,Cambrium,https://www.cambrium.nl/,DNS
+2695,t-online.de,Deutsche Telekom AG,https://www.telekom.com,first-party host
+2696,azure-devices.net,Microsoft,https://www.microsoft.com/,IoT first-party host
+2697,warthunder.com,Gaijin Entertainment,https://gaijin.net/,first-party host
+2698,macrumors.com,MacRumors,https://www.macrumors.com/,first-party host
+2699,ct.co.cr,Grupo ICE,https://www.grupoice.com/,DNS

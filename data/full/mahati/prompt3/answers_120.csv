@@ -1,0 +1,21 @@
+,remote_hostname,company,company_website,result
+120,ravm.tv,RAVM,https://ravm.tv/,first-party host
+121,samsung.com,Samsung,samsung.com,First-party host
+122,samsungosp.com,Samsung,https://www.samsung.com,CDN
+123,ntp.org,ntp.org,https://www.ntp.org/,DNS
+124,samsungcloud.com,Samsung,https://www.samsung.com/,CDN
+125,samsungapps.com,Samsung,https://www.samsung.com,First-party host
+126,signal.org,Signal Messenger LLC,https://signal.org/,first-party host
+127,disquscdn.com,Disqus,https://disqus.com/,CDN
+128,weather.com,The Weather Company,https://weather.com/,first-party host
+129,linkedin.com,LinkedIn,linkedin.com,first-party host
+130,whispersystems.org,Signal,https://signal.org/,First-party host
+131,googletagmanager.com,Google,https://www.google.com/,Analytics
+132,moatads.com,Moat,https://moat.com/,advertising
+133,adnxs.com,AppNexus,https://www.appnexus.com/,advertising
+134,optimizely.com,Optimizely,https://www.optimizely.com/,analytics
+135,bidswitch.net,Bidswitch,https://www.bidswitch.com/,Advertising
+136,chartbeat.net,Chartbeat,https://chartbeat.com/,analytics
+137,sitescout.com,Sitescout,sitescout.com,advertising
+138,att.com,AT&T,https://www.att.com/,first-party host
+139,permutive.com,Permutive,https://permutive.com/,analytics
