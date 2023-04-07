@@ -9,11 +9,11 @@ Haoran Wang | Mahati Madhira
     ├───CDN ------------------ for CDN records analysis
     └───full ----------------- full dataset query results
         ├───haoran  
-        │   ├───prompt1
-        │   └───prompt2
+        │   ├───prompt2
+        │   └───prompt3
         └───mahati
-            ├───prompt3
-            └───prompt4
+            ├───prompt4
+            └───prompt5
 ```
 
 ## GPT Processing
@@ -37,3 +37,4 @@ Haoran Wang | Mahati Madhira
 - prompt 4
 As a network expert, you are tasked with analyzing URLs visited by IoT devices. Your goal is to determine the purpose of each URL and provide the following information in JSON format: company name, company website, and the purpose of the domain. Please choose one of the following purposes for each domain: tracking, marketing, advertising, analytics, CDN, static server, DNS, or first-party host. The JSON format should include the following keys: "company", "company_website", and "result".
 - prompt 5
+You have been hired to analyze the web traffic of IoT devices in order to determine the purpose of each visited URL. Your task is to provide a JSON report for each URL, which should include the following keys: 'company', 'company_website', and 'result'. The 'company' key should contain the name of the company responsible for the URL, and the 'company_website' key should contain the website of that company. The 'result' key should specify the purpose of the domain, which could be one of the following: tracking, marketing, advertising, analytics, CDN, static server, DNS, or first-party host.
