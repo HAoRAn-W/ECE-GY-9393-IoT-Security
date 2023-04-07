@@ -1,0 +1,101 @@
+,remote_hostname,company,company_website,result
+2100,sensibo.com,Sensibo,sensibo.com,first-party host
+2101,untappd.com,Untappd,https://untappd.com/,first-party host
+2102,dedicatedpanel.com,DedicatedPanel,https://www.dedicatedpanel.com/,static server
+2103,swypeconnect.com,SwypeConnect,https://swypeconnect.com/,CDN
+2104,yetwp.com,YETWP,https://yetwp.com/,Unknown
+2105,smartnews.com,SmartNews,https://www.smartnews.com/,news aggregation
+2106,moviesanywhere.com,Movies Anywhere,moviesanywhere.com,CDN
+2107,quickconnect.cn,Qihoo 360,https://www.360.cn/,CDN
+2108,tenjin.io,Tenjin,https://www.tenjin.io/,analytics
+2109,com.ru,,,
+2110,kpn.net,KPN,https://www.kpn.com/,DNS
+2111,nstorage.org,Najafov Storage,najafov.com,static server
+2112,caiway.nl,Caiway,https://www.caiway.nl/,DNS
+2113,tequilaboomboom.club,Tequila Boom Boom Club,tequilaboomboom.club,marketing
+2114,edolphin.site,,,
+2115,icn.ua,ICN,https://icn.ua/,DNS
+2116,mts-chita.ru,MTS,https://www.mts.ru/,First-party host
+2117,telmtproto.club,Unknown,,DNS
+2118,wellhosted.ch,Wellhosted,https://www.wellhosted.ch/,Static server
+2119,aspadmin.net,ASPAdmin,https://www.aspadmin.net/,First-party host
+2120,steadfastdns.net,Steadfast,https://www.steadfast.net/,DNS
+2121,research.com,Research.com,https://www.research.com/,analytics
+2122,group-ib.com,Group-IB,https://www.group-ib.com/,security company website
+2123,warezwaldo.org,,,
+2124,ip-54-36-110.eu,OVH SAS,https://www.ovh.com/,DNS
+2125,lazerpenguin.com,Lazer Penguin,https://www.lazerpenguin.com/,first-party host
+2126,ftp.sh,FTP protocol,https://tools.ietf.org/html/rfc959,file transfer protocol used for transferring files between network hosts
+2127,torrentapi.org,TorrentAPI,https://torrentapi.org/,CDN
+2128,eztv.io,EZTV,https://eztv.io/,first-party host
+2129,eztv.ag,EZTV,https://eztv.io/,first-party host
+2130,limetorrents.info,LimeTorrents,limetorrents.info,Torrent tracking website
+2131,zooqle.com,Zooqle,https://zooqle.com/,first-party host
+2132,thepiratebay.org,The Pirate Bay,https://thepiratebay.org/,first-party host
+2133,hypixel.net,Hypixel Studios,https://hypixelstudios.com/,first-party host
+2134,syncthing.net,Syncthing,https://syncthing.net/,static server
+2135,avistaz.to,Avistaz,https://avistaz.to,first-party host
+2136,athom.com,Athom,athom.com,first-party host
+2137,ip-192-99-14.net,OVH Hosting,https://www.ovh.com/,CDN
+2138,clipperoint.com,Clipperoint,clipperoint.com,marketing
+2139,t-ipconnect.de,Deutsche Telekom AG,https://www.telekom.com/en,DNS
+2140,privacy-center.org,Privacy Center,privacy-center.org,DNS
+2141,verisign.com,Verisign,https://www.verisign.com/,DNS
+2142,gotomeeting.com,GoToMeeting,https://www.gotomeeting.com/,video conferencing and online meeting platform
+2143,expertcity.com,Expertcity,https://www.expertcity.com,first-party host
+2144,symcd.com,Symantec Corporation,https://www.symantec.com/,CDN
+2145,foxitsoftware.com,Foxit Software,https://www.foxitsoftware.com/,first-party host
+2146,corusappservices.com,Corus,corusent.com,first-party host
+2147,globaltv.com,Global Television Network,https://www.globaltv.com/,first-party host
+2148,ddns3-instar.de,INSTAR,https://www.instar.com/,DNS
+2149,xnet.ro,Xnet,https://xnet.ro/,first-party host
+2150,rovicorp.com,Rovi Corporation,https://www.rovicorp.com/,analytics
+2151,airbnb.com,Airbnb,airbnb.com,first-party host
+2152,privacymanager.io,PrivacyManager,https://privacymanager.io/,DNS
+2153,umbrella.com,Umbrella Corporation,https://www.umbrellacorporation.com,static server
+2154,assoc-amazon.com,Amazon,www.amazon.com,CDN
+2155,forgesvc.net,Microsoft Corporation,https://www.microsoft.com/,CDN
+2156,craigslist.org,Craigslist,www.craigslist.org,First-party host
+2157,linksys.com,Linksys,linksys.com,first-party host
+2158,klaviyo.com,Klaviyo,https://www.klaviyo.com/,marketing
+2159,byteoversea.net,Byte Oversea,https://byteoversea.net/,CDN
+2160,trendmicro.com,Trend Micro,http://www.trendmicro.com,first-party host
+2161,ryanair.com,Ryanair,https://www.ryanair.com/,first-party host
+2162,pi-charter.net,Private Internet Access,https://www.privateinternetaccess.com/,VPN provider - first-party host
+2163,irdeto.com,Irdeto,www.irdeto.com,First-party host
+2164,dropboxstatic.com,Dropbox,https://www.dropbox.com/,static server
+2165,cdnjquery.com,Microsoft,https://www.microsoft.com/,CDN
+2166,bamlabs.com,Bank of America,https://www.bankofamerica.com/,first-party host
+2167,aptible.in,Aptible,https://www.aptible.com/,First-party host
+2168,lankadeepa.lk,Lankadeepa,lankadeepa.lk,first-party host
+2169,opera.software,Opera Software,https://www.opera.com/,first-party host
+2170,dmxleo.com,DMXLEO,https://dmxleo.com/,marketing
+2171,bmo.com,BMO Financial Group,https://www.bmo.com,first-party host
+2172,livesegmentservice.com,LiveSegmentService,https://www.livesegmentservice.com/,CDN
+2173,actcorp.in,ACT Fibernet,https://www.actcorp.in/,first-party host
+2174,telesp.net.br,Telecomunicações de São Paulo S.A. - TELESP,http://www.telefonica.com.br/,DNS
+2175,wi-power.com,Wi-Power,wi-power.com,CDN
+2176,megalinkcorp.com.br,,,
+2177,itans.com.br,ITANS,itans.com.br,first-party host
+2178,etapanet.net,EtaPanet,https://www.etapanet.net/,DNS
+2179,imsbiz.com,IMS,imsbiz.com,marketing
+2180,maisnet.srv.br,,,static server
+2181,nastech.bg,Nastech,nastech.bg,first-party host
+2182,dg-w.de,DGW,https://dg-w.de,First-party host
+2183,cecollect.com,Clickagy,https://www.clickagy.com/,tracking
+2184,datapacket.com,DataPacket,https://www.datapacket.com,CDN
+2185,epsonconnect.com,Epson,https://epson.com/,First-party host
+2186,playfabapi.com,PlayFab,https://playfab.com/,API for game development and management
+2187,inq.com,In-Q-Tel,https://www.iqt.org/,first-party host
+2188,schoolwires.com,Schoolwires,https://www.schoolwires.com/,first-party host
+2189,userzoom.com,UserZoom,https://www.userzoom.com/,analytics
+2190,ups.com,UPS,https://www.ups.com/,shipping and logistics services
+2191,myzmodo.com,Zmodo,https://www.zmodo.com/,first-party host
+2192,imgbox.com,Imgbox,https://imgbox.com,static server
+2193,bilsyndication.com,BilSyndication,https://www.bilsyndication.com/,advertising
+2194,udmserve.net,Ubiquiti,https://www.ui.com/,CDN
+2195,histats.com,Histats,https://www.histats.com/,analytics
+2196,adform.net,Adform,https://site.adform.com/,advertising
+2197,dca0.com,,,
+2198,lqm.io,LQM,https://www.lqm.io/,analytics
+2199,ttnet.com.tr,TTNET,https://www.ttnet.com.tr/,first-party host

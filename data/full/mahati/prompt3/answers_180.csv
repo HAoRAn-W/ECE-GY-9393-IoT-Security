@@ -1,0 +1,21 @@
+,remote_hostname,company,company_website,result
+180,itunes.com,Apple Inc.,www.apple.com,CDN
+181,honeywell.com,Honeywell,https://www.honeywell.com/,first-party host
+182,game-mode.net,Game Mode,https://game-mode.net/,marketing
+183,images-amazon.com,Amazon,https://www.amazon.com,CDN
+184,sfx.ms,Microsoft,https://www.microsoft.com/,CDN
+185,usinternet.com,US Internet,usinternet.com,first-party host
+186,leanplum.com,Leanplum,https://www.leanplum.com/,marketing
+187,wikimedia.org,Wikimedia Foundation,https://wikimediafoundation.org/,first-party host
+188,adjust.com,Adjust,https://www.adjust.com/,analytics
+189,mozilla.net,Mozilla,https://www.mozilla.org/,first-party host
+190,pinterest.com,Pinterest,https://www.pinterest.com/,marketing
+191,phncdn.com,Pornhub,https://www.pornhub.com/,CDN
+192,skype.com,Microsoft Corporation,https://www.microsoft.com/,CDN
+193,mozilla.com,Mozilla Corporation,https://www.mozilla.org/,First-party host
+194,dropbox.com,Dropbox,https://www.dropbox.com/,file storage and collaboration
+195,trustarc.com,TrustArc,https://www.trustarc.com/,analytics
+196,dropboxapi.com,Dropbox,www.dropbox.com,CDN
+197,ssl-images-amazon.com,Amazon,https://www.amazon.com,static server
+198,wikipedia.org,"Wikimedia Foundation, Inc.",https://wikimediafoundation.org/,first-party host
+199,audible.com,Audible,www.audible.com,first-party host

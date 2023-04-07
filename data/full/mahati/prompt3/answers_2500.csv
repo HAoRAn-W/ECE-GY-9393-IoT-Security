@@ -1,0 +1,101 @@
+,remote_hostname,company,company_website,result
+2500,vonagenetworks.net,Vonage Networks,https://www.vonage.com/,CDN
+2501,dgosvc.com,DGOSVC,https://dgosvc.com/,CDN
+2502,myshopapps.com,MyShopApps,https://myshopapps.com/,marketing
+2503,logentries.com,Logentries,https://logentries.com/,analytics
+2504,xiaoyi.com,Xiaomi,https://www.mi.com/,First-party host
+2505,proofpoint.com,Proofpoint,https://www.proofpoint.com/,marketing
+2506,desire2learn.com,Desire2Learn,www.d2l.com,first-party host
+2507,online-metrix.net,Online Metrix,https://www.online-metrix.net/,analytics
+2508,ezoic.net,Ezoic,https://www.ezoic.com/,CDN
+2509,dishtech.us,DISH Technologies,https://www.dish.com/,CDN
+2510,pearson.com,Pearson,pearson.com,First-party host
+2511,eemanager.net,EE Manager,https://eemanager.net/,analytics
+2512,rcncustomer.com,RCN,https://www.rcn.com/,first-party host
+2513,ip-51-91-212.eu,,,
+2514,wdc.com,Western Digital,www.wdc.com,Static Server
+2515,jumpdesktop.com,Jump Desktop,https://jumpdesktop.com/,CDN
+2516,ubianet.com,UbiaNet,ubianet.com,CDN
+2517,homeassurednow.com,Home Assured Now,https://homeassurednow.com,first-party host
+2518,ip-192-99-160.net,OVH,https://www.ovh.com/,CDN
+2519,teslamotors.com,Tesla,tesla.com,first-party host
+2520,slacker.com,Slacker Radio,www.slacker.com,music streaming service
+2521,slkimg.com,"Shenzhen Senlakang Technology Co., Ltd.",https://www.senlakang.com/,CDN
+2522,spotxcdn.com,SpotX,https://www.spotx.tv/,CDN
+2523,dvtps.com,DVT,https://www.dvtps.com/,CDN
+2524,b17g.net,Unknown,,CDN
+2525,foursquare.com,Foursquare,https://foursquare.com/,marketing
+2526,mgid.com,MGID,https://www.mgid.com/,advertising
+2527,businessinsider.com,Business Insider,https://www.businessinsider.com/,marketing
+2528,canal-plus.com,Canal+,https://www.canalplus.com/,first-party host
+2529,canalplus-cdn.net,Canal+,https://www.canalplus.com/,CDN
+2530,hispeed.ch,Swisscom,https://www.swisscom.ch/,DNS
+2531,ono.com,Ono,https://www.ono.es/,first-party host
+2532,jazztel.es,Jazztel,https://www.jazztel.es/,first-party host
+2533,bezeqint.net,Bezeq International,https://www.bezeqint.net/,DNS
+2534,lynet.no,LYNET,https://www.lynet.no/,DNS
+2535,adslplus.ch,ADSLPlus,https://adslplus.ch/,static server
+2536,grafana.org,Grafana Labs,https://grafana.com/,Analytics
+2537,evwi.net,Evolve Web Hosting,https://www.evolvehosting.io/,static server
+2538,jwpltx.com,JW Player,https://www.jwplayer.com/,first-party host
+2539,c-wss.com,Canon USA,https://www.usa.canon.com/,CDN
+2540,c-ij.com,Canon,https://www.canon.com/,first-party host
+2541,conductrics.com,Conductrics,https://conductrics.com/,marketing
+2542,vtr.net,VTR,https://www.vtr.com/,DNS
+2543,medium.com,Medium,https://medium.com/,first-party host
+2544,squeezenetwork.com,Logitech,https://www.logitech.com,first-party host
+2545,squeezecommunity.org,Squeeze Community,https://www.squeezecommunity.org/,First-party host
+2546,uci.edu,"University of California, Irvine",https://uci.edu/,first-party host
+2547,switchnap.com,Switchnap,switchnap.com,CDN
+2548,unpkg.com,unpkg,https://unpkg.com/,CDN
+2549,gotdns.ch,GotDNS,https://gotdns.ch/,DNS
+2550,ripe.net,RIPE NCC,https://www.ripe.net/,DNS
+2551,backplanedns.org,BackplaneDNS,https://backplanedns.org,DNS
+2552,muscache.com,Memcached,https://memcached.org/,CDN
+2553,debian.org,Debian,https://www.debian.org/,static server
+2554,persgroep.cloud,De Persgroep,https://www.dpgmedia.nl/,CDN
+2555,polarcdn-pentos.com,Pentos AG,https://pentos.com/,CDN
+2556,lijit.com,Lijit Networks,https://www.lijit.com/,advertising
+2557,justpremium.com,JustPremium,justpremium.com,advertising
+2558,cxense.com,Cxense,https://www.cxense.com/,Analytics
+2559,smartocto.com,SmartOcto,https://smartocto.com/,marketing
+2560,adhese.com,Adhese,https://adhese.com/,advertising
+2561,outbrain.org,Outbrain,https://www.outbrain.com/,Advertising
+2562,pushengage.com,PushEngage,https://pushengage.com/,marketing
+2563,adsymptotic.com,AdSymptotic,https://www.adsymptotic.com/,advertising
+2564,retailmenot.com,RetailMeNot,www.retailmenot.com,coupon and discount code website
+2565,ifood.tv,ifood.tv,https://www.ifood.tv/,first-party host
+2566,lgthinq.com,LG Electronics,https://www.lg.com/,First-party host
+2567,hom.ee,Hom.ee,https://hom.ee/,first-party host
+2568,adsco.re,Adscore,https://www.adscore.com,advertising
+2569,ak-is2.net,Akamai Technologies,https://www.akamai.com/,CDN
+2570,amung.us,Amung.us,https://www.amung.us/,analytics
+2571,geotrust.com,GeoTrust,www.geotrust.com,SSL/TLS Certificates provider
+2572,simpliftsbefore.info,Unknown,,marketing
+2573,garmin.com,Garmin,www.garmin.com,first-party host
+2574,worldstream.nl,WorldStream,https://www.worldstream.nl/,static server
+2575,emby.media,Emby Media,https://emby.media/,media server software
+2576,planeta.tc,,,
+2577,xmsecu.com,XM Security,xmsecu.com,first-party host
+2578,igexin.com,IGEXIN,https://www.igexin.com/,marketing
+2579,lovestv.es,Lovestv,lovestv.es,first-party host
+2580,jamfcloud.com,Jamf,https://www.jamf.com/,CDN
+2581,trello.com,Trello,https://trello.com/,first-party host
+2582,vungle.com,Vungle,vungle.com,advertising
+2583,homedepot.com,The Home Depot,https://www.homedepot.com,First-party host
+2584,homedepot-static.com,The Home Depot,https://www.homedepot.com/,static server
+2585,sunrise-sunset.org,Sunrise Sunset,https://www.sunrise-sunset.org/,static server
+2586,etsy.com,Etsy,https://www.etsy.com/,e-commerce marketplace
+2587,bnc.lt,Branch Metrics,https://branch.io/,Link management and analytics
+2588,dwin1.com,Unknown,N/A,tracking/analytics
+2589,kissmetrics.com,Kissmetrics,https://www.kissmetrics.com/,analytics
+2590,paessler.com,Paessler AG,https://www.paessler.com/,first-party host
+2591,hubspot.net,HubSpot,https://www.hubspot.com/,marketing
+2592,amazon.sa,Amazon,https://www.amazon.com/,e-commerce first-party host
+2593,siol.net,TSmedia,https://www.tsmedia.si/,marketing
+2594,singular.net,Singular,https://www.singular.net/,Marketing
+2595,cartocdn.com,CARTO,https://carto.com/,CDN
+2596,dvrlists.com,DVRLists,https://dvrlists.com/,DNS
+2597,yamaha.com,Yamaha,https://www.yamaha.com/,first-party host
+2598,telus.com,Telus,telus.com,first-party host
+2599,axia.com,Axia,axia.com,first-party host

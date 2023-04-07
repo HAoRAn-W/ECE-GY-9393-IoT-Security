@@ -1,0 +1,101 @@
+,remote_hostname,company,company_website,result
+900,cbsstatic.com,CBS,https://www.cbs.com/,static server
+901,firetvcaptiveportal.com,Amazon,https://www.amazon.com/,first-party host
+902,ubnt.com,Ubiquiti Networks,https://www.ui.com/,First-party host
+903,virginmedia.net,Virgin Media,https://www.virginmedia.com/,DNS
+904,dazn.com,DAZN,https://www.dazn.com,first-party host
+905,trkmenowapptwtree.site,Unknown,,tracking
+906,adgrx.com,AdGear,https://adgear.com/,Advertising
+907,samsungnyc.com,Samsung,www.samsung.com,First-party host
+908,tmodns.net,TMO DNS,https://www.t-mobile.com/,DNS
+909,myvzw.com,Verizon Wireless,https://www.verizonwireless.com/,first-party host
+910,ipip.net,IP Location,https://www.ipip.net/,DNS
+911,docker.io,Docker,https://www.docker.com/,CDN
+912,is-a-geek.com,Is A Geek,https://is-a-geek.com/,Static Server
+913,revenuecat.com,RevenueCat,https://www.revenuecat.com/,marketing
+914,visualstudio.com,Microsoft,https://www.microsoft.com,first-party host
+915,automatic.com,Automatic Labs,https://www.automatic.com/,marketing
+916,darksky.net,Dark Sky,https://darksky.net/,Weather data analytics
+917,coder.com,Coder,https://coder.com/,static server
+918,august.com,August Home,https://august.com/,first-party host
+919,nabu.casa,Nabu Casa,https://www.nabucasa.com/,first-party host
+920,nabucasa.com,Nabu Casa,https://www.nabucasa.com,First-party host
+921,ecouser.net,Ecosia,https://www.ecosia.org/,first-party host
+922,fortinet.net,Fortinet,https://www.fortinet.com/,DNS
+923,stripe.com,Stripe,https://stripe.com/,Payment processing platform
+924,jsdelivr.net,JsDelivr,https://www.jsdelivr.com/,CDN
+925,parastorage.com,Para,https://paraswap.io/,CDN
+926,crittercism.com,Crittercism,https://www.crittercism.com/,analytics
+927,wixstatic.com,Wix,https://www.wix.com/,static server
+928,getsitecontrol.com,GetSiteControl,https://getsitecontrol.com/,marketing
+929,wixapps.net,Wix,https://www.wix.com/,CDN
+930,wix.com,Wix,https://www.wix.com/,first-party host
+931,wtop.com,WTOP,https://wtop.com/,first-party host
+932,ngtv.io,ngtv,https://ngtv.io/,CDN
+933,claspws.tv,,,
+934,complex.com,Complex,https://www.complex.com/,"Media website focused on pop culture, music, sports, and sneakers"
+935,ifunny.co,iFunny,https://ifunny.co/,social media app for sharing funny pictures and videos
+936,suddenlink.net,Suddenlink,https://www.suddenlink.com/,first-party host
+937,wordpress.com,WordPress,https://wordpress.com/,First-party host
+938,w.org,WordPress Foundation,https://wordpressfoundation.org/,First-party host
+939,opmnstr.com,Omniture,https://www.adobe.com/analytics.html,analytics
+940,raspberrypi.org,Raspberry Pi Foundation,https://www.raspberrypi.org/,First-party host
+941,netdna-cdn.com,NetDNA,https://www.maxcdn.com/,CDN
+942,intercomcdn.com,Intercom,https://www.intercom.com,CDN
+943,vnc.com,RealVNC,https://www.realvnc.com/,remote access software
+944,realvnc.com,RealVNC,realvnc.com,first-party host
+945,utexas.edu,University of Texas at Austin,https://www.utexas.edu/,first-party host
+946,getpocket.com,Pocket,https://getpocket.com/,analytics
+947,wordpress.org,WordPress,https://wordpress.org/,First-party host
+948,grammarly.com,Grammarly,grammarly.com,first-party host
+949,grammarly.io,Grammarly,https://www.grammarly.com/,first-party host
+950,grammarlyaws.com,,,
+951,dnsomatic.com,DNS-O-Matic,https://dnsomatic.com/,DNS
+952,adafruit.com,Adafruit,https://www.adafruit.com/,first-party host
+953,criminalip.com,Criminal IP,https://www.criminalip.com/,tracking
+954,censys.io,Censys,https://censys.io/,analytics
+955,onyphe.io,Onyphe,https://www.onyphe.io/,analytics
+956,raygun.io,Raygun,https://raygun.com/,analytics
+957,hbogo.eu,HBO,https://www.hbo.com/,Streaming service for HBO content
+958,sc-jpl.com,SC Johnson Professional,https://www.scjp.com/,first-party host
+959,yr.no,NRK,https://www.nrk.no/,weather forecasting and related services
+960,wunderlist.com,Wunderlist,https://www.wunderlist.com/,first-party host
+961,fdn.fr,French Data Network,https://www.fdn.fr/,DNS
+962,proxad.net,Free SAS,https://www.free.fr/,CDN
+963,free.fr,Free SAS,https://www.free.fr/,static server
+964,deezer.com,Deezer,www.deezer.com,Music streaming service
+965,freebox.fr,Free,https://www.free.fr/,first-party host
+966,fbx-mgt.fr,Facebook,https://www.facebook.com/,Advertising
+967,stackexchange.com,Stack Exchange,https://stackexchange.com/,Q&A community website
+968,wistia.com,,,
+969,oracle.com,Oracle Corporation,oracle.com,First-party host
+970,ccg-lenovo.com,Lenovo,https://www.lenovo.com/,first-party host
+971,getgreenshot.org,Greenshot,https://getgreenshot.org/,Static server
+972,faktor.io,Faktor,https://faktorzehn.org/,first-party host
+973,royalpurplebathkitchen.com,Royal Purple Bath Kitchen,https://www.royalpurplebathkitchen.com/,First-party host
+974,edgesuite.net,Akamai Technologies,https://www.akamai.com/,CDN
+975,cddbp.net,Gracenote,https://www.gracenote.com/,tracking
+976,dailymotion.com,Dailymotion,www.dailymotion.com,CDN
+977,dmcdn.net,Akamai Technologies,https://www.akamai.com/,CDN
+978,level3.net,Level 3 Communications,https://www.centurylink.com/business.html,CDN
+979,hockeyapp.net,Microsoft,https://www.microsoft.com/,CDN
+980,micpn.com,MICPN,https://www.micpn.com/,CDN
+981,taobao.com,Alibaba Group,alibabagroup.com,e-commerce platform
+982,aliyuncs.com,Alibaba Cloud,https://www.alibabacloud.com/,CDN
+983,samsungsmartcam.com,Samsung,https://www.samsung.com/,marketing
+984,duosecurity.com,Duo Security,duo.com,first-party host
+985,e2ma.net,Emma,https://myemma.com/,Email marketing platform
+986,xboxab.com,Microsoft Corporation,https://www.microsoft.com/,First-party host
+987,cdngslb.com,GSLB,http://www.gslb.com,CDN
+988,msftconnecttest.com,Microsoft Corporation,https://www.microsoft.com/,DNS
+989,umeng.com,Umeng,https://www.umeng.com/,analytics
+990,sectigo.com,Sectigo,https://sectigo.com/,first-party host
+991,biliapi.com,Bilibili,https://www.bilibili.com/,API for online entertainment platform
+992,bilibili.com,Bilibili,https://www.bilibili.com/,first-party host
+993,wideopenwest.com,WideOpenWest,https://www.wowway.com/,first-party host
+994,asus.com,ASUS,asus.com,First-party host
+995,itv.com,ITV,https://www.itv.com/,First-party host
+996,lyft.com,Lyft,lyft.com,first-party host
+997,llnw.net,,,
+998,llnwi.net,LeaseWeb CDN,https://www.leaseweb.com/,CDN
+999,nextdoor.com,Nextdoor,www.nextdoor.com,first-party host

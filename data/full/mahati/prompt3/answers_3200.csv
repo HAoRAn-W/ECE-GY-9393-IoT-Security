@@ -1,0 +1,101 @@
+,remote_hostname,company,company_website,result
+3200,brightspotcdn.com,Brightspot,https://www.brightspot.com/,CDN
+3201,symbiant.io,,,
+3202,wfu.edu,Wake Forest University,https://www.wfu.edu/,first-party host
+3203,jobcase.com,Jobcase,https://www.jobcase.com/,first-party host
+3204,mainframe2.com,Mainframe2,https://www.mainframe2.com/,CDN
+3205,myfoscam.com,Foscam,foscam.com,first-party host
+3206,p85.live,,,
+3207,tinkercad.com,Tinkercad,https://www.tinkercad.com/,first-party host
+3208,anker-in.com,Anker,https://www.anker.com/,First-party host
+3209,eufylife.com,Eufy,eufylife.com,First-party host
+3210,evergreen.space,Evergreen Space,https://evergreen.space,First-party host
+3211,pushover.net,Pushover,https://pushover.net/,First-party host
+3212,cprapid.com,CPRapid,https://cprapid.com/,marketing
+3213,channeladvisor.com,ChannelAdvisor,https://www.channeladvisor.com/,marketing
+3214,rainmachine.com,RainMachine,https://www.rainmachine.com/,first-party host
+3215,fedoraproject.org,Fedora Project,https://getfedora.org/,first-party host
+3216,phuket.com,Phuket.com,https://www.phuket.com/,first-party host
+3217,multidoge.org,,,
+3218,abuse.ch,abuse.ch,https://abuse.ch/,DNS
+3219,nouvelobs.com,Le Nouvel Observateur,https://www.nouvelobs.com/,news website (first-party host)
+3220,ibroadlink.com,BroadLink,www.ibroadlink.com,first-party host
+3221,broadlink.com.cn,BroadLink,https://www.ibroadlink.com/,first-party host
+3222,lswf.net,"Beijing LinkSure Software Development Co., Ltd",http://www.wifi.com/,CDN
+3223,tplinknbu.com,TP-Link,https://www.tp-link.com/,DNS
+3224,adroll.com,AdRoll,https://www.adroll.com/,marketing
+3225,gandi.net,Gandi,https://www.gandi.net/,DNS
+3226,telegraph.co.uk,The Telegraph,www.telegraph.co.uk,first-party host
+3227,wemo2.com,Belkin,https://www.belkin.com/,unknown
+3228,admarvel.com,AdMarvel,https://www.admarvel.com/,advertising
+3229,tfgco.com,TFG Co.,tfgco.com,unknown
+3230,nanit.com,Nanit,nanit.com,marketing
+3231,hotbl.xyz,Hotbl,hotbl.xyz,marketing
+3232,zype.com,Zype,https://zype.com,CDN
+3233,naleapprength.xyz,,,
+3234,vbspbx.com,,,
+3235,ozarksgo.net,OzarksGo,https://www.ozarksgo.net/,DNS
+3236,easy4ipcloud.com,Hikvision,https://www.hikvision.com/,CDN
+3237,alienvault.cloud,AlienVault,https://www.alienvault.com/,CDN
+3238,baobei.co.uk,Baobei,baobei.co.uk,undetermined
+3239,orbwebsys.com,OrbWeb Inc.,https://www.orbweb.com/,CDN
+3240,hubble.in,Hubble,https://www.hubblecontacts.com/,first-party host
+3241,tum.de,Technical University of Munich,www.tum.de,first-party host
+3242,glesys.net,GleSYS,https://glesys.com/,static server
+3243,airbnb.cn,Airbnb,www.airbnb.com,First-party host
+3244,airbnb.pl,Airbnb,www.airbnb.com,First-party host
+3245,air.tl,Airline Ticketing Limited,https://www.air.tl/,marketing
+3246,yieldmo.com,Yieldmo,yieldmo.com,Advertising
+3247,stanza.co,Stanza,stanza.co,marketing
+3248,yottaa.net,Yottaa,https://www.yottaa.com,CDN
+3249,samsungrs.com,Samsung,www.samsung.com,first-party host
+3250,adtdp.com,ADT,https://www.adt.com/,marketing
+3251,ultradns.net,Neustar,https://www.home.neustar/,DNS
+3252,airtiescloud.com,AirTies,https://www.airties.com/,CDN
+3253,pythonhosted.org,Python Software Foundation,https://www.python.org/,static server
+3254,gitlab.com,GitLab,https://about.gitlab.com/,first-party host
+3255,piwheels.org,Piwheels,https://piwheels.org/,static server
+3256,dsmynas.org,Synology,https://www.synology.com/,first-party host
+3257,swisscom.ch,Swisscom,https://www.swisscom.ch/,first-party host
+3258,paulmharwood.info,Paul M Harwood,paulmharwood.info,First-party host
+3259,wiktel.com,WikTel,wiktel.com,Static server
+3260,virtual1.co.uk,Virtual1,https://www.virtual1.co.uk/,CDN
+3261,mtproto.world,Telegram,https://telegram.org/,CDN
+3262,inversepath.com,Inverse Path,https://inversepath.com/,static server
+3263,ip-37-187-0.eu,OVH,https://www.ovh.com/,Static server
+3264,mdl.net,McAfee,https://www.mcafee.com/,analytics
+3265,arduino.cc,Arduino,https://www.arduino.cc/,First-party host
+3266,microvolts.com,Rock Hippo Productions Ltd.,https://www.rockhippo.com/,Gaming company website
+3267,ifit.com,iFit,https://www.ifit.com/,first-party host
+3268,tumblr.com,Tumblr,https://www.tumblr.com/,first-party host
+3269,exprsdns.net,ExpressVPN,https://www.expressvpn.com/,DNS
+3270,mcusercontent.com,Mailchimp,https://mailchimp.com/,CDN
+3271,elnics.com,Elnics,https://www.elnics.com/,static server
+3272,trendmd.com,TrendMD,https://www.trendmd.com/,marketing
+3273,px-cloud.net,Pulse Secure,https://www.pulsesecure.net/,CDN
+3274,izeni.net,IZENI,https://www.izeni.net/,first-party host
+3275,solaredge.com,SolarEdge,https://www.solaredge.com/,First-party host
+3276,locuslabs.com,LocusLabs,locuslabs.com,first-party host
+3277,fmtcs.com,FMTC,https://www.fmtc.co/,marketing
+3278,msocsp.com,Microsoft,https://www.microsoft.com,CDN
+3279,tula.net,Tula,https://www.tula.com/,first-party host
+3280,slt.lk,Sri Lanka Telecom,https://www.slt.lk/,DNS
+3281,getinternet.no,GetInternet,https://getinternet.no/,DNS
+3282,swio.jp,Smart Wireless Innovation Organization,https://www.swio.jp/,first-party host
+3283,beanfield.net,Beanfield,https://www.beanfield.com/,static server
+3284,openstreetmap.org,OpenStreetMap Foundation,https://www.osmfoundation.org/,static server
+3285,via.net,ViaNet Communications,https://vianet.com.np/,CDN
+3286,amcrestddns.com,Amcrest,https://amcrest.com/,DNS
+3287,nochost.ru,Nochost,https://nochost.ru,DNS
+3288,reolink.com,Reolink,https://reolink.com/,First-party host
+3289,mywire.org,,,
+3290,instantink.com,HP Inc.,https://www.hp.com/,marketing
+3291,kddi.ne.jp,KDDI Corporation,https://www.kddi.com,first-party host
+3292,cablelynx.com,Cablelynx,https://www.cablelynx.com/,First-party host
+3293,pinterest.de,Pinterest,https://www.pinterest.com/,marketing
+3294,ispworkshop.com,ISP Workshop,https://www.ispworkshop.com/,first-party host
+3295,dyson.com,Dyson,https://www.dyson.com/,first-party host
+3296,trackedweb.net,TrackedWeb,https://trackedweb.net/,tracking
+3297,naz.com,Naz,naz.com,first-party host
+3298,unifi-ai.com,Ubiquiti Networks,https://www.ui.com/,Analytics
+3299,launchpad.net,Canonical Ltd.,https://www.ubuntu.com/,first-party host
