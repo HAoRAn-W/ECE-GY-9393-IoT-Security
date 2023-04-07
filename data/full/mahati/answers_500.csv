@@ -1,0 +1,101 @@
+,remote_hostname,company,company_website,result
+500,digicert.com,DigiCert,https://www.digicert.com/,DNS
+501,netgear.com,Netgear,https://www.netgear.com/,first-party host
+502,globalsign.net,GlobalSign,https://www.globalsign.com/,DNS
+503,trafficmanager.net,Microsoft,https://www.microsoft.com/,CDN
+504,tnt-ea.com,TNT Express,https://www.tnt.com/,CDN
+505,origin.com,Electronic Arts,https://www.ea.com/,first-party host
+506,google.cn,Google,https://www.google.com/,DNS
+507,lenovo.com.cn,Lenovo,https://www.lenovo.com/,first-party host
+508,nest.com,Nest,nest.com,first-party host
+509,telstra.com,Telstra,https://www.telstra.com/,first-party host
+510,monoprice.com,Monoprice,www.monoprice.com,e-commerce
+511,charter.com,Charter Communications,https://www.spectrum.com/,first-party host
+512,spectrum.net,Spectrum,https://www.spectrum.com/,first-party host
+513,timewarnercable.com,Time Warner Cable,https://www.timewarnercable.com/,First-party host
+514,github.io,GitHub,https://github.com/,static server
+515,fastly.net,Fastly,https://www.fastly.com/,CDN
+516,google.de,Google,https://www.google.com/,search engine
+517,yandex.net,Yandex,https://yandex.com,CDN
+518,google.com.br,Google,www.google.com,first-party host
+519,vewd.com,Vewd,https://www.vewd.com/,CDN
+520,soundcloud.com,SoundCloud,https://soundcloud.com/,first-party host
+521,hbomax.com,HBO Max,https://www.hbomax.com/,first-party host
+522,cox.net,Cox Communications,www.cox.com,First-party host
+523,vultr.com,Vultr Holdings Corporation,https://www.vultr.com/,CDN
+524,a1.net,A1 Telekom Austria,https://www.a1.net/,DNS
+525,stretchoid.com,,,
+526,arbor-observatory.com,Arbor Observatory,arbor-observatory.com,analytics
+527,identrust.com,IdentTrust,https://www.identrust.com/,DNS
+528,censys-scanner.com,Censys,https://censys.io/,analytics
+529,lencr.org,Lencr,https://www.lencr.org/,first-party host
+530,gmx.net,GMX,https://www.gmx.com/,First-party host
+531,seattlespectrum.com,Seattle Spectrum,seattlespectrum.com,first-party host
+532,sentry.io,Sentry,https://sentry.io/,analytics
+533,nyu.edu,New York University,https://www.nyu.edu/,First-party host
+534,blogspot.com,Google,https://www.google.com/,first-party host
+535,tiqcdn.com,Tealium,https://tealium.com/,CDN
+536,mysamba.tv,Samba TV,https://samba.tv/,analytics
+537,crackle.com,Crackle,www.crackle.com,streaming platform for movies and TV shows
+538,flickr.com,Flickr,https://www.flickr.com/,static server
+539,samsungcloudcdn.com,Samsung,https://www.samsung.com,CDN
+540,code.org,Code.org,https://code.org/,first-party host
+541,homeunix.net,Homeunix,http://homeunix.net/,static server
+542,myharmony.com,Logitech,https://www.logitech.com,first-party host
+543,sbcglobal.net,AT&T,https://www.att.com/,DNS
+544,vimeo.com,Vimeo,https://vimeo.com/,static server
+545,onlinehome-server.com,1&1 IONOS,https://www.ionos.com/,static server
+546,vimeocdn.com,Vimeo,https://vimeo.com/,CDN
+547,nvidiagrid.net,NVIDIA,https://www.nvidia.com,CDN
+548,tegrazone.com,NVIDIA Corporation,https://www.nvidia.com/,marketing
+549,windows.net,Microsoft,https://www.microsoft.com/,CDN
+550,steamstatic.com,Valve Corporation,https://www.valvesoftware.com/,static server
+551,steam-chat.com,Valve Corporation,https://www.valvesoftware.com/,first-party host
+552,msauth.net,Microsoft Corporation,https://www.microsoft.com,DNS
+553,geforce.com,Nvidia,https://www.nvidia.com/,First-party host
+554,onenote.net,Microsoft,https://www.microsoft.com/,First-party host
+555,king.com,King,https://www.king.com/,marketing
+556,sway-cdn.com,,,
+557,akamai.com,Akamai Technologies,https://www.akamai.com/,CDN
+558,gfsvc.com,Global Financial Services,gfsvc.com,Marketing
+559,ghostery.com,Ghostery,https://www.ghostery.com/,analytics
+560,brave.com,Brave Software,https://brave.com/,first-party host
+561,flathub.org,Flathub,https://flathub.org/,static server
+562,mobileapptracking.com,Tune,https://www.tune.com/,tracking
+563,ravenjs.com,Sentry,https://sentry.io/,analytics
+564,nordvpn.com,NordVPN,nordvpn.com,VPN service provider
+565,nel.goog,Google,https://www.google.com/,CDN
+566,gvt3.com,GVT,https://www.vivo.com.br/para-voce,unknown
+567,cnevids.com,CN,https://www.cn.ca/,CDN
+568,showtimeanytime.com,Showtime,https://www.showtime.com/,first-party host
+569,showtime.com,Showtime,https://www.showtime.com/,marketing
+570,bell.ca,Bell Canada,https://www.bell.ca/,first-party host
+571,muug.ca,Manitoba Unix User Group,https://muug.ca/,first-party host
+572,cbc.ca,CBC,https://www.cbc.ca/,first-party host
+573,netflixdnstest10.com,Netflix,https://www.netflix.com/,DNS
+574,sonymobile.com,Sony Mobile,https://www.sonymobile.com/,first-party host
+575,lync.com,Microsoft,https://www.microsoft.com/,first-party host
+576,oneplus.net,OnePlus,https://www.oneplus.com/,First-party host
+577,appsflyer.com,AppsFlyer,https://www.appsflyer.com/,analytics
+578,appboy.com,Appboy,https://www.appboy.com/,marketing
+579,qq.com,Tencent,https://www.tencent.com/en-us/,first-party host
+580,xlink.cn,"Shenzhen Xlink Communication Co., Ltd.",http://www.xlink.cn/,IoT device management platform
+581,apester.com,Apester,https://apester.com/,analytics
+582,speedcurve.com,SpeedCurve,https://speedcurve.com/,analytics
+583,exelator.com,Exelate,https://www.exelate.com/,marketing
+584,nr-data.net,New Relic,https://newrelic.com/,analytics
+585,bluekai.com,BlueKai,https://www.oracle.com/bluekai/,tracking
+586,adsafeprotected.com,Integral Ad Science,https://integralads.com/,advertising
+587,researchnow.com,Dynata,https://www.dynata.com/,market research
+588,newrelic.com,New Relic,https://newrelic.com,analytics
+589,spot.im,Spot.IM,https://www.spot.im/,analytics
+590,nielsencollections.com,Nielsen,nielsen.com,marketing
+591,cdk.com,CDK Global,https://www.cdkglobal.com/,marketing
+592,hulustream.com,,,
+593,huluim.com,Hulu,https://www.hulu.com/,first-party host
+594,brightline.tv,Brightline,https://www.brightline.tv/,marketing
+595,internetvideoarchive.net,Internet Video Archive,https://www.internetvideoarchive.com/,CDN
+596,cookbooks.trade,Unknown,,DNS
+597,avast.com,Avast,avast.com,Antivirus and security software
+598,azurewebsites.net,Microsoft,https://www.microsoft.com/,CDN
+599,yimg.com,Yahoo,https://www.yahoo.com/,CDN

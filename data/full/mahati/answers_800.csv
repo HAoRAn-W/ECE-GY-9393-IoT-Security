@@ -1,0 +1,101 @@
+,remote_hostname,company,company_website,result
+800,fanart.tv,Fanart.TV,https://fanart.tv/,static server
+801,phicdn.net,Photon,https://photon.io/,CDN
+802,podnapisi.net,Podnapisi,https://www.podnapisi.net/,first-party host
+803,appcenter.ms,Microsoft,https://www.microsoft.com,CDN
+804,mcafee.com,McAfee,mcafee.com,first-party host
+805,letsencrypt.org,Let's Encrypt,https://letsencrypt.org/,DNS
+806,volutionwarness.site,Unknown,,Advertising
+807,casalemedia.com,Casale Media,https://casalemedia.com/,advertising
+808,media.net,Media.net,https://www.media.net/,advertising
+809,telephony.goog,Google,https://www.google.com/,DNS
+810,districtm.io,District M,https://districtm.io/,Advertising
+811,sharethrough.com,Sharethrough,https://www.sharethrough.com/,advertising
+812,paypalobjects.com,PayPal,https://www.paypal.com/,CDN
+813,crwdcntrl.net,Oracle Data Cloud,https://www.oracle.com/datacloud/,advertising
+814,1rx.io,1Rx.io,https://1rx.io/,analytics
+815,33across.com,33Across,https://www.33across.com/,advertising
+816,clean.gg,,,
+817,smadex.com,Smadex,https://smadex.com/,advertising
+818,slackb.com,"Slack Technologies, Inc.",https://slack.com/,first-party host
+819,verizon.com,Verizon,verizon.com,first-party host
+820,cdn77.org,CDN77,https://www.cdn77.com/,CDN
+821,radar.io,Radar,https://radar.io/,location tracking
+822,emb-api.com,EMB,https://www.emb.com,API provider
+823,instabug.com,Instabug,https://instabug.com/,analytics
+824,blinkreceipt.com,BlinkReceipt,https://www.blinkreceipt.com/,analytics
+825,marketingcloudapis.com,Salesforce,https://www.salesforce.com/,marketing
+826,vzmessages.com,Verizon,www.verizon.com,marketing
+827,iotinspector.org,Princeton University,https://iotinspector.org/,Analytics
+828,ab1n.net,AB1N,https://ab1n.net/,CDN
+829,signalr.net,Microsoft,https://www.microsoft.com/,Real-time web functionality such as chat or gaming
+830,wunderground.com,Weather Underground,www.wunderground.com,first-party host
+831,akstat.io,Akamai Technologies,https://www.akamai.com/,CDN
+832,sharepoint.com,Microsoft,https://www.microsoft.com/,first-party host
+833,inmobi.com,InMobi,https://www.inmobi.com/,advertising
+834,applovin.com,AppLovin,https://www.applovin.com/,advertising
+835,aerserv.com,AerServ,https://www.aerserv.com/,advertising
+836,safedk.com,SafeDK,https://www.safedk.com/,SDK for mobile app publishers to manage and monitor the third-party SDKs integrated in their app
+837,inmobicdn.net,InMobi,https://inmobi.com/,CDN
+838,zynga.com,Zynga,zynga.com,first-party host
+839,glympse.com,Glympse,https://glympse.com/,first-party host
+840,qnap.com,QNAP,https://www.qnap.com/,first-party host
+841,cbsi.com,CBS Interactive,https://www.cbsinteractive.com/,first-party host
+842,bitmoji.com,Bitmoji,bitmoji.com,marketing
+843,cbsnews.com,CBS News,https://www.cbsnews.com/,news
+844,pubwise.io,PubWise,https://pubwise.io/,advertising
+845,winehq.org,WineHQ,https://www.winehq.org/,first-party host
+846,tivo.com,TiVo,tivo.com,first-party host
+847,me.com,Apple Inc.,www.apple.com,first-party host
+848,hkserverworks.com,HK Serverworks,https://hkserverworks.com/,static server
+849,smartmailcloud.com,SmartMail Cloud,https://www.smartmailcloud.com/,marketing
+850,backblaze.com,Backblaze,www.backblaze.com,CDN
+851,sprintlink.net,Sprint,https://www.sprint.com/,CDN
+852,airwire.ie,Airwire,https://www.airwire.ie/,first-party host
+853,accuweather.com,AccuWeather,https://www.accuweather.com/,weather forecasting and information website
+854,khoda.xyz,Khoda,khoda.xyz,Unknown purpose
+855,hismarttv.com,Hisense,https://www.hisense-usa.com/,first-party host
+856,bbctvapps.co.uk,BBC,https://www.bbc.com/,first-party host
+857,digitaluk.co.uk,Digital UK,digitaluk.co.uk,first-party host
+858,hubspot.com,HubSpot,https://www.hubspot.com/,marketing
+859,hs-analytics.net,HubSpot,https://www.hubspot.com/,analytics
+860,pingdom.net,Pingdom,https://www.pingdom.com/,CDN
+861,alexametrics.com,Alexa Internet,https://www.alexa.com,Analytics
+862,mxpnl.com,Mixpanel,https://mixpanel.com/,analytics
+863,ttvnw.net,The Trade Desk,https://thetradedesk.com/,advertising
+864,sekindo.com,Sekindo,https://www.sekindo.com/,advertising
+865,comodo.com,Comodo,comodo.com,DNS
+866,intel.com,Intel,intel.com,first-party host
+867,onenote.com,Microsoft,https://www.microsoft.com/,first-party host
+868,belkin.com,Belkin,https://www.belkin.com/,first-party host
+869,afrihost.co.za,Afrihost,https://www.afrihost.co.za/,first-party host
+870,dynu.com,Dynu,https://www.dynu.com/,DNS
+871,enphaseenergy.com,Enphase Energy,https://enphase.com/,First-party host
+872,mtpfast.pw,,,
+873,mydlink.com,D-Link,https://www.dlink.com/,first-party host
+874,hwclouds-dns.com,Huawei,https://www.huawei.com/,DNS
+875,xvideos.com,Xvideos,https://www.xvideos.com/,adult content
+876,xvideos-cdn.com,XVideos,https://www.xvideos.com/,CDN
+877,trafficfactory.biz,Traffic Factory,https://www.trafficfactory.biz/,advertising
+878,google.com.mx,Google,https://www.google.com/,First-party host
+879,touchtype-fluency.com,TouchType Ltd,https://www.touchtype-fluency.com/,marketing
+880,pelmorex.com,Pelmorex,https://www.pelmorex.com/,analytics
+881,ted.com,TED Conferences LLC,https://www.ted.com/,marketing
+882,radiotime.com,RadioTime,https://radiotime.com/,First-party host
+883,molekule.com,Molekule,molekule.com,marketing
+884,bhvrdbd.com,,,
+885,giize.com,Giize,https://www.giize.com/,marketing
+886,amcnetworks.com,AMC Networks,https://www.amcnetworks.com/,first-party host
+887,capitalone.com,Capital One,https://www.capitalone.com/,first-party host
+888,poshmark.com,Poshmark,poshmark.com,marketing
+889,hoopladigital.com,Hoopla Digital,hoopladigital.com,static server
+890,gamepass.com,Microsoft,https://www.microsoft.com/,first-party host
+891,worldtimeserver.com,WorldTimeServer,https://www.worldtimeserver.com/,time zone and clock synchronization service
+892,web-rubika-ir.gq,,,
+893,authy.com,Authy,https://authy.com/,Authentication and security
+894,office.net,Microsoft,https://www.microsoft.com/,office.net is a first-party host domain used by Microsoft for providing access to their Office 365 suite of applications and services.
+895,fb.com,Facebook,https://www.facebook.com/,first-party host
+896,microsoftstream.com,Microsoft,https://www.microsoft.com,CDN
+897,onhub.here,HERE Technologies,https://www.here.com/,DNS
+898,cbsig.net,CBS Interactive,https://www.cbsinteractive.com/,Advertising
+899,syncbak.com,Syncbak,https://www.syncbak.com/,CDN

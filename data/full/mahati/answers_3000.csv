@@ -1,0 +1,101 @@
+,remote_hostname,company,company_website,result
+3000,bcube.co.uk,BCube Ltd.,https://www.bcube.co.uk/,first-party host
+3001,darnet.pl,Darnet,https://www.darnet.pl/,first-party host
+3002,veloxzone.com.br,Veloxzone,https://www.veloxzone.com.br/,first-party host
+3003,singnet.com.sg,Singtel,www.singtel.com,first-party host
+3004,arkada-x.com,Arkada-X,arkada-x.com,first-party host
+3005,coditel.net,Coditel,https://www.coditel.net/,first-party host
+3006,hawaiiantel.net,Hawaiian Telcom,https://www.hawaiiantel.com/,DNS
+3007,townisp.com,TownISP,https://townisp.com/,DNS
+3008,goip.de,GoIP,https://www.goip.de/,DNS
+3009,networx-bg.com,Networx-BG,networx-bg.com,static server
+3010,vertesnet.hu,Vertesnet,https://vertesnet.hu/,first-party host
+3011,openaq.org,OpenAQ,https://openaq.org/,analytics
+3012,weatherbug.com,WeatherBug,https://www.weatherbug.com/,weather tracking and forecasting
+3013,apl-alexa.com,"Amazon.com, Inc.",https://www.amazon.com/,static server
+3014,mmechocaptiveportal.com,Unknown,,Captive portal login page
+3015,asianet.co.th,Asianet,https://www.asianet.co.th/,first-party host
+3016,speedy.com.ar,Speedy,https://www.speedy.com.ar/,Internet Service Provider
+3017,au-net.ne.jp,Au Net,https://www.au-net.ne.jp/,DNS
+3018,vodafone.de,Vodafone,https://www.vodafone.com/,first-party host
+3019,pacificonet.cl,PacificoNet,https://www.pacificonet.cl/,first-party host
+3020,nwsvr1.com,,,
+3021,myseedbox.site,MySeedBox,https://myseedbox.site,static server
+3022,elisa-mobile.fi,Elisa,https://www.elisa.fi/,first-party host
+3023,inetia.pl,Inetia,https://inetia.pl/,First-party host
+3024,as9105.com,AS 9105,https://www.as9105.com/,DNS
+3025,mm.pl,MM,https://www.mm.pl/,marketing
+3026,prod-infinitum.com.mx,Prod Infinitum,https://www.infinitum.com.mx/,DNS
+3027,gvt.net.br,Governo do Brasil,https://www.gov.br/,DNS
+3028,fido.ca,Fido,https://www.fido.ca/,first-party host
+3029,euskaltel.es,Euskaltel,https://www.euskaltel.com/,first-party host
+3030,freenet.com.ua,Freenet Ukraine,https://www.freenet.com.ua/,DNS
+3031,elisa-laajakaista.fi,Elisa Corporation,https://www.elisa.fi/,DNS
+3032,espeed.com.bn,eSpeed Solutions,https://www.espeed.com.bn/,CDN
+3033,orange.pl,Orange Polska,https://www.orange.pl/,First-party host
+3034,vf.net.nz,Vodafone New Zealand,https://www.vodafone.co.nz/,DNS
+3035,uk.net,UK.NET,https://www.uk.net/,static server
+3036,skyware.pl,Skyware,skyware.pl,DNS
+3037,vsenet.de,VS Energy International,https://vsenergy.de/,First-party host
+3038,harvard.edu,Harvard University,https://www.harvard.edu/,first-party host
+3039,myaisfibre.com,AIS Fibre,https://www.ais.co.th/fibre/,First-party host
+3040,windx.com.br,WindX,https://windx.com.br/,first-party host
+3041,randomads.us,Random Ads,https://www.randomads.us/,advertising
+3042,radioburgerfuel.com,BurgerFuel,https://www.burgerfuel.com/,marketing
+3043,totalplay.net,Totalplay,https://totalplay.com.mx/,first-party host
+3044,rt.ru,Rostelecom,https://www.rt.ru/,CDN
+3045,dion.ne.jp,Dion,https://www.dion.ne.jp/,DNS
+3046,ertelecom.ru,ER-Telecom Holding,https://ertelecom.ru/,first-party host
+3047,ziggozakelijk.nl,Ziggo Zakelijk,https://www.ziggo.nl/zakelijk/,first-party host
+3048,kosnet.ru,KosNet,https://www.kosnet.ru/,static server
+3049,vsi.ru,VSI,https://www.vsi.ru/,DNS
+3050,numericable.fr,Numericable,https://www.numericable.fr/,first-party host
+3051,seedbox.io,Seedbox.io,https://seedbox.io/,static server
+3052,linkpc.net,LinkPC,https://www.linkpc.net/,static server
+3053,broadband.hu,Magyar Telekom,https://www.telekom.hu/,ISP and first-party host
+3054,byfly.by,Beltelecom,https://www.beltelecom.by/,DNS
+3055,telkomadsl.co.za,Telkom,https://www.telkom.co.za/,first-party host
+3056,telecom.by,Beltelecom,https://www.beltelecom.by/,DNS
+3057,bt-chat.com,BT-chat,bt-chat.com,first-party host
+3058,ip-91-121-171.eu,OVH SAS,https://www.ovh.com/,DNS
+3059,uzpak.uz,Uzbek Post,https://uzpost.uz/,CDN
+3060,dne.kz,DNE,https://www.dne.kz/,DNS
+3061,mm3019.com,Unknown,,Unknown purpose
+3062,epochtimes.com,Epoch Times,https://www.theepochtimes.com/,news and media
+3063,peelvalley.com.au,Peel Valley,peelvalley.com.au,First-party host
+3064,stdtime.gov.tw,National Standard Time and Frequency Laboratory,https://www.stdtime.gov.tw/,DNS
+3065,loseyourip.com,LoseYourIP,https://www.loseyourip.com/,DNS
+3066,googlebot.com,Google,https://www.google.com/,crawler
+3067,trafikverket.se,Trafikverket,https://www.trafikverket.se,first-party host
+3068,vianaaws.jp,,,
+3069,t-com.ne.jp,NTT Communications,https://www.ntt.com/en/,DNS
+3070,enabler.ne.jp,Enabler,https://www.enabler.jp/,marketing
+3071,cableonline.com.mx,CableOnline,https://www.cableonline.com.mx/,Static server
+3072,cablevision.net.mx,Cablevision,https://www.cablevision.net.mx/,First-party host
+3073,mindspring.com,MindSpring,https://www.mindspring.com/,first-party host
+3074,totinternet.net,TOT Internet,https://www.totinternet.net/,DNS
+3075,skymesh.net.au,SkyMesh,https://www.skymesh.net.au/,ISP - Internet Service Provider
+3076,foxtel.net.au,Foxtel,https://www.foxtel.com.au/,CDN
+3077,sensicomfort.com,Sensi,https://sensicomfort.com/,first-party host
+3078,lacrossetechnology.com,La Crosse Technology,https://www.lacrossetechnology.com/,first-party host
+3079,canaryis.com,Canary Information Security,https://www.canaryis.com/,First-party host
+3080,dyndns.biz,Dyn,https://dyn.com/,DNS
+3081,gwi.net,Global Wireless Internet,https://www.gwi.net/,ISP and first-party host
+3082,chicdn.net,ChinaCache,https://www.chinacache.com/,CDN
+3083,evrythng.com,EVRYTHNG,https://evrythng.com/,First-party host
+3084,aqara.com,Aqara,aqara.com,IoT device manufacturer
+3085,meari.com.cn,Meari,meari.com.cn,first-party host
+3086,btopenworld.com,BT Openworld,https://www.bt.com/,DNS
+3087,ipvanish.com,IPVanish,ipvanish.com,VPN provider and first-party host
+3088,vnpt.vn,VNPT,https://www.vnpt.vn/,first-party host
+3089,tellas.gr,Tellas,https://www.tellas.gr/,first-party host
+3090,under.net.ua,Under.UA,https://under.ua/,DNS
+3091,aruba.it,Aruba S.p.A.,https://www.aruba.it/,DNS
+3092,transip.net,TransIP Group B.V.,https://www.transip.nl/,DNS
+3093,wp-servers.com,Unknown,,Unclear purpose of the domain
+3094,multi.net.pk,Multinet Pakistan,https://www.multinet.com.pk/,first-party host
+3095,had.su,Unknown,,DNS
+3096,wiredns.net,Unknown,,Potential DNS hosting or static server
+3097,redstation.co.uk,Redstation Limited,redstation.com,static server
+3098,kostunivo.com,,,
+3099,constant.com,Constant Contact,https://www.constantcontact.com/,marketing
