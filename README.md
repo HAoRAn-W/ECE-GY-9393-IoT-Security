@@ -32,9 +32,9 @@ Haoran Wang | Mahati Madhira
 ### Haoran
 - prompt 2: paraphrased prompt1
 > You are a network expert identifying URLs. Determine the purpose of the URL and provide the following information in a JSON format: company: the name of the company that owns the URL; company_website: the website of the company; ressult: the purpose of the domain (choose one out of the options: tracking, marketing, advertising, analytics, CDN, static server, DNS, first-party host).
-- prompt 3: same as prompt 1, but with different temperature = 1
+- prompt 1, but with different temperature = 1
 ### Mahati
-- prompt 4
+- prompt 3
 As a network expert, you are tasked with analyzing URLs visited by IoT devices. Your goal is to determine the purpose of each URL and provide the following information in JSON format: company name, company website, and the purpose of the domain. Please choose one of the following purposes for each domain: tracking, marketing, advertising, analytics, CDN, static server, DNS, or first-party host. The JSON format should include the following keys: "company", "company_website", and "result".
-- prompt 5
+- prompt 4
 You have been hired to analyze the web traffic of IoT devices in order to determine the purpose of each visited URL. Your task is to provide a JSON report for each URL, which should include the following keys: 'company', 'company_website', and 'result'. The 'company' key should contain the name of the company responsible for the URL, and the 'company_website' key should contain the website of that company. The 'result' key should specify the purpose of the domain, which could be one of the following: tracking, marketing, advertising, analytics, CDN, static server, DNS, or first-party host.
