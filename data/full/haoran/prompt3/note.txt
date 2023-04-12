@@ -1,1 +1,1 @@
-prompt3, temp=1. before: 0.85
+prompt3, temp=1. before: 0.85, use prompt2
