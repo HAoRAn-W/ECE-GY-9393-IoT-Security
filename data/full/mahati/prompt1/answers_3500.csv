@@ -1,0 +1,62 @@
+,remote_hostname,company,company_website,result
+3500,nayatel.pk,Nayatel Pvt Ltd,https://www.nayatel.com/,DNS
+3501,axntechnologies.in,AXN Technologies,https://www.axntechnologies.in/,first-party host
+3502,awsdns-03.co.uk,Amazon Web Services,https://aws.amazon.com/,DNS
+3503,voncp.com,CDN,https://voncp.com/,"The provided URL is used for content delivery network (CDN), which is a distributed network of servers that helps to minimize the load time of web page content by serving it from a server closer to the user."
+3504,neohub.co.uk,NeoHub Limited,https://neohub.co.uk/,It is not possible to determine the purpose of this URL without additional context.
+3505,telecom.kz,Telecom Kazakhstan,https://telecom.kz/,DNS
+3506,weathercloud.net,Weathercloud,https://weathercloud.net/,weather tracking
+3507,dynamic-m.com,Dynamic Media,https://www.dynamic-m.com/,marketing
+3508,80.in-addr.arpa,DNS,https://www.iana.org/domains/root/db,This is a special domain used in reverse DNS lookups to map an IP address to a hostname.
+3509,btncdn.com,CDN77,https://www.cdn77.com/,CDN
+3510,uh.edu,University of Houston,https://www.uh.edu/,first-party host
+3511,alaska.edu,University of Alaska,https://www.alaska.edu/,first-party host
+3512,bain.com,Bain & Company,https://www.bain.com/,first-party host
+3513,okstate.edu,Oklahoma State University,https://www.okstate.edu/,first-party host
+3514,vmwservices.com,VMware,https://www.vmware.com/,CDN
+3515,telenor.com,Telenor,https://www.telenor.com/,first-party host
+3516,adobejanus.com,Adobe,https://www.adobe.com/,marketing
+3517,gartner.com,Gartner,https://www.gartner.com,analytics
+3518,signal.is,Signal,https://signal.org,CDN
+3519,cnt-grms.ec,Unknown,,Unable to determine the purpose of the URL
+3520,telecom.sk,Telecom.sk,https://www.telecom.sk/,DNS
+3521,falcon1.net,Falcon1.net,https://www.falcon1.net/,DNS
+3522,orbitbhyve.com,Orbit B-Hyve,https://orbitbhyve.com/,marketing
+3523,project25499.com,Unknown,,Cannot determine the purpose of the URL
+3524,posttv.com,The Washington Post,www.washingtonpost.com,CDN
+3525,inaf.it,Istituto Nazionale di Astrofisica,www.inaf.it,first-party host
+3526,comfortel.pro,Comfortel,https://comfortel.pro/,static server
+3527,fvds.ru,FVD Media,https://fvdmedia.com/,advertising
+3528,se-ssl-cloud.com,SE-SSL Cloud,https://www.se-ssl-cloud.com/,CDN
+3529,ccma.cat,CCMA,https://www.ccma.cat/,first-party host
+3530,diyadvice.com,DIY Advice,https://www.diyadvice.com/,first-party host
+3531,athena.io,Athena,https://www.athena.io/,DNS
+3532,fu-berlin.de,Free University of Berlin,https://www.fu-berlin.de/,first-party host
+3533,access.ly,accessly,https://access.ly/,DNS
+3534,orange-business.com,Orange Business Services,https://www.orange-business.com/,CDN
+3535,chefsteps.com,ChefSteps,https://www.chefsteps.com/,CDN
+3536,abissnet.al,Abissnet,https://www.abissnet.al/,"{'purpose': 'DNS', 'description': 'The provided URL belongs to Abissnet, which is a telecommunications company in Albania. The purpose of the URL is to serve as a Domain Name System (DNS) server, which translates domain names into IP addresses.'}"
+3537,zedfilter.xyz,Unknown,,Cannot determine the purpose of the provided URL
+3538,rundsp.com,RUN Powered by ADP,https://www.adp.com/,advertising
+3539,vylmedia.com,VYL Media,https://vylmedia.com/,marketing
+3540,vieraconnect.tv,Panasonic,https://www.panasonic.com/,first-party host
+3541,g4c5j.com,Unknown,Unknown,Cannot determine the purpose of the URL
+3542,cloud-ips.com,Cloud-IPS,https://www.cloud-ips.com/,DNS
+3543,rediris.es,RedIRIS,https://www.rediris.es/,DNS
+3544,gen4.ninja,Gen4 Ninja,https://gen4.ninja/,static server
+3545,appsmb.com,Appsmb,https://www.appsmb.com/,marketing
+3546,ibmcloud.com,IBM,https://www.ibm.com/,CDN
+3547,snaptube.in,SnapTube,https://www.snaptubeapp.com/,marketing
+3548,withings.com,Withings,https://www.withings.com/,marketing
+3549,bloomsky.com,BloomSky,https://www.bloomsky.com/,marketing
+3550,anovaculinary.com,Anova Culinary,https://anovaculinary.com/,marketing
+3551,iot-dns.com,IoT DNS,https://iot-dns.com/,DNS
+3552,mineproxy.ga,Unknown,,DNS
+3553,tendplatform.com,Tend,https://tend.ai/,marketing
+3554,geappliances.com,GE Appliances,https://www.geappliances.com/,marketing
+3555,seluxit.com,Seluxit,https://www.seluxit.com/,DNS
+3556,your-loop.com,YourLoop,https://www.your-loop.com/,marketing
+3557,zodiac.com,Zodiac,https://www.zodiac.com/,static server
+3558,foobot.io,Foobot,https://foobot.io/,analytics
+3559,vzwfemto.com,Verizon,https://www.verizon.com/,DNS
+3560,bosch.de,Bosch,https://www.bosch.de,"{'purpose': 'first-party host', 'description': 'Bosch.de is the official website of Bosch, a multinational engineering and technology company. The website serves as a first-party host, providing information about the company, its products, and services to its customers and visitors.'}"
