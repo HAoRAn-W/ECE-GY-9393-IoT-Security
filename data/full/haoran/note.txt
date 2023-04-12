@@ -1,0 +1,3 @@
+prompt1 118 unprocessed rows because of errors
+prompt2 294 unprocessed rows because of errors
+prompt3 71 unprocessed rows because of errors this is because we added more error handling cases
