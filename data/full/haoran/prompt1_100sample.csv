@@ -1,0 +1,101 @@
+,Unnamed: 0,remote_hostname,company,company_website,result
+3423,862,mxpnl.com,Mixpanel,https://mixpanel.com/,analytics
+3231,670,mathtag.com,MediaMath,https://www.mediamath.com/,advertising
+1816,2416,associates-amazon.com,Amazon,https://www.amazon.com/,marketing
+3149,588,newrelic.com,New Relic,https://newrelic.com/,analytics
+582,1382,clashroyaleapp.com,Clash Royale,https://clashroyale.com/,First-party host
+3434,873,mydlink.com,D-Link,https://www.dlink.com/,first-party host
+3402,841,cbsi.com,CBS Interactive,https://www.cbsinteractive.com/,marketing
+687,1487,springserve.com,SpringServe,https://springserve.com/,advertising
+3241,680,teamviewer.com,TeamViewer,https://www.teamviewer.com/,marketing
+1369,369,vido.info,VIDO,https://vido.info/,"It is not possible to determine the purpose of the provided URL as it redirects to the VIDO homepage, which does not provide information about their services or products related to tracking, marketing, advertising, analytics, CDN, static server, DNS, or first-party hosting."
+938,1738,marantz.info,Marantz,https://www.marantz.com/,first-party host
+2012,2612,mobisystems.com,Mobisystems,https://www.mobisystems.com/,It is impossible to determine the purpose of the provided URL without additional information or context.
+398,1198,webex.com,WebEx,https://www.webex.com/,marketing
+2865,3465,linksyssmartwifi.com,Linksys,https://www.linksys.com/,first-party host
+2269,2869,lbsg.net,,,
+628,1428,adx1.com,Advertising,https://adx1.com/,ADX1 is an advertising network that specializes in programmatic advertising technology and solutions.
+32,32,plex.direct,Plex,https://www.plex.tv/,CDN
+532,1332,githubassets.com,GitHub,https://github.com/,CDN
+1919,2519,teslamotors.com,Tesla Motors,https://www.tesla.com,first-party host
+741,1541,smartadserver.com,Smart AdServer,https://smartadserver.com/,advertising
+3288,727,cedia.org.ec,CEDIA,https://www.cedia.org.ec/,first-party host
+736,1536,ampereinnotech.com,Ampere Innotech,https://ampereinnotech.com/,It is not possible to determine the purpose of the provided URL as it is a company website.
+253,1053,steamcommunity.com,Valve Corporation,https://www.valvesoftware.com/,first-party host
+2630,3230,nanit.com,,,
+2282,2882,oceandraw.com,OceanDraw,https://oceandraw.com/,static server
+1084,1884,tiktokv.com,,,
+3170,609,mynexia.com,Nexia,https://www.nexia.com/,marketing
+2400,3000,bcube.co.uk,Bcube,https://www.bcube.co.uk/,Not enough information to determine the purpose of the provided URL
+2243,2843,adtechus.com,AdTechUS,https://adtechus.com/,advertising
+732,1532,exposuremonitoring.in,Exposure Monitoring,https://exposuremonitoring.in/,Marketing
+102,102,ueiwsp.com,unknown,,It is difficult to determine the purpose of the provided URL as it does not belong to any known company or service. It is recommended to exercise caution before accessing this URL.
+634,1434,defensia.co.il,Defensia Ltd,https://www.defensia.co.il/,static server
+2812,3412,kali.ru,Kali,https://kali.ru/,first-party host
+1637,2237,leadpages.io,Leadpages,https://www.leadpages.net/,marketing
+1956,2556,lijit.com,Lijit,https://www.lijit.com/,Advertising
+1640,2240,makeuseof.com,MakeUseOf,https://www.makeuseof.com/,first-party host
+1795,2395,puregig.net,Puregig,https://puregig.net,DNS
+1558,2158,klaviyo.com,Klaviyo,https://www.klaviyo.com/,marketing
+2637,3237,alienvault.cloud,AlienVault,https://www.alienvault.com/,CDN
+2723,3323,megaegg.ne.jp,"Mega Egg Network Co.,Ltd.",https://www.megaegg.ne.jp/,DNS
+120,120,ravm.tv,RAVM,https://www.ravm.tv/,static server
+2768,3368,driftcdn.com,Drift,https://www.drift.com/,CDN
+2656,3256,dsmynas.org,Unknown,,DNS
+1173,1973,worldtravelling.com,World Travelling,https://www.worldtravelling.com/,first-party host
+2832,3432,xboxservices.com,Microsoft Corporation,https://www.microsoft.com/,first-party host
+2621,3221,broadlink.com.cn,BroadLink,https://www.ibroadlink.com/,first-party host
+3082,521,hbomax.com,HBO Max,hbomax.com,static server
+305,1105,bleacherreport.net,Bleacher Report,https://bleacherreport.com/,CDN
+1578,2178,etapanet.net,EtapaNet,http://www.etapanet.net/,DNS
+222,1022,aylanetworks.com,Ayla Networks,https://www.aylanetworks.com/,IoT platform for manufacturers to connect and manage their devices
+2852,3452,armbian.com,Armbian,https://www.armbian.com/,static server
+1067,1867,wowrack.com,Wowrack,https://www.wowrack.com/,{'purpose': 'CDN'}
+2887,3487,marriott.com,Marriott International,https://www.marriott.com/,first-party host
+376,1176,art19.com,Art19,https://art19.com/,CDN
+1763,2363,appbaqend.com,Baqend,https://www.baqend.com/,static server
+2738,3338,sprintel.cz,Sprintel s.r.o.,https://sprintel.cz/,first-party host
+930,1730,telenor.rs,Telenor,https://www.telenor.com/,"{'purpose': 'first-party host', 'description': ""The provided URL belongs to Telenor's website in Serbia, which serves as a first-party host for their own content and services."", 'source': 'https://www.telenor.rs/'}"
+3345,784,polyfill.io,Polyfill,https://polyfill.io/,CDN
+2680,3280,slt.lk,SLT (Sri Lanka Telecom),https://www.slt.lk/,DNS
+3055,494,windowsupdate.com,Microsoft Corporation,https://www.microsoft.com,DNS
+1769,2369,ziffdavis.com,Ziff Davis,https://www.ziffdavis.com/,marketing
+630,1430,mi-img.com,CDN,https://www.mi.com/,"The provided URL 'mi-img.com' belongs to a CDN (Content Delivery Network) which is typically used to distribute content to multiple servers, improving website performance and user experience."
+3543,982,aliyuncs.com,Alibaba Cloud,https://www.alibabacloud.com/,CDN
+472,1272,scene7.com,Adobe,https://www.adobe.com/,CDN
+3049,488,tvsquared.com,TVSquared,https://tvsquared.com/,marketing
+204,1004,aboutamazon.com,Amazon,https://www.amazon.com/,marketing
+1786,2386,xmeye.net,"XM Technology Co., Ltd",http://www.xmeye.net/,video surveillance software and hardware
+2170,2770,wirelesscar.net,WirelessCar,https://www.wirelesscar.com/,first-party host
+1968,2568,adsco.re,AdsCore,https://adsco.re/,advertising
+734,1534,netatmo.net,Netatmo,https://www.netatmo.com,marketing
+1601,2201,serverprofi24.com,ServerProfi24,https://www.serverprofi24.com/,static server
+2804,3404,eedomus.com,eedomus,https://www.eedomus.com/,first-party host
+3068,507,lenovo.com.cn,Lenovo,https://www.lenovo.com/,first-party host
+2947,3547,snaptube.in,Snaptube,https://www.snaptube.com/,marketing
+649,1449,digiteka.net,Digiteka,https://digiteka.net/,CDN
+68,68,vivintsky.com,Vivint,https://www.vivint.com/,marketing
+341,1141,meetcircle-blue.co,MeetCircle Blue,https://www.meetcircle.com/,DNS
+494,1294,met.no,met.no,https://www.met.no/,{'purpose': 'analytics'}
+319,1119,criteo.net,Criteo,https://www.criteo.com/,advertising
+3236,675,windowsphone.com,Microsoft Corporation,https://www.microsoft.com/,first-party host
+2748,3348,gorillaservers.com,GorillaServers,https://gorillaservers.com/,static server
+1878,2478,molotov.tv,Molotov,https://www.molotov.tv/,first-party host
+371,1171,nbc.com,NBC Universal,https://www.nbcuniversal.com/,first-party host
+1612,2212,herokudns.com,Heroku,https://www.heroku.com/,DNS
+2352,2952,bigbend.net,Big Bend Telephone Company,https://bigbend.net/,DNS
+2766,3366,infuturo.it,In Futuro,https://www.infuturo.it/,first-party host
+1133,1933,vindicosuite.com,Vindico,https://vindicosuite.com/,advertising
+3186,625,tapad.com,Tapad,https://www.tapad.com/,advertising
+3099,538,flickr.com,Flickr,https://www.flickr.com/,CDN
+807,1607,waipu.tv,waipu.tv,https://www.waipu.tv/,streaming service (content delivery)
+832,1632,netatmo.com,Netatmo,https://www.netatmo.com/,{'purpose': 'analytics'}
+1801,2401,ivaws.com,Amazon Web Services,https://aws.amazon.com/,CDN
+852,1652,globalsign.com,GlobalSign,https://www.globalsign.com/,DNS
+446,1246,bbox.fr,CDN77,https://www.cdn77.com/,CDN
+3195,634,synology.com,Synology,https://www.synology.com/,static server
+1103,1903,marketo.net,Marketo,https://www.marketo.com/,marketing
+686,1486,abine.com,Abine,https://www.abine.com/,marketing
+1533,2133,hypixel.net,Hypixel Studios,https://hypixelstudios.com/,first-party host
+1398,398,hotspotproxy.xyz,Unknown,Unknown,It is not possible to determine the purpose of the URL without additional information.
+2539,3139,ip-198-245-61.net,Static Server,https://en.wikipedia.org/wiki/Web_server,The provided URL is likely serving static content from a web server.
