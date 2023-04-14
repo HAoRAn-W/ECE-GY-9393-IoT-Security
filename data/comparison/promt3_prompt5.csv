@@ -1,0 +1,201 @@
+,Unnamed: 0,remote_hostname,company,company_website,result
+0,1884,tiktokv.com,Unknown,,marketing
+1,1884,tiktokv.com,Unknown,,Unknown
+2,309,channel4.com,Channel Four Television Corporation,https://www.channel4.com/,first-party host
+3,309,channel4.com,Channel Four Television Corporation,https://www.channel4.com,first-party host
+4,1603,hover.com,Hover,https://www.hover.com/,first-party host
+5,1603,hover.com,Hover,https://www.hover.com/,DNS
+6,1063,intrinsec.com,Intrinsec,https://intrinsec.com/,first-party host
+7,1063,intrinsec.com,Intrinsec,https://intrinsec.com/,first-party host
+8,3544,gen4.ninja,,,Unable to determine the purpose of the provided URL
+9,3544,gen4.ninja,Gen4,https://gen4.tech/,CDN
+10,1770,jio.com,Reliance Jio Infocomm Limited,https://www.jio.com/,first-party host
+11,1770,jio.com,Reliance Jio Infocomm,https://www.jio.com/,first-party host
+12,3549,bloomsky.com,BloomSky,https://www.bloomsky.com/,marketing
+13,3549,bloomsky.com,BloomSky,https://www.bloomsky.com/,IoT weather station and related services provider
+14,2260,fibianet.dk,Fibia A/S,https://www.fibia.dk/,first-party host
+15,2260,fibianet.dk,Fibianet A/S,https://www.fibianet.dk/,first-party host
+16,1468,remotewd.com,Remote Work Development,https://www.remotewd.com/,first-party host
+17,1468,remotewd.com,Remote Workly,https://remoteworkly.co/,First-party host
+18,192,skype.com,Microsoft Corporation,https://www.microsoft.com/,first-party host
+19,192,skype.com,Microsoft Corporation,https://www.microsoft.com,first-party host
+20,807,casalemedia.com,Index Exchange,https://www.indexexchange.com/,advertising
+21,807,casalemedia.com,Index Exchange,https://www.indexexchange.com/,advertising
+22,1225,thunderbird.net,Mozilla Corporation,https://www.mozilla.org/,first-party host
+23,1225,thunderbird.net,Mozilla Foundation,https://www.mozilla.org/,first-party host
+24,1143,google.fi,Google,https://www.google.com/,DNS
+25,1143,google.fi,Google,https://www.google.com/,first-party host
+26,3526,comfortel.pro,Comfortel,https://comfortel.pro,first-party host
+27,3526,comfortel.pro,Comfortel,https://comfortel.pro/,first-party host
+28,2449,amazonses.com,Amazon,https://aws.amazon.com/,email delivery service
+29,2449,amazonses.com,Amazon,https://www.amazon.com/,email service provider
+30,1566,adhigh.net,AdHigh,https://www.adhigh.net/,advertising
+31,1566,adhigh.net,Adhigh,https://adhigh.net/,advertising
+32,3100,rumafia.com,,,tracking
+33,3100,rumafia.com,,,Unknown
+34,1926,isappcloud.com,AppCloud Ltd.,https://www.isappcloud.com/,CDN
+35,1926,isappcloud.com,Apple Inc.,https://www.apple.com/,CDN
+36,1193,getgo.com,Citrix Systems,https://www.citrix.com/,marketing
+37,1193,getgo.com,GetGo,https://www.getgoph.com/,marketing
+38,2959,virtua.com.br,Virtua,https://virtua.com.br/,static server
+39,2959,virtua.com.br,Virtua,https://www.virtua.com.br/,first-party host
+40,3292,cablelynx.com,Sparklight,https://www.sparklight.com,Static Server
+41,3292,cablelynx.com,Cablelynx,https://www.sparklight.com/,first-party host
+42,2055,audioeye.com,AudioEye,https://www.audioeye.com/,analytics
+43,2055,audioeye.com,AudioEye,https://www.audioeye.com/,marketing
+44,74,samsungcloudsolution.net,Samsung,https://www.samsung.com/,CDN
+45,74,samsungcloudsolution.net,Samsung,https://www.samsung.com/,CDN
+46,3445,webcollage.net,Webcollage,https://www.webcollage.com/,marketing
+47,3445,webcollage.net,Webcollage,https://www.webcollage.com/,marketing
+48,3169,litecoinpool.org,Litecoinpool,https://www.litecoinpool.org/,mining pool website
+49,3169,litecoinpool.org,Litecoin Pool,https://www.litecoinpool.org/,mining pool
+50,726,consensu.org,IAB Tech Lab,https://iabtechlab.com/,tracking
+51,726,consensu.org,Consensu,https://consensu.org/,tracking
+52,2656,hubapi.com,HubSpot,https://www.hubspot.com/,API service
+53,2656,hubapi.com,HubSpot,https://www.hubspot.com/,marketing
+54,3350,freeboxos.fr,Free,https://www.free.fr/,static server
+55,3350,freeboxos.fr,Free,https://www.free.fr/,first-party host
+56,445,tmdb.org,The Movie Database (TMDb),https://www.themoviedb.org/,static server
+57,445,tmdb.org,The Movie Database (TMDb),https://www.themoviedb.org/,movie database and API provider
+58,1092,fidnet.com,Fidnet,https://www.fidnet.com/,first-party host
+59,1092,fidnet.com,FidNet,https://www.fidnet.com/,first-party host
+60,359,playmemoriesonline.com,Sony Corporation,https://www.sony.com/,static server
+61,359,playmemoriesonline.com,Sony Corporation,https://www.sony.com/,First-party host
+62,2176,megalinkcorp.com.br,Megalink Corp.,,first-party host
+63,2176,megalinkcorp.com.br,,,
+64,2099,influxdata.com,InfluxData,https://www.influxdata.com/,first-party host
+65,2099,influxdata.com,InfluxData,https://www.influxdata.com/,First-party host
+66,356,primevideo.com,Amazon,https://www.amazon.com/,streaming service
+67,356,primevideo.com,Amazon,https://www.amazon.com/,video streaming platform
+68,65,onesignal.com,OneSignal,https://onesignal.com/,marketing
+69,65,onesignal.com,OneSignal,https://onesignal.com/,marketing
+70,3129,travano.at,Travano GmbH,https://travano.de/,first-party host
+71,3129,travano.at,,,
+72,3341,dnsup.net,DNSUP.NET,https://dnsup.net/,DNS
+73,3341,dnsup.net,DNSUP,https://www.dnsup.net/,DNS
+74,1182,weborama.fr,Weborama,https://weborama.com/,marketing
+75,1182,weborama.fr,Weborama,https://weborama.com/,marketing
+76,1187,mint.com,Mint,https://www.mint.com/,marketing
+77,1187,mint.com,Mint,https://www.mint.com/,first-party host
+78,1448,echostarprod.com,EchoStar Corporation,https://www.echostar.com/,static server
+79,1448,echostarprod.com,EchoStar Corporation,https://www.echostar.com/,CDN
+80,188,adjust.com,Adjust,https://www.adjust.com/,tracking
+81,188,adjust.com,Adjust,https://www.adjust.com/,analytics
+82,1310,foresee.com,ForeSee,https://www.foresee.com/,analytics
+83,1310,foresee.com,ForeSee,https://www.foresee.com/,analytics
+84,3101,gameservers.com,GameServers.com,https://www.gameservers.com/,static server
+85,3101,gameservers.com,GameServers.com,https://www.gameservers.com/,static server
+86,2888,trustedform.com,ActiveProspect Inc.,https://activeprospect.com/,tracking
+87,2888,trustedform.com,ActiveProspect,https://activeprospect.com/,tracking
+88,2593,siol.net,TSmedia d.o.o.,https://www.tsmedia.si/,news website
+89,2593,siol.net,TSmedia d.o.o.,https://www.tsmedia.si/en/,news website
+90,2210,squarespace.com,Squarespace,https://www.squarespace.com/,static server
+91,2210,squarespace.com,Squarespace,https://www.squarespace.com/,Website Builder
+92,3427,northwestel.net,Northwestel,https://www.nwtel.ca/,DNS
+93,3427,northwestel.net,Northwestel,https://www.nwtel.ca/,first-party host
+94,116,unrealengine.com,Epic Games,https://www.epicgames.com/,static server
+95,116,unrealengine.com,Epic Games,https://www.epicgames.com/,first-party host
+96,1049,rollout.io,Rollout.io,https://rollout.io/,CDN
+97,1049,rollout.io,Rollout.io,https://rollout.io/,CDN
+98,2652,cloudmobi.net,CloudMobi,http://www.cloudmobi.net/,CDN
+99,2652,cloudmobi.net,CloudMobi,https://www.cloudmobi.net/,marketing
+100,1281,windy.com,"Windyty, SE",https://www.windy.com/,weather forecasting and data visualization
+101,1281,windy.com,"Windyty, Inc.",https://www.windy.com/,weather tracking
+102,3055,telkomadsl.co.za,Telkom,https://www.telkom.co.za/,CDN
+103,3055,telkomadsl.co.za,Telkom,https://www.telkom.co.za/,first-party host
+104,1200,vodafone.com,Vodafone Group Plc,https://www.vodafone.com/,first-party host
+105,1200,vodafone.com,Vodafone Group,https://www.vodafone.com/,first-party host
+106,2061,dzcdn.net,Dazzle Pte Ltd,https://www.dazzle.com.sg/,CDN
+107,2061,dzcdn.net,Dynamsoft,https://www.dynamsoft.com/,CDN
+108,159,pippio.com,Pippio,https://www.pippio.com/,advertising
+109,159,pippio.com,Pippio,https://www.pippio.com/,advertising
+110,617,ads-twitter.com,Twitter,twitter.com,advertising
+111,617,ads-twitter.com,Twitter,https://twitter.com/,advertising
+112,3410,ovh.net,OVH,https://www.ovh.com/,DNS
+113,3410,ovh.net,OVH,https://www.ovh.com/,CDN
+114,2185,epsonconnect.com,Epson,https://www.epson.com/,first-party host
+115,2185,epsonconnect.com,Epson,https://epson.com/,first-party host
+116,1640,qlogo.cn,Tencent,https://www.tencent.com/en-us/,CDN
+117,1640,qlogo.cn,Tencent,https://www.tencent.com,CDN
+118,1407,thewirecutter.com,The New York Times,https://www.nytimes.com/,product review and recommendation website
+119,1407,thewirecutter.com,The New York Times,https://www.nytimes.com/,product reviews and recommendations
+120,2049,clmbtech.com,Clmbtech,https://clmbtech.com/,advertising
+121,2049,clmbtech.com,Clmbtech,https://www.clmbtech.com/,advertising
+122,264,dropcam.com,Dropcam,https://nest.com/,marketing
+123,264,dropcam.com,Dropcam,https://www.dropcam.com/,first-party host
+124,2987,magic-heaven.info,Unknown,,Unknown
+125,2987,magic-heaven.info,Unknown,,Unknown
+126,1157,umu.se,Umeå University,https://www.umu.se/,first-party host
+127,1157,umu.se,Umeå University,https://www.umu.se/,first-party host
+128,559,ghostery.com,Ghostery,https://www.ghostery.com/,tracking
+129,559,ghostery.com,Ghostery,https://www.ghostery.com/,tracking
+130,3358,cheapnet.it,Cheapnet s.r.l.,https://www.cheapnet.it/,static server
+131,3358,cheapnet.it,Cheapnet,https://cheapnet.it/,first-party host
+132,1373,crashplan.com,Code42 Software,https://www.code42.com,marketing
+133,1373,crashplan.com,CrashPlan,https://www.crashplan.com/,marketing
+134,1740,southwestairlines.com,Southwest Airlines,https://www.southwest.com/,first-party host
+135,1740,southwestairlines.com,Southwest Airlines,https://www.southwest.com/,first-party host
+136,2641,splitwise.com,Splitwise,https://www.splitwise.com/,first-party host
+137,2641,splitwise.com,Splitwise,https://www.splitwise.com/,first-party host
+138,2454,spark.io,"Particle Industries, Inc.",https://www.particle.io/,CDN
+139,2454,spark.io,"Particle Industries, Inc.",https://www.particle.io/,first-party host
+140,1852,alienvault.com,AT&T Cybersecurity,https://cybersecurity.att.com/,marketing
+141,1852,alienvault.com,AlienVault,https://www.alienvault.com/,security information and event management (SIEM) solution provider
+142,856,bbctvapps.co.uk,BBC,https://www.bbc.co.uk/,CDN
+143,856,bbctvapps.co.uk,BBC,https://www.bbc.co.uk/,first-party host
+144,330,google.co.id,Google,https://www.google.com/,first-party host
+145,330,google.co.id,Google,https://www.google.com/,first-party host
+146,1988,onelink.me,AppsFlyer,https://www.appsflyer.com/,tracking
+147,1988,onelink.me,AppsFlyer,https://www.appsflyer.com/,marketing
+148,2694,cambrium.nl,Cambrium,https://www.cambrium.nl/,static server
+149,2694,cambrium.nl,Cambrium,https://www.cambrium.nl/,static server
+150,2362,elta.com.tw,ELTA Technology,https://www.elta.com.tw/,static server
+151,2362,elta.com.tw,"ELTA Technology Co., Ltd.",https://www.elta.com.tw/,first-party host
+152,3094,multi.net.pk,MULTINET Pakistan Pvt Ltd,https://multi.net.pk/,DNS
+153,3094,multi.net.pk,Multinet Pakistan Pvt. Ltd,https://www.multinet.com.pk/,static server
+154,1140,s-microsoft.com,Microsoft Corporation,https://www.microsoft.com/,CDN
+155,1140,s-microsoft.com,Microsoft Corporation,https://www.microsoft.com/,first-party host
+156,985,e2ma.net,Emma Email Marketing,https://myemma.com/,marketing
+157,985,e2ma.net,Emma,https://myemma.com/,marketing
+158,2841,emogi.com,Emogi,https://www.emogi.com/,marketing
+159,2841,emogi.com,Emogi,https://emogi.com/,marketing
+160,160,apxlv.com,,,
+161,160,apxlv.com,APX LV Limited,https://www.apxlabs.co/,CDN
+162,1005,winkapp.com,Wink App,https://www.wink.com/,marketing
+163,1005,winkapp.com,Wink,https://www.wink.com/,first-party host
+164,103,aptoide.com,Aptoide,https://www.aptoide.com/,app store
+165,103,aptoide.com,Aptoide,https://www.aptoide.com/,third-party app store
+166,3481,ddnss.de,DDNSS,https://www.ddnss.de/,DNS
+167,3481,ddnss.de,DDNSS,https://www.ddnss.de/,DNS
+168,1291,aussiebb.net,Aussie Broadband,https://www.aussiebroadband.com.au/,first-party host
+169,1291,aussiebb.net,Aussie Broadband,https://www.aussiebroadband.com.au/,first-party host
+170,1690,pigeonhole.at,Pigeonhole Live,https://pigeonholelive.com/,first-party host
+171,1690,pigeonhole.at,Pigeonhole Live,https://pigeonholelive.com/,first-party host
+172,1024,lbdns-streamguys.com,StreamGuys,https://www.streamguys.com/,DNS
+173,1024,lbdns-streamguys.com,StreamGuys,https://streamguys.com,DNS
+174,603,cloudfunctions.net,Google,https://www.google.com/,CDN
+175,603,cloudfunctions.net,Google,https://www.google.com/,cloud functions
+176,3466,fibaro.com,Fibaro,https://www.fibaro.com/,marketing
+177,3466,fibaro.com,Fibar Group,https://www.fibaro.com/,first-party host
+178,3368,driftcdn.com,Drift,https://www.drift.com,CDN
+179,3368,driftcdn.com,Drift,https://www.drift.com/,CDN
+180,2093,tns-cs.net,TNS,https://www.tnsglobal.com/,CDN
+181,2093,tns-cs.net,TNS,https://www.tnsglobal.com/,CDN
+182,2604,s-onetag.com,OneTag,https://www.onetag.net/,marketing
+183,2604,s-onetag.com,Onetag,https://onetag.com,marketing
+184,2309,overkiz.com,Overkiz,https://www.overkiz.com/,CDN
+185,2309,overkiz.com,Overkiz,https://www.overkiz.com/,IoT platform provider
+186,3409,unitymediagroup.de,Unity Media Group,https://unitymediagroup.de/,It is a first-party host.
+187,3409,unitymediagroup.de,Unitymedia,https://www.unitymedia.de/,first-party host
+188,3439,playon.tv,PlayOn,https://www.playon.tv/,Media streaming server software
+189,3439,playon.tv,"MediaMall Technologies, Inc.",https://www.playon.tv/,media streaming service
+190,1481,incapdns.net,Imperva Inc.,https://www.imperva.com/,DNS
+191,1481,incapdns.net,Imperva Incapsula,https://www.imperva.com/,DNS
+192,1670,aeonlucid.com,Aeon Lucid,https://www.aeonlucid.com/,first-party host
+193,1670,aeonlucid.com,Aeon Lucid,https://aeonlucid.com/,marketing
+194,30,mgo.com,MGO,https://www.mgo.com/,static server
+195,30,mgo.com,"MongoDB, Inc.",https://www.mongodb.com/,DNS
+196,1534,netatmo.net,Netatmo,https://www.netatmo.com/,marketing
+197,1534,netatmo.net,Netatmo,https://www.netatmo.com/,first-party host
+198,772,outbrainimg.com,Outbrain,https://www.outbrain.com/,CDN
+199,772,outbrainimg.com,Outbrain,https://www.outbrain.com/,CDN

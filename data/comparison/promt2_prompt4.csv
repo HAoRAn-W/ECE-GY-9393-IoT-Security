@@ -1,0 +1,201 @@
+,Unnamed: 0,remote_hostname,company,company_website,result
+0,2013,leaseweb.com,Leaseweb,https://www.leaseweb.com,CDN
+1,2013,leaseweb.com,Leaseweb,https://www.leaseweb.com/,CDN
+2,1171,nbc.com,"NBCUniversal Media, LLC",https://www.nbcuniversal.com/,first-party host
+3,1171,nbc.com,NBCUniversal,nbcuniversal.com,first-party host
+4,273,samba.tv,Samba TV,https://samba.tv/,tracking
+5,273,samba.tv,Samba TV,https://samba.tv/,analytics
+6,1249,e2enetworks.net.in,E2E Networks,https://www.e2enetworks.com/,static server
+7,1249,e2enetworks.net.in,E2E Networks,https://www.e2enetworks.com/,static server
+8,456,bit.ly,,,
+9,456,bit.ly,Bitly,https://bitly.com/,URL Shortening Service
+10,2523,dvtps.com,Digital Video Technology Private Limited,https://www.dvtech.in/,CDN
+11,2523,dvtps.com,DVT,https://www.dvtps.com/,CDN
+12,1910,walkme.com,WalkMe,https://www.walkme.com/,marketing
+13,1910,walkme.com,WalkMe,www.walkme.com,analytics
+14,222,sonyentertainmentnetwork.com,Sony Interactive Entertainment LLC,https://www.playstation.com/,marketing
+15,222,sonyentertainmentnetwork.com,Sony,https://www.sony.com/,first-party host
+16,776,politico.com,Politico,politico.com,news
+17,776,politico.com,Politico,politico.com,news and analysis
+18,3488,fbwat.ch,Facebook,https://www.facebook.com/,tracking
+19,3488,fbwat.ch,Facebook,https://www.facebook.com/,tracking
+20,1840,myfoscam.org,Foscam,https://www.foscam.com/,static server
+21,1840,myfoscam.org,Foscam,https://www.foscam.com/,First-party host
+22,2998,librivox.org,Librivox,https://librivox.org/,static server
+23,2998,librivox.org,LibriVox,www.librivox.org,static server
+24,2548,unpkg.com,"Cloudflare, Inc.",https://www.cloudflare.com/,CDN
+25,2548,unpkg.com,unpkg,https://unpkg.com/,CDN
+26,3155,m247.com,M247,https://m247.com/,static server
+27,3155,m247.com,M247,https://m247.com/,CDN
+28,2912,cardgamefreecell.com,Unknown,,first-party host
+29,2912,cardgamefreecell.com,Card Game,cardgame.io,first-party host
+30,2170,dmxleo.com,DMXLEO,https://dmxleo.com/,marketing
+31,2170,dmxleo.com,DMXLEO,https://dmxleo.com/,marketing
+32,234,avcdn.net,,,
+33,234,avcdn.net,Akamai Technologies,https://www.akamai.com/,CDN
+34,1787,hrzn-nxt.com,Horizon Blockchain Games Inc.,https://horizongames.net/,marketing
+35,1787,hrzn-nxt.com,Horizon Robotics,https://www.horizon.ai/,static server
+36,2358,adspsp.com,Unknown,,Advertising
+37,2358,adspsp.com,Unknown,,advertising
+38,3513,okstate.edu,Oklahoma State University,https://www.okstate.edu/,first-party host
+39,3513,okstate.edu,Oklahoma State University,https://www.okstate.edu/,First-party host
+40,3368,driftcdn.com,Drift,https://www.drift.com/,CDN
+41,3368,driftcdn.com,Drift,https://www.drift.com/,CDN
+42,2835,netvision.net.il,NetVision,https://www.netvision.net.il/,DNS
+43,2835,netvision.net.il,NetVision,https://www.netvision.net.il/,DNS
+44,2556,lijit.com,"Sovrn Holdings, Inc.",https://www.sovrn.com/,advertising
+45,2556,lijit.com,Lijit Networks,https://www.lijit.com/,advertising
+46,3260,virtual1.co.uk,Virtual1,https://www.virtual1.com/,static server
+47,3260,virtual1.co.uk,Virtual1,https://www.virtual1.co.uk/,CDN
+48,543,sbcglobal.net,AT&T,https://www.att.com/,DNS
+49,543,sbcglobal.net,AT&T,https://www.att.com/,DNS
+50,1974,awsstatic.com,Amazon Web Services,https://aws.amazon.com/,static server
+51,1974,awsstatic.com,Amazon Web Services,https://aws.amazon.com/,static server
+52,1075,ucsd.edu,University of California San Diego,https://www.ucsd.edu/,first-party host
+53,1075,ucsd.edu,University of California San Diego,https://www.ucsd.edu,First-party host
+54,305,braze.eu,Braze,https://www.braze.com/,marketing
+55,305,braze.eu,Braze,https://www.braze.com/,marketing
+56,3505,telecom.kz,Kazakhtelecom,https://telecom.kz/en,first-party host
+57,3505,telecom.kz,Telecom Kazakhstan,https://telecom.kz/en,DNS
+58,3012,weatherbug.com,GroundTruth,https://www.groundtruth.com/,weather information and forecast
+59,3012,weatherbug.com,WeatherBug,https://www.weatherbug.com/,weather tracking and forecasting
+60,489,bn765.com,,,
+61,489,bn765.com,Unknown,,Advertising
+62,1148,ebaystatic.com,eBay,https://www.ebay.com/,static server
+63,1148,ebaystatic.com,eBay,www.ebay.com,static server
+64,84,internetat.tv,Internet@TV,https://internetat.tv/,static server
+65,84,internetat.tv,Internet@TV,https://www.internetat.tv/,First-Party Host
+66,2772,plus.net,Plusnet,https://www.plus.net/,first-party host
+67,2772,plus.net,Plusnet,www.plus.net,first-party host
+68,3247,stanza.co,Stanza,https://www.stanza.co/,marketing
+69,3247,stanza.co,Stanza,stanza.co,marketing
+70,690,semasio.net,Semasio GmbH,https://www.semasio.com/,advertising
+71,690,semasio.net,Semasio,https://www.semasio.com/,Marketing
+72,3376,netwaytelecom.com.br,Netway Telecom,https://www.netwaytelecom.com.br/,first-party host
+73,3376,netwaytelecom.com.br,Netway Telecom,netwaytelecom.com.br,first-party host
+74,2263,wia.cz,WirelessInfo,https://www.wirelessinfo.cz/,first-party host
+75,2263,wia.cz,WIA,https://www.wia.cz/,DNS
+76,2033,worxlandroid.com,Worx,https://www.worx.com/,marketing
+77,2033,worxlandroid.com,Worx Landroid,worxlandroid.com,First-party host
+78,1317,zdf.de,ZDF,https://www.zdf.de/,first-party host
+79,1317,zdf.de,ZDF,https://www.zdf.de/,first-party host
+80,819,verizon.com,Verizon Communications Inc.,https://www.verizon.com/,first-party host
+81,819,verizon.com,Verizon,verizon.com,first-party host
+82,383,overwatchleague.com,"Blizzard Entertainment, Inc.",https://www.blizzard.com/,first-party host
+83,383,overwatchleague.com,Overwatch League,https://overwatchleague.com/,first-party host
+84,306,adswizz.com,Adswizz,https://www.adswizz.com/,advertising
+85,306,adswizz.com,Adswizz,https://www.adswizz.com/,Advertising
+86,681,247-inc.net,247.ai,https://www.247.ai/,marketing
+87,681,247-inc.net,247 Inc.,https://www.247-inc.com/,Analytics
+88,2105,smartnews.com,"SmartNews, Inc.",https://www.smartnews.com/en/,news aggregator
+89,2105,smartnews.com,SmartNews,https://www.smartnews.com/,news aggregation
+90,2941,tcheturbo.net.br,Tchê Turbo,https://www.tcheturbo.com.br/,static server
+91,2941,tcheturbo.net.br,,,
+92,1462,awsdns-22.org,,,
+93,1462,awsdns-22.org,Amazon,https://aws.amazon.com/,DNS
+94,811,sharethrough.com,Sharethrough,https://www.sharethrough.com/,advertising
+95,811,sharethrough.com,Sharethrough,https://www.sharethrough.com/,advertising
+96,345,hotjar.com,,,
+97,345,hotjar.com,Hotjar,https://www.hotjar.com/,analytics
+98,3255,piwheels.org,Piwheels,https://www.piwheels.org/,static server
+99,3255,piwheels.org,Piwheels,https://piwheels.org/,static server
+100,3531,athena.io,Athena,https://www.athena.io/,marketing
+101,3531,athena.io,Athena,https://www.athena.io/,analytics
+102,1222,redditstatic.com,Reddit,https://www.redditinc.com/,static server
+103,1222,redditstatic.com,Reddit,https://www.redditinc.com/,static server
+104,1089,gnome.org,GNOME Foundation,https://www.gnome.org,first-party host
+105,1089,gnome.org,GNOME Foundation,https://www.gnome.org/,first-party host
+106,151,extremereach.io,"Extreme Reach, Inc.",https://extremereach.com/,CDN
+107,151,extremereach.io,Extreme Reach,https://www.extremereach.com/,CDN
+108,2953,iwantwireless.ca,I Want Wireless,https://www.iwantwireless.ca/,marketing
+109,2953,iwantwireless.ca,I Want Wireless,https://www.iwantwireless.ca/,first-party host
+110,1659,appcloudbox.net,Appcloudbox,https://www.appcloudbox.net/,CDN
+111,1659,appcloudbox.net,AppCloudBox,https://appcloudbox.net/,CDN
+112,2379,cardgamesolitaire.com,,,
+113,2379,cardgamesolitaire.com,Card Game Solitaire,https://www.cardgamesolitaire.com/,first-party host
+114,1982,merriam-webster.com,Merriam-Webster,https://www.merriam-webster.com/,first-party host
+115,1982,merriam-webster.com,Merriam-Webster,merriam-webster.com,Dictionary and thesaurus website (first-party host)
+116,3098,kostunivo.com,,,
+117,3098,kostunivo.com,,,
+118,460,op.gg,OP.GG,https://op.gg/,analytics
+119,460,op.gg,OP.GG,https://op.gg/,analytics
+120,2776,isc.org,Internet Systems Consortium,https://www.isc.org/,DNS
+121,2776,isc.org,Internet Systems Consortium,https://www.isc.org/,DNS
+122,1260,colocat.ru,ColoCAT,https://www.colocat.ru/,static server
+123,1260,colocat.ru,ColoCate,https://colocat.ru/,static server
+124,2431,tpnet.pl,TP S.A.,https://www.tp.pl/,first-party host
+125,2431,tpnet.pl,TP S.A.,https://www.tp.pl/,DNS
+126,951,dnsomatic.com,DNS-O-Matic,https://dnsomatic.com/,DNS
+127,951,dnsomatic.com,DNS-O-Matic,https://dnsomatic.com/,DNS
+128,2551,backplanedns.org,Backplane,https://backplane.io/,DNS
+129,2551,backplanedns.org,BackplaneDNS,https://backplanedns.org,DNS
+130,1074,ovo.sc,OVO Energy,https://www.ovoenergy.com/,CDN
+131,1074,ovo.sc,,,
+132,3129,travano.at,Travano,https://travano.at/,first-party host
+133,3129,travano.at,,,
+134,87,majorleaguegaming.com,Major League Gaming,https://www.majorleaguegaming.com/,first-party host
+135,87,majorleaguegaming.com,Major League Gaming,https://www.majorleaguegaming.com/,marketing
+136,3520,telecom.sk,Slovak Telekom,https://www.telekom.sk/,first-party host
+137,3520,telecom.sk,Telecom SK,https://www.telecom.sk/,DNS
+138,2116,mts-chita.ru,MTS,https://www.mts.ru/,first-party host
+139,2116,mts-chita.ru,MTS,https://www.mts.ru/,First-party host
+140,624,nextdoor-test.com,Nextdoor,https://nextdoor.com/,testing or development
+141,624,nextdoor-test.com,Nextdoor,www.nextdoor.com,marketing
+142,157,adsrvr.org,The Trade Desk,thetradedesk.com,advertising
+143,157,adsrvr.org,The Trade Desk,https://www.thetradedesk.com/,advertising
+144,3309,raketa-net.ru,Raketa,https://www.raketa.com/,static server
+145,3309,raketa-net.ru,Raketa-Net,https://raketa-net.ru/,first-party host
+146,2019,abtasty.com,AB Tasty,https://www.abtasty.com/,marketing
+147,2019,abtasty.com,AB Tasty,https://www.abtasty.com/,marketing
+148,2573,garmin.com,Garmin Ltd.,https://www.garmin.com,first-party host
+149,2573,garmin.com,Garmin,www.garmin.com,first-party host
+150,875,xvideos.com,XVideos,https://www.xvideos.com/,adult content
+151,875,xvideos.com,Xvideos,https://www.xvideos.com/,adult content
+152,3312,vigothaiclub.info,,,
+153,3312,vigothaiclub.info,Vigo Thai Club,vigothaiclub.info,first-party host
+154,784,polyfill.io,Financial Times,https://www.ft.com/,CDN
+155,784,polyfill.io,Financial Times,https://www.ft.com/,CDN
+156,1359,deviantart.net,DeviantArt,https://www.deviantart.com/,CDN
+157,1359,deviantart.net,DeviantArt,https://www.deviantart.com/,CDN
+158,2097,twitchsvc.net,"Twitch Interactive, Inc.",https://www.twitch.tv/,CDN
+159,2097,twitchsvc.net,Twitch,https://www.twitch.tv/,CDN
+160,3544,gen4.ninja,Gen4,https://gen4.com/,static server
+161,3544,gen4.ninja,Gen4,https://gen4.ninja/,CDN
+162,2415,beachfrontmedia.com,Beachfront Media,https://beachfront.com/,advertising
+163,2415,beachfrontmedia.com,Beachfront Media,https://beachfront.com/,advertising
+164,3239,orbwebsys.com,Orb Web System,https://www.orbwebsys.com/,static server
+165,3239,orbwebsys.com,OrbWeb Inc.,https://www.orbweb.com/,CDN
+166,1779,apptentive.com,Apptentive,https://www.apptentive.com/,marketing
+167,1779,apptentive.com,Apptentive,https://www.apptentive.com/,marketing
+168,3249,samsungrs.com,Samsung,www.samsung.com,first-party host
+169,3249,samsungrs.com,Samsung,www.samsung.com,first-party host
+170,2713,podbean.com,Podbean,https://www.podbean.com/,static server
+171,2713,podbean.com,Podbean,https://www.podbean.com/,static server
+172,533,nyu.edu,New York University,https://www.nyu.edu/,first-party host
+173,533,nyu.edu,New York University,https://www.nyu.edu/,First-party host
+174,117,vivox.com,Vivox,https://www.vivox.com/,CDN
+175,117,vivox.com,Vivox,https://www.vivox.com/,CDN
+176,2292,popin.cc,Popin Limited,popinlimited.com,marketing
+177,2292,popin.cc,,,
+178,2995,yts.mx,YIFY/YTS,https://yts.mx/,static server
+179,2995,yts.mx,YTS,https://yts.mx,first-party host
+180,2781,exosrv.com,ExoClick,https://www.exoclick.com/,advertising
+181,2781,exosrv.com,ExoClick,https://www.exoclick.com/,advertising
+182,2847,nielsendigital.net,,,
+183,2847,nielsendigital.net,Nielsen Digital,nielsendigital.com,Analytics
+184,3103,uninet-ide.com.mx,,,
+185,3103,uninet-ide.com.mx,Uninet,https://www.uninet.com.mx/,First-party Host
+186,1481,incapdns.net,Imperva Inc.,https://www.imperva.com/,DNS
+187,1481,incapdns.net,Imperva,https://www.imperva.com/,DNS
+188,1909,heapanalytics.com,Heap,https://heap.io/,analytics
+189,1909,heapanalytics.com,Heap,https://heap.io/,analytics
+190,3024,as9105.com,International Aerospace Quality Group (IAQG),https://www.sae.org/iaqg,static server
+191,3024,as9105.com,AS 9105,https://www.as9105.com/,DNS
+192,947,wordpress.org,The WordPress Foundation,https://wordpressfoundation.org/,first-party host
+193,947,wordpress.org,WordPress,https://wordpress.org/,First-party host
+194,1523,admission.net,Admission.net,https://admission.net/,marketing
+195,1523,admission.net,Admission.net,https://www.admission.net/,Education-related admission service provider
+196,1221,amazonaws.com.cn,Amazon,https://www.amazon.com/,CDN
+197,1221,amazonaws.com.cn,Amazon,www.amazon.com,CDN
+198,1109,viafoura.co,Viafoura,https://viafoura.com/,analytics
+199,1109,viafoura.co,Viafoura,https://viafoura.com/,analytics

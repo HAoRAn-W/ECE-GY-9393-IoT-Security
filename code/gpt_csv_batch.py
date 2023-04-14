@@ -18,7 +18,7 @@ domains.insert(len(domains.columns), 'result', "")
 total_count = len(domains)
 step = 200
 temperature = 1
-prompt = prompts.prompt2
+prompt = prompts.prompt1
 
 def gpt_query(URL, temperature, prompt):
     completion = openai.ChatCompletion.create(
@@ -35,7 +35,7 @@ def gpt_query(URL, temperature, prompt):
             )
     return completion
 
-for start in range(2600, total_count, step):
+for start in range(3400, total_count, step):
 
     start_time = time.time()
 
