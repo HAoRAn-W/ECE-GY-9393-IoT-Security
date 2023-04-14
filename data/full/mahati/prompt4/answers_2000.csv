@@ -1,501 +1,101 @@
 ,remote_hostname,company,company_website,result
-2000,as43234.net,LanCraft Ltd.,https://lancraft.co.uk/,CDN
-2001,cmds-tachyon.com,CmdSolutions,https://cmdsolutions.com/,CDN
-2002,usabilla.com,Usabilla,https://usabilla.com/,marketing
+2000,as43234.net,Unknown,,DNS
+2001,cmds-tachyon.com,CmdS Tachyon,https://www.cmds-tachyon.com/,CDN
+2002,usabilla.com,Usabilla,https://usabilla.com/,analytics
 2003,truste-svc.net,TrustArc,https://www.trustarc.com/,tracking
 2004,lametric.com,LaMetric,https://lametric.com/,marketing
-2005,cquotient.com,CQuotient,https://www.cquotient.com/,marketing
-2006,rakuten.com,Rakuten,https://www.rakuten.com/,marketing
-2007,oath.cloud,Verizon Media,https://www.verizonmedia.com,CDN
-2008,media6degrees.com,Media6Degrees,https://www.media6degrees.com/,advertising
-2009,inside-graph.com,InsideGraph,https://inside-graph.com/,analytics
-2010,bitwarden.com,Bitwarden,https://bitwarden.com/,first-party host
+2005,cquotient.com,CQuotient,cquotient.com,Marketing
+2006,rakuten.com,Rakuten,https://www.rakuten.com/,E-commerce platform
+2007,oath.cloud,Oath,https://www.oath.com/,CDN
+2008,media6degrees.com,Media6Degrees,media6degrees.com,marketing
+2009,inside-graph.com,Inside Graph,https://www.inside-graph.com,analytics
+2010,bitwarden.com,Bitwarden,bitwarden.com,first-party host
 2011,sweettooth.io,Sweet Tooth,https://www.sweettoothrewards.com/,marketing
-2012,auvik.com,Auvik Networks,https://www.auvik.com/,marketing
-2013,leaseweb.com,LeaseWeb,leaseweb.com,CDN
-2014,wo-cloud.com,"WOCLOUD TECHNOLOGIES CO., LTD",http://www.wo-cloud.com/,CDN
+2012,auvik.com,Auvik Networks,https://www.auvik.com/,analytics
+2013,leaseweb.com,Leaseweb,https://www.leaseweb.com/,CDN
+2014,wo-cloud.com,WO Cloud,https://www.wo-cloud.com/,CDN
 2015,youborafds01.com,,,
-2016,ntp.org.cn,China Standard Time Service Center,http://www.ntsc.ac.cn/,DNS
-2017,tableau.com,Tableau Software,https://www.tableau.com/,analytics
-2018,telefonica.net,Telefonica,https://www.telefonica.com/,First-party host
+2016,ntp.org.cn,Chinese National Time Service Center,http://www.ntsc.ac.cn/,DNS
+2017,tableau.com,Tableau,tableau.com,analytics
+2018,telefonica.net,Telefónica,https://www.telefonica.com/,first-party host
 2019,abtasty.com,AB Tasty,https://www.abtasty.com/,marketing
 2020,videoplaza.tv,Videoplaza,https://www.videoplaza.com/,advertising
-2021,media-lab.ai,Media Lab AI,https://media-lab.ai/,First-party host
-2022,emisiondof6.com,Unknown,,Unknown purpose
-2023,telefonica.com,Telefónica,https://www.telefonica.com,first-party host
+2021,media-lab.ai,Media Lab AI,https://media-lab.ai/,CDN
+2022,emisiondof6.com,Emisiondof6,emisiondof6.com,DNS
+2023,telefonica.com,Telefonica,https://www.telefonica.com/,first-party host
 2024,dof6.com,,,
 2025,lifx.com,LIFX,https://www.lifx.com/,first-party host
-2026,lifx.co,LIFX,https://www.lifx.com/,marketing
+2026,lifx.co,LIFX,https://www.lifx.com/,first-party host
 2027,114dns.com,114DNS,https://www.114dns.com/,DNS
 2028,snssdk.com,ByteDance,https://www.bytedance.com/,CDN
-2029,pstatp.com,ByteDance,https://www.bytedance.com/,advertising
+2029,pstatp.com,,,
 2030,cloudlinks.cn,CloudLinks,https://www.cloudlinks.cn/,DNS
 2031,alidns.com,Alibaba Cloud,https://www.alibabacloud.com/,DNS
-2032,jivox.com,Jivox,https://jivox.com,marketing
-2033,worxlandroid.com,Worx,https://www.worx.com/,first-party host
-2034,m.me,Facebook,https://www.facebook.com/,first-party host
-2035,messenger.com,Facebook,https://www.facebook.com/,first-party host
-2036,youtu.be,Google,https://www.google.com/,video sharing platform
-2037,fb.gg,Facebook,https://www.facebook.com/,first-party host
-2038,withings.net,Withings,https://www.withings.com/,first-party host
-2039,answerscloud.com,Answers Corporation,https://www.answers.com/,marketing
-2040,dropboxusercontent.com,Dropbox,https://www.dropbox.com,CDN
-2041,luminati.io,Luminati,https://luminati.io/,proxy and residential IP provider
+2032,jivox.com,Jivox,jivox.com,marketing
+2033,worxlandroid.com,Worx Landroid,worxlandroid.com,First-party host
+2034,m.me,Facebook,https://www.facebook.com/,Messaging app platform used by Facebook
+2035,messenger.com,Facebook,https://www.facebook.com/,Messaging platform
+2036,youtu.be,Google,https://www.google.com/,CDN
+2037,fb.gg,Facebook,https://www.facebook.com/,marketing
+2038,withings.net,Withings,www.withings.com,first-party host
+2039,answerscloud.com,Answers Corporation,https://www.answers.com/,Marketing
+2040,dropboxusercontent.com,Dropbox,https://www.dropbox.com/,static server
+2041,luminati.io,Luminati,https://luminati.io/,Proxy and residential IP service provider
 2042,luminatinet.com,Luminati Networks,https://luminati.io/,CDN
-2043,bfmio.com,Bfmio,https://www.bfmio.com/,marketing
-2044,hola.org,Hola Networks Ltd.,https://hola.org/,VPN service provider
-2045,lum-superproxy.io,Luminati,https://luminati.io,CDN
+2043,bfmio.com,BFMIO,https://www.bfmio.com/,CDN
+2044,hola.org,,,
+2045,lum-superproxy.io,Unknown,,Unknown
 2046,axs.com,AXS,https://www.axs.com/,ticketing and event management
-2047,123freecell.com,TreeCardGames,https://www.treecardgames.com/,first-party host
-2048,ignorelist.com,Disconnect,https://disconnect.me/,DNS
-2049,clmbtech.com,Clmbtech,https://www.clmbtech.com/,advertising
+2047,123freecell.com,123 Free Cell,https://www.123freecell.com/,gaming website
+2048,ignorelist.com,Ignorelist,ignorelist.com,DNS
+2049,clmbtech.com,Clmbtech,https://www.clmbtech.com/,ad serving and analytics
 2050,adgear.com,AdGear,https://adgear.com/,advertising
-2051,webrootcloudav.com,Webroot,https://www.webroot.com/,antivirus software provider
+2051,webrootcloudav.com,Webroot,webroot.com,Antivirus software provider
 2052,powerbi.com,Microsoft,https://www.microsoft.com/,analytics
-2053,sssnet.com,South Slope Cooperative Communications,https://www.southslope.com/,first-party host
-2054,beam.pro,Beam Interactive,https://beam.pro/,first-party host
-2055,audioeye.com,AudioEye,https://www.audioeye.com/,marketing
-2056,highwebmedia.com,HighWeb Media,https://www.highwebmedia.com/,marketing
-2057,pub-tmaws.io,Amazon Web Services,https://aws.amazon.com/,CDN
-2058,safebee.com,SafeBee,https://www.safebee.com/,marketing
-2059,basis.net,Basis Technologies,https://www.basistechnologies.com/,first-party host
+2053,sssnet.com,SSSNet,https://www.sssnet.com/,first-party host
+2054,beam.pro,Beam Interactive,https://beam.pro/,streaming platform and first-party host
+2055,audioeye.com,AudioEye,https://www.audioeye.com/,First-party host
+2056,highwebmedia.com,High Web Media,https://www.highwebmedia.com/,marketing
+2057,pub-tmaws.io,Akamai Technologies,https://www.akamai.com/,CDN
+2058,safebee.com,SafeBee,safebee.com,first-party host
+2059,basis.net,Basis,https://www.basis.net/,CDN
 2060,salecycle.com,SaleCycle,https://www.salecycle.com/,marketing
-2061,dzcdn.net,Dynamsoft,https://www.dynamsoft.com/,CDN
-2062,2i3.net,2i3 Corporation,https://2i3.com/,CDN
-2063,dellsupportcenter.com,Dell Inc.,https://www.dell.com/,first-party host
-2064,amcrestcloud.com,Amcrest,https://amcrest.com/,cloud storage service for Amcrest cameras
-2065,amcrestview.com,Amcrest,https://amcrest.com/,first-party host
-2066,amcrestsecurity.com,Amcrest,https://amcrest.com/,first-party host
+2061,dzcdn.net,Daizu,https://daizu.io/,CDN
+2062,2i3.net,2i3,https://www.2i3.net/,DNS
+2063,dellsupportcenter.com,Dell,https://www.dell.com/,Support and troubleshooting for Dell products
+2064,amcrestcloud.com,Amcrest,https://amcrest.com/,CDN
+2065,amcrestview.com,Amcrest,amcrest.com,first-party host
+2066,amcrestsecurity.com,Amcrest,https://amcrest.com,first-party host
 2067,usbla.net,Unknown,,DNS
 2068,arin.net,American Registry for Internet Numbers,https://www.arin.net/,DNS
-2069,in-addr-servers.arpa,N/A,N/A,DNS
-2070,idrive.com,IDrive,https://www.idrive.com/,first-party host
-2071,ibackup.com,IBackup,https://www.ibackup.com/,backup and data storage service
+2069,in-addr-servers.arpa,Internet Assigned Numbers Authority (IANA),https://www.iana.org/,DNS
+2070,idrive.com,IDrive,https://www.idrive.com/,cloud backup and storage service
+2071,ibackup.com,iBackup,https://www.ibackup.com/,static server
 2072,leanstream-hq.com,LeanStream,https://www.leanstreamhq.com/,first-party host
-2073,ip-api.com,ip-api.com,https://ip-api.com/,DNS
-2074,edgecastdns.net,Verizon Digital Media Services,https://www.verizondigitalmedia.com/,DNS
+2073,ip-api.com,APILAYER,https://apilayer.com/,geolocation API provider
+2074,edgecastdns.net,Verizon Media,https://www.verizonmedia.com,DNS
 2075,readdle.com,Readdle,https://readdle.com/,first-party host
-2076,obihai.com,Obihai,https://www.obihai.com/,first-party host
+2076,obihai.com,Obihai,obihai.com,first-party host
 2077,obitalk.com,Obihai Technology,https://www.obitalk.com/,first-party host
-2078,136.in-addr.arpa,,,
-2079,mycingular.net,AT&T,https://www.att.com/,first-party host
+2078,136.in-addr.arpa,,,DNS
+2079,mycingular.net,AT&T,https://www.att.com/,DNS
 2080,ericashome.com,Erica's Home,https://www.ericashome.com,first-party host
-2081,premiumize.me,Premiumize.me,https://www.premiumize.me/,CDN
+2081,premiumize.me,Premiumize,https://www.premiumize.me/,CDN
 2082,krypt.com,,,
-2083,nzbgeek.info,NZBgeek,https://nzbgeek.info,first-party host
+2083,nzbgeek.info,NZBGeek,https://nzbgeek.info/,First-party host
 2084,vesync.com,VeSync,https://www.vesync.com/,first-party host
-2085,ngxcld.com,NGINX Inc.,https://www.nginx.com/,CDN
-2086,myhomescreen.tv,Panasonic,https://www.panasonic.com/,first-party host
-2087,getyourguide.com,GetYourGuide,https://www.getyourguide.com/,marketing
-2088,doub.ly,Bitly,https://bitly.com/,URL shortening service
-2089,optonline.net,Altice USA,https://www.alticeusa.com/,First-party host
+2085,ngxcld.com,NGXCLD,https://www.ngxcld.com/,CDN
+2086,myhomescreen.tv,My Home Screen,https://www.myhomescreen.tv/,first-party host
+2087,getyourguide.com,GetYourGuide,getyourguide.com,marketing
+2088,doub.ly,DoubleVerify,https://www.doubleverify.com/,Advertising
+2089,optonline.net,Optimum Online,https://www.optimum.net/,DNS
 2090,readcube.com,ReadCube,https://www.readcube.com/,analytics
 2091,nrk.no,NRK,https://www.nrk.no/,first-party host
 2092,accedo.tv,Accedo,https://www.accedo.tv/,CDN
-2093,tns-cs.net,TNS,https://www.tnsglobal.com/,CDN
-2094,zoominternet.net,"Armstrong Utilities, Inc.",https://www.armstrongonewire.com/,DNS
-2095,appboy-images.com,Appboy,https://www.braze.com/,CDN
-2096,ign.com,"IGN Entertainment, Inc.",https://www.ign.com/,gaming news and reviews
-2097,twitchsvc.net,,,
-2098,maas.global,MaaS Global,https://maas.global/,first-party host
-2099,influxdata.com,InfluxData,https://www.influxdata.com/,First-party host
-2100,sensibo.com,Sensibo,https://sensibo.com/,marketing
-2101,untappd.com,Untappd LLC,https://untappd.com/,social media platform for beer enthusiasts
-2102,dedicatedpanel.com,DedicatedPanel,https://www.dedicatedpanel.com/,static server
-2103,swypeconnect.com,Nuance Communications,https://www.nuance.com,marketing
-2104,yetwp.com,Yet Another Ltd.,http://www.yetanother.com/,DNS
-2105,smartnews.com,SmartNews,https://www.smartnews.com/,news aggregator
-2106,moviesanywhere.com,Movies Anywhere,https://moviesanywhere.com/,first-party host
-2107,quickconnect.cn,QuickConnect,https://www.quickconnect.cn/,CDN
-2108,tenjin.io,Tenjin,https://www.tenjin.io/,analytics
-2109,com.ru,,,
-2110,kpn.net,KPN,https://www.kpn.com/,first-party host
-2111,nstorage.org,Noble Storage Solutions,https://www.noblestoragesolutions.com/,static server
-2112,caiway.nl,Caiway,https://www.caiway.nl/,first-party host
-2113,tequilaboomboom.club,,,
-2114,edolphin.site,,,
-2115,icn.ua,ICN,http://www.icn.ua/,first-party host
-2116,mts-chita.ru,MTS,https://www.mts.ru/,first-party host
-2117,telmtproto.club,,,
-2118,wellhosted.ch,WellHosted,https://www.wellhosted.ch/,static server
-2119,aspadmin.net,Microsoft Corporation,https://www.microsoft.com/,Static server
-2120,steadfastdns.net,Steadfast Networks,https://www.steadfast.net/,DNS
-2121,research.com,Clarivate Analytics,https://clarivate.com/,analytics
-2122,group-ib.com,Group-IB,https://www.group-ib.com/,marketing
-2123,warezwaldo.org,Unknown,,Illegal Content Distribution
-2124,ip-54-36-110.eu,,,
-2125,lazerpenguin.com,Lazer Penguin,lazerpenguin.com,first-party host
-2126,ftp.sh,Unknown,,FTP server
-2127,torrentapi.org,TorrentAPI,https://torrentapi.org/,CDN
-2128,eztv.io,EZTV,https://eztv.re/,Torrent distribution for TV shows
-2129,eztv.ag,EZTV,https://eztv.io/,first-party host
-2130,limetorrents.info,Limetorrents,https://www.limetorrents.info/,torrent tracker
-2131,zooqle.com,Zooqle,https://zooqle.com/,torrent search engine
-2132,thepiratebay.org,The Pirate Bay,https://thepiratebay.org,first-party host
-2133,hypixel.net,Hypixel Studios,https://hypixelstudios.com/,first-party host
-2134,syncthing.net,Syncthing,https://syncthing.net/,first-party host
-2135,avistaz.to,Avistaz,https://avistaz.to/,first-party host
-2136,athom.com,Athom,https://athom.com,first-party host
-2137,ip-192-99-14.net,OVH Hosting,https://www.ovh.com/,static server
-2138,clipperoint.com,Clipperoint,https://www.clipperoint.com/,marketing
-2139,t-ipconnect.de,Deutsche Telekom,https://www.telekom.com/,DNS
-2140,privacy-center.org,TrustArc,https://www.trustarc.com/,privacy center
-2141,verisign.com,Verisign,https://www.verisign.com/,DNS
-2142,gotomeeting.com,LogMeIn,https://www.logmein.com/,video conferencing platform
-2143,expertcity.com,Experticity,https://www.experticity.com/,first-party host
-2144,symcd.com,Symantec Corporation,https://www.symantec.com/,CDN
-2145,foxitsoftware.com,Foxit Software,https://www.foxitsoftware.com/,marketing
-2146,corusappservices.com,Corus Entertainment,https://www.corusent.com/,first-party host
-2147,globaltv.com,Corus Entertainment,https://www.corusent.com/,first-party host
-2148,ddns3-instar.de,INSTAR,https://www.instar.com/,DNS
-2149,xnet.ro,X-Net,https://www.xnet.ro/,first-party host
-2150,rovicorp.com,Rovi Corporation,https://www.tivo.com/,marketing
-2151,airbnb.com,Airbnb,https://www.airbnb.com/,first-party host
-2152,privacymanager.io,OneTrust,https://onetrust.com/,privacy management platform
-2153,umbrella.com,Umbrella Corporation,https://www.umbrella.corp,first-party host
-2154,assoc-amazon.com,Amazon,https://www.amazon.com,marketing
-2155,forgesvc.net,ForgeRock,https://www.forgerock.com/,First-party host
-2156,craigslist.org,Craigslist,https://www.craigslist.org,"classified advertisements for jobs, housing, items for sale, and other services"
-2157,linksys.com,Linksys,https://www.linksys.com/,first-party host
-2158,klaviyo.com,Klaviyo,https://www.klaviyo.com/,marketing
-2159,byteoversea.net,ByteDance,https://www.bytedance.com/,first-party host
-2160,trendmicro.com,Trend Micro,https://www.trendmicro.com,first-party host
-2161,ryanair.com,Ryanair,https://www.ryanair.com/,first-party host
-2162,pi-charter.net,PI Charter,https://www.pi-charter.net/,first-party host
-2163,irdeto.com,Irdeto,irdeto.com,First-party host
-2164,dropboxstatic.com,Dropbox,https://www.dropbox.com,static server
-2165,cdnjquery.com,jQuery Foundation,https://jquery.org/,CDN
-2166,bamlabs.com,Bank of America,https://www.bankofamerica.com/,first-party host
-2167,aptible.in,,,
-2168,lankadeepa.lk,Lankadeepa,https://www.lankadeepa.lk/,first-party host
-2169,opera.software,Opera Software,https://www.opera.com/,first-party host
-2170,dmxleo.com,DMXleo,https://www.dmxleo.com/,marketing
-2171,bmo.com,BMO Financial Group,https://www.bmo.com/,first-party host
-2172,livesegmentservice.com,LiveRamp,https://liveramp.com/,analytics
-2173,actcorp.in,ACT Fibernet,https://www.actcorp.in/,first-party host
-2174,telesp.net.br,Telefônica Brasil,https://www.telefonica.com.br,first-party host
-2175,wi-power.com,WIPOWERSYS,https://www.wipowersys.com/,first-party host
-2176,megalinkcorp.com.br,,,
-2177,itans.com.br,ITANS,https://itans.com.br/,first-party host
-2178,etapanet.net,EtapaNet,https://etapanet.net/,DNS
-2179,imsbiz.com,IMSbiz,https://imsbiz.com/,marketing
-2180,maisnet.srv.br,,,
-2181,nastech.bg,Nastech,https://nastech.bg/,first-party host
-2182,dg-w.de,DGW GmbH,https://www.dg-w.de/,first-party host
-2183,cecollect.com,Crownpeak,https://www.crownpeak.com/,analytics
-2184,datapacket.com,DataPacket,https://www.datapacket.com/,CDN
-2185,epsonconnect.com,Epson,https://epson.com/,first-party host
-2186,playfabapi.com,Microsoft,https://www.microsoft.com/,API service for game development and game operations.
-2187,inq.com,Inq,https://www.inq.com/,marketing
-2188,schoolwires.com,Blackboard Inc.,https://www.blackboard.com/,CMS platform for educational institutions
-2189,userzoom.com,UserZoom,https://www.userzoom.com/,analytics
-2190,ups.com,UPS,https://www.ups.com/,shipping and logistics
-2191,myzmodo.com,Zmodo,https://www.zmodo.com/,first-party host
-2192,imgbox.com,Imgbox,https://imgbox.com/,static server
-2193,bilsyndication.com,BilSyndication,https://www.bilsyndication.com,marketing
-2194,udmserve.net,Unified Data Management,https://www.unifieddatamanagement.com/,CDN
-2195,histats.com,Histats,https://www.histats.com/,analytics
-2196,adform.net,Adform,https://site.adform.com/,advertising
-2197,dca0.com,,,
-2198,lqm.io,LQM,https://www.lqm.io/,first-party host
-2199,ttnet.com.tr,TTNET,https://www.ttnet.com.tr/,first-party host
-2200,spd-mgts.ru,SPD-MGTS,https://spd-mgts.ru/,first-party host
-2201,serverprofi24.com,Serverprofis GmbH,https://www.serverprofis.de/,Static server
-2202,xkcd.com,xkcd,https://xkcd.com/,comics and blog
-2203,perfectmarket.com,Perfect Market,https://www.perfectmarket.com/,marketing
-2204,opecloud.com,Opecloud,https://www.opecloud.com/,first-party host
-2205,pppoe.ca,PPPoe.ca,https://pppoe.ca/,DNS
-2206,amazon.com.mx,Amazon,amazon.com,e-commerce platform
-2207,usgs.gov,USGS,usgs.gov,First-party host
-2208,amazon.com.br,Amazon,https://www.amazon.com,first-party host
-2209,mopidy.com,Mopidy,https://mopidy.com/,first-party host
-2210,squarespace.com,Squarespace,https://www.squarespace.com/,Website Builder
-2211,me.me,Me.me,https://me.me/,marketing
-2212,herokudns.com,,,
-2213,akadns6.net,Akamai Technologies,https://www.akamai.com/,DNS
-2214,elliemae.io,"Ellie Mae, Inc.",https://www.elliemae.com/,CDN
-2215,alarm.com,Alarm.com,https://www.alarm.com/,first-party host
-2216,devicetask.com,DeviceTask,https://devicetask.com/,first-party host
-2217,mega.nz,Mega Limited,https://mega.nz/,cloud storage service
-2218,openload.co,Openload,https://openload.co/,static server
-2219,titlovi.com,Titlovi.com,https://www.titlovi.com/,first-party host
-2220,xiti.com,AT Internet,https://www.atinternet.com/,analytics
-2221,cellular.de,Deutsche Telekom AG,https://www.telekom.com/,first-party host
-2222,shawcable.net,Shaw Communications,https://www.shaw.ca/,First-party host
-2223,alphacdn.net,AlphaCDN,https://www.alphacdn.net/,CDN
-2224,hik-connect.com,Hikvision,https://www.hikvision.com/,first-party host
-2225,ezvizlife.com,EZVIZ,https://www.ezvizlife.com/,first-party host
-2226,zdbb.net,,,
-2227,dc-1.net,CDNetworks,https://www.cdnetworks.com/,CDN
-2228,inner-active.mobi,Inneractive,https://www.inner-active.com/,advertising
-2229,swiftkey.com,SwiftKey,https://www.swiftkey.com/,first-party host
-2230,adnxs.net,AppNexus,https://www.appnexus.com/,advertising
-2231,fastlylb.net,Fastly,https://www.fastly.com/,CDN
-2232,spiegel.de,Spiegel,www.spiegel.de,First-party host
-2233,cdn77.com,CDN77,https://www.cdn77.com/,CDN
-2234,discord.media,Discord Inc.,https://discord.com/,CDN
-2235,discord.com,Discord Inc.,https://discord.com/,first-party host
-2236,reson8.com,Reson8,https://www.reson8.com/,marketing
-2237,leadpages.io,Leadpages,https://www.leadpages.net/,marketing
-2238,lpages.co,Landing Pages,https://www.lpages.co/,marketing
-2239,vilynx.com,Vilynx,https://vilynx.com/,analytics
-2240,makeuseof.com,MakeUseOf,https://www.makeuseof.com/,technology blog and online learning platform
-2241,xbox.com,Microsoft Corporation,https://www.microsoft.com/,first-party host
-2242,hwcdn.net,"Highwinds Network Group, Inc.",https://www.stackpath.com/,CDN
-2243,eeroup.com,Eeroup,https://eeroup.com/,DNS
-2244,e2ro.com,,,
-2245,bwbx.io,Bloomberg,https://www.bloomberg.com/,CDN
-2246,raiplay.it,RAI - Radiotelevisione Italiana S.p.A.,http://www.rai.it/,first-party host
-2247,roksit.net,RoksiT,https://www.roksit.net/,CDN
-2248,edigitalsurvey.com,eDigitalSurvey,https://edigitalsurvey.com/,marketing
-2249,nibeuplink.com,NIBE,https://www.nibe.eu/,first-party host
-2250,chirpbooks.com,Chirp Books,https://www.chirpbooks.com/,e-commerce
-2251,control4.com,Control4,https://www.control4.com/,first-party host
-2252,m2.ai,,,
-2253,gettyimages.com,Getty Images,https://www.gettyimages.com/,stock photo and image library
-2254,arstechnica.net,Condé Nast,https://www.condenast.com/,technology news and reviews
-2255,iesnare.com,IESnare,https://www.iesnare.com/,tracking
-2256,videoplayerhub.com,Unknown,,Advertising
-2257,netnod.se,Netnod,https://www.netnod.se/,DNS
-2258,polycom.com,Polycom,www.polycom.com,first-party host
-2259,flashdance.cx,,,
-2260,fibianet.dk,Fibianet A/S,https://www.fibianet.dk/,first-party host
-2261,dscloud.biz,Dreamscape Networks,https://www.dreamscapenetworks.com/,CDN
-2262,logmeininc.com,"LogMeIn, Inc.",https://www.logmeininc.com/,first-party host
-2263,wia.cz,WIA,https://www.wia.cz/,first-party host
-2264,directwebhost.org,Direct Webhost,https://directwebhost.com/,first-party host
-2265,cphub.net,"Cloudflare, Inc.",https://www.cloudflare.com/,CDN
-2266,cloud-xip.io,"Cloudflare, Inc.",https://www.cloudflare.com/,CDN
-2267,scarabresearch.com,Scarab Research,https://scarabresearch.com/,analytics
-2268,pandasecurity.com,Panda Security,https://www.pandasecurity.com/,first-party host
-2269,gcdn.co,Google,https://www.google.com/,CDN
-2270,goto-rtc.com,GoTo,https://www.goto.com/,CDN
-2271,ptd.net,Pittsburgh Telecom Services,https://www.ptd.net/,first-party host
-2272,getpostman.com,Postman,https://www.postman.com/,marketing
-2273,eye4.cn,VStarcam,www.vstarcam.com,marketing
-2274,blokada.org,Blokada,https://blokada.org/,DNS
-2275,fyu.se,,,
-2276,abcd.network,ABCD Network,https://www.abcd.network/,CDN
-2277,netflixdnstest3.com,Netflix,https://www.netflix.com/,DNS
-2278,servenobid.com,ServeNobid,https://www.servenobid.com/,advertising
-2279,afterpay.com,Afterpay,https://afterpay.com,marketing
-2280,auth0.com,Auth0,https://auth0.com/,authentication and authorization provider
-2281,snopes.com,Snopes,https://www.snopes.com/,fact-checking
-2282,adtpulse.com,ADT,https://www.adt.com/,tracking
-2283,fast.com,Netflix,https://www.netflix.com/,CDN
-2284,17track.net,17track,https://www.17track.net/,tracking
-2285,aerisapi.com,Aeris,https://www.aeris.com/,API for IoT devices
-2286,artlogic.com,Artlogic,https://www.artlogic.net/,marketing
-2287,truoptik.com,Tru Optik,https://truoptik.com/,Analytics
-2288,ml314.com,Unknown,,Unknown
-2289,macpaw.com,MacPaw,https://macpaw.com/,Marketing
-2290,shortpixel.ai,ShortPixel,https://shortpixel.com/,marketing
-2291,tencent.com,Tencent,https://www.tencent.com/en-us/index.html,first-party host
-2292,popin.cc,Pop In Media,https://www.popin.media/,advertising
-2293,bdimg.com,Baidu,https://www.baidu.com/,CDN
-2294,dynamicyield.com,Dynamic Yield,https://www.dynamicyield.com/,marketing
-2295,queue-it.net,Queue-it,https://queue-it.com/,CDN
-2296,psychz.net,Psychz Networks,https://www.psychz.net/,CDN
-2297,ip-192-99-7.net,OVH SAS,https://www.ovh.com/,static server
-2298,apusapps.com,Apus Group,https://www.apusapps.com/,marketing
-2299,invokedapps.com,Invoked Apps,https://www.invokedapps.com/,first-party host
-2300,chaturbate.com,Chaturbate,https://chaturbate.com/,adult entertainment website
-2301,exoticads.com,Exotic Ads,https://www.exoticads.com/,advertising
-2302,wish.com,Wish,https://www.wish.com/,e-commerce
-2303,adzerk.net,Adzerk,https://adzerk.com/,advertising
-2304,papertrailapp.com,Papertrail,https://www.papertrail.com/,Analytics
-2305,marketingautomation.services,Marketing Automation Services,https://marketingautomation.services/,marketing
-2306,trustpilot.com,Trustpilot,https://www.trustpilot.com/,marketing
-2307,samsungknowledge.com,Samsung,https://www.samsung.com/,analytics
-2308,healthgrades.com,Healthgrades,https://www.healthgrades.com/,healthcare information and services
-2309,overkiz.com,Overkiz,https://www.overkiz.com/,IoT platform provider
-2310,nanoleaf.me,Nanoleaf,https://nanoleaf.me/,marketing
-2311,odaconline.com,Odaco,https://www.odaco.com/,marketing
-2312,quantcast.com,Quantcast Corporation,https://www.quantcast.com/,analytics
-2313,nanorep.co,Nanorep,https://www.nanorep.com/,marketing
-2314,vrv.co,"Ellation, LLC",https://www.ellation.com/,video streaming platform
-2315,oraclecloud.net,Oracle Corporation,https://www.oracle.com/,CDN
-2316,qualaroo.com,Qualaroo,https://qualaroo.com/,analytics
-2317,coinbase.com,Coinbase,https://www.coinbase.com/,First-party host
-2318,leboncoin.fr,Leboncoin,https://www.leboncoin.fr/,first-party host
-2319,schibsted.io,Schibsted,https://www.schibsted.com/,CDN
-2320,avis-verifies.com,Avis,https://www.avis.com/,marketing
-2321,orange.com,Orange,https://www.orange.com/,First-party host
-2322,algolia.net,Algolia,https://www.algolia.com/,CDN
-2323,hs-scripts.com,HubSpot,https://www.hubspot.com/,analytics
-2324,wikihow.com,wikiHow,https://www.wikihow.com,first-party host
-2325,hsappstatic.net,HubSpot,https://www.hubspot.com/,static server
-2326,usemessages.com,Intercom,https://www.intercom.com/,Marketing
-2327,bfmtv.com,BFMTV,https://www.bfmtv.com/,news and media website
-2328,nettvservices.com,Net TV Services,https://www.nettvservices.com/,CDN
-2329,zeasn.tv,Zeasn,https://www.zeasn.com/,CDN
-2330,tagcommander.com,TagCommander,https://www.tagcommander.com/,marketing
-2331,newegg.com,Newegg,https://www.newegg.com/,"e-commerce website for selling computer hardware, electronics, and other products"
-2332,kaspersky-labs.com,Kaspersky Lab,https://www.kaspersky.com/,first-party host
-2333,kaspersky.com,Kaspersky,https://www.kaspersky.com/,Security software provider
-2334,rach.io,Rachio,https://rachio.com/,First-party host
-2335,nightowldvr.com,Night Owl,https://nightowlsp.com/,first-party host
-2336,tawk.to,Tawk.to,https://www.tawk.to/,live chat and messaging platform
-2337,lemde.fr,Le Monde,https://www.lemonde.fr/,first-party host
-2338,pocket-image-cache.com,Pocket,https://getpocket.com/,CDN
-2339,cluep.com,Cluep,https://cluep.com/,marketing
-2340,spotad.co,Spotad,https://www.spotad.co/,advertising
-2341,vrvm.com,VRVM,https://vrvm.com/,DNS
-2342,rncdn7.com,Rubicon Project,https://rubiconproject.com/,CDN
-2343,devshift.org,DevShift,https://devshift.org/,first-party host
-2344,frontiernetworks.ca,Frontier Networks,https://frontiernetworks.ca/,first-party host
-2345,web4net.org,Web4Net,https://web4net.org/,first-party host
-2346,sskru.ac.th,Suan Sunandha Rajabhat University,https://www.sskru.ac.th/,first-party host
-2347,kas-labs.com,KAS LABS,https://www.kas-labs.com/,First-party host
-2348,groupme.com,GroupMe,https://groupme.com/,first-party host
-2349,panasonic.com,Panasonic,https://www.panasonic.com/,first-party host
-2350,hgtv.com,HGTV,https://www.hgtv.com/,marketing
-2351,pypi.org,Python Software Foundation,https://www.python.org/psf-landing/,first-party host
-2352,dlvr.it,dlvr.it,https://dlvr.it/,marketing
-2353,autofi.com,AutoFi,https://www.autofi.com/,marketing
-2354,zenkube.com,ZenKube,https://www.zenkube.com/,CDN
-2355,wtxcdn.com,WebTrends,https://www.webtrends.com/,CDN
-2356,zentrick.com,Zentrick,zentrick.com,advertising
-2357,quantummetric.com,Quantum Metric,https://www.quantummetric.com/,analytics
-2358,adspsp.com,Unknown,,Advertising
-2359,l-msedge.net,Microsoft Corporation,https://www.microsoft.com/,CDN
-2360,surfshark.com,Surfshark,https://surfshark.com/,first-party host
-2361,alltrails.com,AllTrails,https://www.alltrails.com/,first-party host
-2362,elta.com.tw,"ELTA Technology Co., Ltd.",https://www.elta.com.tw/,first-party host
-2363,appbaqend.com,Baqend,https://www.baqend.com/,CDN
-2364,vodafone-ip.de,Vodafone,https://www.vodafone.com/,DNS
-2365,xtracloud.net,XtraCloud,https://www.xtracloud.net/,static server
-2366,buchholz-digital.de,Buchholz Digital,https://www.buchholz-digital.de/,first-party host
-2367,rupertok.su,,,
-2368,siftscience.com,Sift Science,https://sift.com/,analytics
-2369,ziffdavis.com,Ziff Davis,https://www.ziffdavis.com/,marketing
-2370,bahnhof.net,Bahnhof AB,https://www.bahnhof.se,static server
-2371,vmware.com,VMware,https://www.vmware.com/,first-party host
-2372,edstem.org,Edstem,https://edstem.org/,first-party host
-2373,gpsonextra.net,Global Positioning Systems Inc.,https://www.gpsincusa.com/,CDN
-2374,contentabc.com,ContentABC,https://www.contentabc.com/,marketing
-2375,juicer.io,Juicer,https://www.juicer.io/,marketing
-2376,p2e.io,,,
-2377,usshc.com,USSHC,https://www.usshc.com/,first-party host
-2378,sunpowermonitor.com,SunPower Corporation,https://www.sunpower.com/,analytics
-2379,cardgamesolitaire.com,TreeCardGames,https://www.treecardgames.com/,first-party host
-2380,cedexis-test.com,Cedexis,https://www.cedexis.com/,CDN
-2381,elizabethwarren.com,Elizabeth Warren,https://elizabethwarren.com/,first-party host
-2382,pagekite.net,PageKite,https://pagekite.net/,CDN
-2383,b5p.us,,,
-2384,mydrobo.com,Drobo,https://www.drobo.com/,first-party host
-2385,secu100.net,,,
-2386,xmeye.net,"Dahua Technology Co., Ltd.",https://www.dahuasecurity.com/,tracking
-2387,ckt.net,"Cadence Design Systems, Inc.",https://www.cadence.com/,CDN
-2388,mynet.it,Mynet Srl,https://www.mynet.it/,first-party host
-2389,chartboost.com,Chartboost,https://www.chartboost.com/,advertising
-2390,sc-gw.com,SmartCom,http://www.smartcom-bulgaria.com/,CDN
-2391,airtelbroadband.in,Airtel,https://www.airtel.in/,first-party host
-2392,foxneodigital.com,Foxneo Digital,https://www.foxneodigital.com/,marketing
-2393,vivaldi.com,Vivaldi Technologies,https://vivaldi.com/,First-party host
-2394,soletechnology.com,Sole Technology,https://www.soletechnology.com/,first-party host
-2395,puregig.net,Puregig,https://www.puregig.net/,CDN
-2396,protect-your-privacy.net,Protect Your Privacy,https://www.protect-your-privacy.net/,DNS
-2397,bonzapuzzles.com,Bonzapuzzles,https://www.bonzapuzzles.com/,first-party host
-2398,ljusnet.se,Ljusnet AB,https://www.ljusnet.se/,first-party host
-2399,ogury.io,Ogury,https://ogury.com/,analytics
-2400,bugherd.com,BugHerd,bugherd.com,analytics
-2401,ivaws.com,Iveda,https://iveda.com/,CDN
-2402,basicattentiontoken.org,Basic Attention Token,https://basicattentiontoken.org/,First-party host
-2403,voip.ms,VoIP.ms,https://voip.ms/,"VoIP.ms is a first-party host, offering VoIP services for individuals and businesses."
-2404,isnssdk.com,ByteDance,https://www.bytedance.com/,CDN
-2405,daily-choices.com,Unknown,,marketing
-2406,ustc.edu.cn,University of Science and Technology of China,https://www.ustc.edu.cn/,first-party host
-2407,amap.com,"AutoNavi Software Co., Ltd.",http://www.autonavi.com/,mapping and navigation services
-2408,alikunlun.com,,,
-2409,error.arpa,,,
-2410,fsapi.com,F-Secure,https://www.f-secure.com/,CDN
-2411,f-secure.com,F-Secure,https://www.f-secure.com/,first-party host
-2412,vonage.com,Vonage,https://www.vonage.com/,first-party host
-2413,xdsl.is,Vodafone Iceland,https://www.vodafone.is/,DNS
-2414,xplornet.com,Xplornet,https://www.xplornet.com/,first-party host
-2415,beachfrontmedia.com,Beachfront Media,https://beachfront.com/,advertising
-2416,associates-amazon.com,Amazon,www.amazon.com,tracking
-2417,schoology.com,Schoology,https://www.schoology.com/,first-party host
-2418,uber.com,Uber,https://www.uber.com/,first-party host
-2419,latchaccess.com,Latch,latch.com,first-party host
-2420,raumfeld.com,Raumfeld,https://www.raumfeld.com/,first-party host
-2421,unrulymedia.com,Unruly,https://unruly.co/,advertising
-2422,teads.tv,Teads,https://www.teads.com/,advertising
-2423,telia.com,Telia Company AB,https://www.telia.com/,first-party host
-2424,dnsnode.net,DNSnode,https://www.dnsnode.net/,DNS
-2425,myiphost.com,MyIPHost,https://www.myiphost.com/,DNS
-2426,afraid.org,FreeDNS,https://freedns.afraid.org/,DNS
-2427,aviationweather.gov,National Oceanic and Atmospheric Administration,https://www.noaa.gov/,Weather tracking and forecasting
-2428,fastwebnet.it,Fastweb,https://www.fastweb.it/,first-party host
-2429,vodafone.pt,Vodafone Portugal,https://www.vodafone.pt,first-party host
-2430,comunitel.net,Comunitel Global S.A.,https://www.comunitel.net/,first-party host
-2431,tpnet.pl,TP S.A.,https://www.tp.pl/,first-party host
-2432,anteldata.net.uy,Antel,https://www.antel.com.uy/,first-party host
-2433,etb.net.co,ETB,https://www.etb.com/,first-party host
-2434,dedyn.io,Dedyn.io,https://dedyn.io/,DNS
-2435,myrepublic.co.id,MyRepublic,https://www.myrepublic.co.id/,first-party host
-2436,jon.cz,,,
-2437,gemnet.cz,Gemnet,https://www.gemnet.cz/,first-party host
-2438,go2cloud.org,Go2mobi,https://go2mobi.com/,marketing
-2439,ypncdn.com,Yottaa Inc.,https://www.yottaa.com/,CDN
-2440,amazon.cn,Amazon,https://www.amazon.com/,first-party host
-2441,airbnb.it,Airbnb,https://www.airbnb.com/,first-party host
-2442,airbnb.com.tw,Airbnb,https://www.airbnb.com/,first-party host
-2443,yelp.pt,Yelp,https://www.yelp.com/,first-party host
-2444,yelp.co.jp,Yelp,https://www.yelp.com/,marketing
-2445,yelp.com.tr,Yelp Inc.,https://www.yelp.com,first-party host
-2446,airbnb.cz,Airbnb,https://www.airbnb.com/,first-party host
-2447,yelp.de,Yelp,https://www.yelp.com,marketing
-2448,yelp.co.nz,Yelp,https://www.yelp.com,first-party host
-2449,amazonses.com,Amazon,https://www.amazon.com/,email service provider
-2450,autodesk.com,Autodesk,https://www.autodesk.com/,First-party host
-2451,appsee.com,Appsee,https://www.appsee.com/,analytics
-2452,accountkit.com,Facebook,https://www.facebook.com/,authentication service
-2453,mtg-api.com,MTGAPI,https://www.mtg-api.com/,API service for Magic: The Gathering trading card game.
-2454,spark.io,"Particle Industries, Inc.",https://www.particle.io/,first-party host
-2455,particle.io,"Particle Industries, Inc.",https://www.particle.io/,IoT platform provider
-2456,connman.net,Intel Corporation,https://www.intel.com/,first-party host
-2457,cloudflarebolt.com,Cloudflare,https://www.cloudflare.com/,CDN
-2458,ycombinator.com,Y Combinator,https://www.ycombinator.com/,first-party host
-2459,strava.com,Strava,https://www.strava.com/,fitness tracking and social networking platform
-2460,contobox.com,Contobox,https://www.contobox.com/,advertising
-2461,distiltag.com,Distil Networks,https://www.distilnetworks.com/,CDN
-2462,wordplays.com,Wordplays,https://www.wordplays.com/,first-party host
-2463,sailthru.com,Sailthru,https://www.sailthru.com/,marketing
-2464,venmo.com,Venmo,https://venmo.com/,Payment processing service
-2465,unbounce.com,Unbounce,https://unbounce.com/,marketing
-2466,ipstatp.com,IPinfo.io,https://ipinfo.io/,tracking
-2467,consumerreports.org,Consumer Reports,https://www.consumerreports.org/,first-party host
-2468,airpr.com,AirPR,https://www.airpr.com/,marketing
-2469,svc.ms,Microsoft,https://www.microsoft.com,CDN
-2470,adobeprimetime.com,Adobe,https://www.adobe.com/,CDN
-2471,torproject.org,The Tor Project,https://www.torproject.org/,first-party host
-2472,superhuman.com,Superhuman,https://superhuman.com/,first-party host
-2473,ip-192-99-15.net,"OVH Hosting, Inc.",https://www.ovh.com/,static server
-2474,quantumdex.io,Quantum Labs LLC,https://www.quantum-labs.com/,first-party host
-2475,axiscam.net,Axis Communications,https://www.axis.com/,static server
-2476,fandom.com,Fandom,https://www.fandom.com/,first-party host
-2477,wikia.com,Wikia,https://www.wikia.com/,static server
-2478,molotov.tv,Molotov,https://www.molotov.tv/,media streaming service
-2479,telemach.net,Telemach,https://telemach.si/,first-party host
-2480,inbake.com,Inbake,https://www.inbake.com/,Static Server
-2481,arcpublishing.com,Arc Publishing,https://www.arcpublishing.com/,CDN
-2482,ctfassets.net,Contentful,https://www.contentful.com,CDN
-2483,usa-streams.com,Unknown,,Streaming website
-2484,shopify.com,Shopify,https://www.shopify.com,e-commerce platform
-2485,postrelease.com,PostRelease,https://www.postrelease.com/,marketing
-2486,houzz.com,Houzz,www.houzz.com,marketing
-2487,bgr.com,"BGR Media, LLC",https://bgr.com/,technology news and reviews
-2488,expressapisv2.net,Express,https://www.express.com,CDN
-2489,your.org,Your.org,https://www.your.org/,first-party host
-2490,start.ca,Start.ca,https://start.ca/,First-party host
-2491,hearstapps.com,Hearst Corporation,https://www.hearst.com/,CDN
-2492,gigya.com,Gigya,https://www.gigya.com/,analytics
-2493,tele2.se,Tele2,https://www.tele2.se/,first-party host
-2494,mql5.com,MetaQuotes Ltd.,https://www.metaquotes.net/,analytics
-2495,ntv.io,NTV News,https://www.ntv.com.tr/,first-party host
-2496,hybrid.ai,Hybrid.ai,https://hybrid.ai/,marketing
-2497,wootric.com,Wootric,https://www.wootric.com/,marketing
-2498,mixmarket.biz,Mixmarket Ltd.,https://mixmarket.biz/,marketing
-2499,delta.com,Delta Air Lines,www.delta.com,first-party host
+2093,tns-cs.net,TNS,https://www.tnsglobal.com/,DNS
+2094,zoominternet.net,Zoom Internet,https://www.zoominternet.net/,DNS
+2095,appboy-images.com,Appboy,https://www.appboy.com/,CDN
+2096,ign.com,IGN,www.ign.com,Gaming and entertainment news website. First-party host.
+2097,twitchsvc.net,Twitch,https://www.twitch.tv/,CDN
+2098,maas.global,MAAS Global,https://maas.global/,First-party host
+2099,influxdata.com,InfluxData,https://www.influxdata.com/,first-party host

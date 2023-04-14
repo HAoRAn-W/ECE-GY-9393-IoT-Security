@@ -1,0 +1,501 @@
+,remote_hostname,company,company_website,result
+0,googleusercontent.com,Google,https://www.google.com/,static server
+1,google.com,Google,https://www.google.com/,first-party host
+2,gstatic.com,Google,https://www.google.com/,CDN
+3,nflxso.net,Netflix,https://www.netflix.com/,CDN
+4,netflix.com,Netflix,https://www.netflix.com/,first-party host
+5,scdn.co,StackPath,https://www.stackpath.com/,CDN
+6,spotify.com,Spotify,https://www.spotify.com,first-party host
+7,nflxext.com,Netflix,https://www.netflix.com/,tracking
+8,sentry-cdn.com,Sentry,https://sentry.io/,CDN
+9,amazonaws.com,,,
+10,youtube.com,Google,https://www.google.com/,video sharing platform
+11,ytimg.com,YouTube,www.youtube.com,CDN
+12,gvt2.com,,,
+13,amazon.com,Amazon,https://www.amazon.com/,first-party host
+14,amazonvideo.com,Amazon,https://www.amazon.com/,video streaming platform
+15,roku.com,Roku,https://www.roku.com/,first-party host
+16,googlevideo.com,Google,https://www.google.com/,CDN
+17,conviva.com,Conviva,https://www.conviva.com/,analytics
+18,ggpht.com,Google,https://www.google.com/,CDN
+19,googlesyndication.com,Google,https://www.google.com/,advertising
+20,media-amazon.com,Amazon,https://www.amazon.com/,CDN
+21,akamaihd.net,Akamai Technologies,https://www.akamai.com,CDN
+22,doubleclick.net,DoubleClick,https://www.doubleclickbygoogle.com/,advertising
+23,googleadservices.com,Google,https://www.google.com/,advertising
+24,nflxvideo.net,Netflix,https://www.netflix.com/,CDN
+25,aiv-delivery.net,AIV,https://www.aiv-inc.com/,CDN
+26,hbogo.com,HBO,https://www.hbo.com/,first-party host
+27,hbo.com,HBO,https://www.hbo.com/,first-party host
+28,dns.google,Google,https://www.google.com/,DNS
+29,mgo-images.com,MongoDB,https://www.mongodb.com,CDN
+30,mgo.com,"MongoDB, Inc.",https://www.mongodb.com/,DNS
+31,rokutime.com,Roku,https://www.roku.com/,first-party host
+32,plex.direct,Plex,https://www.plex.tv/,CDN
+33,ampproject.org,Google,https://www.google.com/,CDN
+34,omtrdc.net,Adobe,https://www.adobe.com,marketing
+35,plex.tv,Plex,https://www.plex.tv/,first-party host
+36,gvt1.com,,,
+37,cloudfront.net,Amazon,https://aws.amazon.com/,CDN
+38,akamaiedge.net,Akamai Technologies,https://www.akamai.com/,CDN
+39,akamaitechnologies.com,"Akamai Technologies, Inc.",https://www.akamai.com/,CDN
+40,wp.com,Automattic Inc,https://automattic.com/,first-party host
+41,domotz.com,Domotz,https://www.domotz.com/,IoT monitoring and network management solution provider
+42,app-measurement.com,Google,https://www.google.com/,analytics
+43,supersonicads.com,Supersonic,https://www.ironsrc.com/,advertising
+44,1e100.net,Google,https://www.google.com/,CDN
+45,tlnk.io,tlnk.io,https://tlnk.io/,marketing
+46,footprint.net,Footprint Networks,https://www.footprint.net/,DNS
+47,apigee.net,Apigee,https://www.apigee.com/,CDN
+48,mtvnservices.com,ViacomCBS,https://www.viacomcbs.com/,CDN
+49,slack-imgs.com,"Slack Technologies, Inc.",https://slack.com/,CDN
+50,futurecdn.net,,,
+51,smarterhq.io,SmarterHQ,https://smarterhq.com/,marketing
+52,googleapis.com,Google,https://www.google.com/,CDN
+53,microsoft.com,Microsoft Corporation,https://www.microsoft.com/,first-party host
+54,msedge.net,Microsoft Corporation,https://www.microsoft.com/,CDN
+55,gmail.com,Google,https://www.google.com/,email service
+56,facebook.com,Facebook,https://www.facebook.com/,first-party host
+57,whatsapp.net,WhatsApp,https://www.whatsapp.com/,CDN
+58,bugsnag.com,Bugsnag,https://www.bugsnag.com/,analytics
+59,android.com,Google,https://www.google.com/,first-party host
+60,izatcloud.net,IzatCloud,https://www.izatcloud.net/,CDN
+61,azureedge.net,Microsoft,https://www.microsoft.com/,CDN
+62,crashlytics.com,Crashlytics,https://www.crashlytics.com/,analytics
+63,apptimize.com,Apptimize,https://apptimize.com/,analytics
+64,eum-appdynamics.com,AppDynamics,https://www.appdynamics.com/,analytics
+65,onesignal.com,OneSignal,https://onesignal.com/,marketing
+66,acompli.net,,,
+67,truecaller.com,Truecaller,https://www.truecaller.com/,first-party host
+68,vivintsky.com,Vivint,https://www.vivint.com/,first-party host
+69,wzrkt.com,WizRocket,https://www.wizrocket.com/,marketing
+70,discover.com,Discover Financial Services,https://www.discover.com/,first-party host
+71,samsungiotcloud.com,Samsung,https://www.samsung.com/,IoT Cloud Platform
+72,hulu.com,"Hulu, LLC",https://www.hulu.com/,first-party host
+73,googletagservices.com,Google,https://www.google.com/,advertising
+74,samsungcloudsolution.net,Samsung,https://www.samsung.com/,CDN
+75,samsungacr.com,Samsung Electronics,https://www.samsung.com/,analytics
+76,elasticbeanstalk.com,Amazon Web Services,https://aws.amazon.com/,static server
+77,google-analytics.com,Google,https://www.google.com/,analytics
+78,amazoncrl.com,Amazon,https://www.amazon.com/,DNS
+79,2mdn.net,Google,https://www.google.com/,advertising
+80,app.link,Branch,https://branch.io/,URL shortening and link management platform
+81,feedburner.com,Google,https://www.google.com/,marketing
+82,pluto.tv,Pluto TV,https://pluto.tv/,streaming television service
+83,pavv.co.kr,Pavv,https://www.pavv.co.kr/,first-party host
+84,internetat.tv,,,
+85,samsungcloudsolution.com,Samsung,https://www.samsung.com/,marketing
+86,samsungelectronics.com,Samsung Electronics,https://www.samsung.com/,first-party host
+87,majorleaguegaming.com,Activision Blizzard,https://www.activisionblizzard.com/,eSports organization and media network
+88,samsungqbe.com,Samsung,https://www.samsung.com/,CDN
+89,samsungads.com,Samsung Ads,https://samsungads.com/,advertising
+90,samsungotn.net,Samsung,https://www.samsung.com/,CDN
+91,samsungrm.net,Samsung,https://www.samsung.com/,CDN
+92,fbcdn.net,Facebook,https://www.facebook.com/,CDN
+93,rwth-aachen.de,RWTH Aachen University,https://www.rwth-aachen.de/cms/root/Die-RWTH,first-party host
+94,mparticle.com,mParticle,https://www.mparticle.com/,analytics
+95,pki.goog,Google,https://www.google.com/,PKI certificate authority operated by Google
+96,yahoo.com,Yahoo,https://www.yahoo.com/,first-party host
+97,vidible.tv,AOL,https://www.aol.com/,marketing
+98,kochava.com,Kochava,https://www.kochava.com/,analytics
+99,thehill.com,Capitol Hill Publishing Corp.,https://thehill.com/,news and media outlet
+100,adcolony.com,AdColony,https://www.adcolony.com/,advertising
+101,flurry.com,Flurry,https://www.flurry.com/,analytics
+102,ueiwsp.com,UEIWSP,Unknown,Unknown - This domain does not provide enough information to determine its purpose.
+103,aptoide.com,Aptoide,https://www.aptoide.com/,third-party app store
+104,ottmon.net,OTT System,https://ottsystem.com/,CDN
+105,philo.com,Philo,https://www.philo.com,Streaming television service provider
+106,viki.io,"Viki, Inc.",https://www.viki.com/,CDN
+107,duckdns.org,Duck DNS,https://www.duckdns.org/,DNS
+108,mweb.co.za,MWEB,https://www.mweb.co.za/,first-party host
+109,akamaized.net,Akamai Technologies,https://www.akamai.com/,CDN
+110,playstation.net,Sony Interactive Entertainment LLC,https://www.sie.com/,first-party host
+111,intercom.io,Intercom,https://www.intercom.com/,marketing
+112,hotspotproxy.co,Hotspot Shield,https://www.hotspotshield.com/,VPN proxy service
+113,mineproxy.club,Unknown,,CDN
+114,playstation.com,Sony Interactive Entertainment LLC,https://www.sie.com/,first-party host
+115,epicgames.com,Epic Games,https://www.epicgames.com/,first-party host
+116,unrealengine.com,Epic Games,https://www.epicgames.com/,first-party host
+117,vivox.com,Vivox,https://www.vivox.com,CDN
+118,narvii.com,Amino Apps,https://aminoapps.com/,first-party host
+119,epicgames.net,Epic Games,https://www.epicgames.com/,first-party host
+120,ravm.tv,,,
+121,samsung.com,Samsung Electronics,https://www.samsung.com/,first-party host
+122,samsungosp.com,Samsung,https://www.samsung.com/,CDN
+123,ntp.org,The Network Time Foundation,https://www.nwtime.org/,DNS
+124,samsungcloud.com,Samsung,https://www.samsung.com/,cloud storage
+125,samsungapps.com,Samsung,https://www.samsung.com/,App store for Samsung devices
+126,signal.org,Signal Messenger LLC,https://signal.org/,first-party host
+127,disquscdn.com,Disqus,https://disqus.com/,CDN
+128,weather.com,The Weather Company,https://weather.com,weather and meteorology information website
+129,linkedin.com,LinkedIn Corporation,https://www.linkedin.com/,first-party host
+130,whispersystems.org,Signal Foundation,https://signal.org/,first-party host
+131,googletagmanager.com,Google,https://www.google.com/,analytics
+132,moatads.com,Moat by Oracle Data Cloud,https://www.oracle.com/data-cloud/,advertising
+133,adnxs.com,AppNexus,https://www.appnexus.com/,advertising
+134,optimizely.com,Optimizely,https://www.optimizely.com/,analytics
+135,bidswitch.net,BidSwitch,https://www.bidswitch.com/,advertising
+136,chartbeat.net,Chartbeat,https://chartbeat.com/,analytics
+137,sitescout.com,SiteScout,https://www.sitescout.com/,advertising
+138,att.com,AT&T Inc.,https://www.att.com/,first-party host
+139,permutive.com,Permutive,https://permutive.com/,analytics
+140,lookout.com,Lookout,https://www.lookout.com/,security
+141,lkt.is,Landsbankinn hf.,https://www.landsbankinn.is/en/,first-party host
+142,telenet.be,Telenet,https://www.telenet.be/,first-party host
+143,gravatar.com,Automattic Inc.,https://automattic.com/,avatar hosting service
+144,imrworldwide.com,IMR Worldwide,https://www.imrworldwide.com/,analytics
+145,krxd.net,"Krux Digital, LLC",https://www.salesforce.com/products/marketing-cloud/digital-advertising-ecosystem/,tracking
+146,evidon.com,Evidon,https://www.evidon.com/,tracking
+147,scorecardresearch.com,ScorecardResearch,https://www.scorecardresearch.com,analytics
+148,agkn.com,Acxiom Corporation,https://www.acxiom.com/,advertising
+149,demdex.net,Adobe Systems Inc.,https://www.adobe.com/,tracking
+150,innovid.com,Innovid,https://www.innovid.com/,marketing
+151,extremereach.io,Extreme Reach,https://extremereach.io/,marketing
+152,insightexpressai.com,InsightExpressAI,https://www.insightexpressai.com/,analytics
+153,uplynk.com,Uplynk,https://www.uplynk.com,CDN
+154,doubleverify.com,DoubleVerify,https://www.doubleverify.com,advertising
+155,spotxchange.com,SpotX,https://www.spotx.tv/,advertising
+156,fqtag.com,Fqtag,https://www.fqtag.com/,advertising
+157,adsrvr.org,The Trade Desk,https://www.thetradedesk.com/,advertising
+158,cogocast.net,Cogocast,https://www.cogocast.net/,CDN
+159,pippio.com,Pippio,https://www.pippio.com/,advertising
+160,apxlv.com,APX LV Limited,https://www.apxlabs.co/,CDN
+161,extend.tv,Extend,https://extend.tv/,marketing
+162,rlcdn.com,Akamai Technologies,https://www.akamai.com/,CDN
+163,videoamp.com,VideoAmp,https://videoamp.com/,advertising
+164,mdhv.io,,,
+165,litix.io,Litmus Automation,https://litmus.io/,IoT Platform Provider
+166,discovery.com,"Discovery, Inc.",https://corporate.discovery.com/,first-party host
+167,att.net,AT&T,https://www.att.com/,first-party host
+168,akadns.net,Akamai Technologies,https://www.akamai.com/,DNS
+169,apple.com,Apple Inc.,https://www.apple.com/,first-party host
+170,cloudflare.net,Cloudflare,https://www.cloudflare.com/,CDN
+171,fitbit.com,Fitbit,https://www.fitbit.com/,first-party host
+172,appdynamics.com,AppDynamics,https://www.appdynamics.com/,analytics
+173,apple-dns.net,Apple Inc.,https://www.apple.com/,DNS
+174,icloud.com,Apple Inc.,https://www.apple.com/,first-party host
+175,aaplimg.com,Apple Inc.,https://www.apple.com/,CDN
+176,mixpanel.com,Mixpanel,https://mixpanel.com/,analytics
+177,mozilla.org,Mozilla,https://www.mozilla.org,first-party host
+178,localytics.com,Localytics,https://www.localytics.com/,analytics
+179,att-idns.net,AT&T,https://www.att.com/,DNS
+180,itunes.com,Apple Inc.,https://www.apple.com/,CDN
+181,honeywell.com,Honeywell International,https://www.honeywell.com/,first-party host
+182,game-mode.net,Game-Mode.net,https://game-mode.net/,Gaming community website and server host
+183,images-amazon.com,Amazon.com,https://www.amazon.com/,static server
+184,sfx.ms,Microsoft Corporation,https://www.microsoft.com/,CDN
+185,usinternet.com,US Internet Corp,https://usinternet.com/,First-party host
+186,leanplum.com,Leanplum,https://www.leanplum.com/,marketing
+187,wikimedia.org,Wikimedia Foundation,https://wikimediafoundation.org/,static server
+188,adjust.com,Adjust,https://www.adjust.com/,analytics
+189,mozilla.net,Mozilla Corporation,https://www.mozilla.org/,first-party host
+190,pinterest.com,Pinterest,https://www.pinterest.com/,marketing
+191,phncdn.com,Pornhub,https://www.pornhub.com/,CDN
+192,skype.com,Microsoft Corporation,https://www.microsoft.com,first-party host
+193,mozilla.com,Mozilla,https://www.mozilla.org,first-party host
+194,dropbox.com,Dropbox,https://www.dropbox.com,file hosting and cloud storage service
+195,trustarc.com,TrustArc,https://www.trustarc.com,marketing
+196,dropboxapi.com,Dropbox,https://www.dropbox.com/,CDN
+197,ssl-images-amazon.com,Amazon,https://www.amazon.com/,CDN
+198,wikipedia.org,"Wikimedia Foundation, Inc.",https://wikimediafoundation.org/,first-party host
+199,audible.com,Audible,https://www.audible.com/,first-party host
+200,icfcdn.com,ICF International,https://www.icf.com/,CDN
+201,mopub.com,MoPub,mopub.com,advertising
+202,adtng.com,AdTiming,https://www.adtiming.com,advertising
+203,etahub.com,Eta Compute,etacompute.com,first-party host
+204,trafficjunky.net,TrafficJunky,https://www.trafficjunky.com/,advertising
+205,flipboard.com,Flipboard,https://flipboard.com/,first-party host
+206,thisamericanlife.org,This American Life,https://www.thisamericanlife.org/,first-party host
+207,itsup.com,IT Support,https://www.itsup.com/,first-party host
+208,asuscomm.com,ASUS,https://www.asus.com/,first-party host
+209,netcabo.pt,NOS,https://www.nos.pt/,first-party host
+210,telepac.pt,Telepac,https://www.telepac.pt/,first-party host
+211,proxy4.win,,,
+212,proxygo.us,,,
+213,hotspotproxy.gq,,,
+214,proxygo.club,,,
+215,demandbase.com,Demandbase,https://www.demandbase.com/,marketing
+216,twimg.com,Twitter,https://twitter.com/,CDN
+217,facebook.net,Facebook,https://www.facebook.com/,CDN
+218,livetelegram.cc,Unknown,,Suspicious
+219,llnwd.net,Limelight Networks,https://www.limelight.com/,CDN
+220,jtvnw.net,Akamai Technologies,https://www.akamai.com/,CDN
+221,ampme.com,AmpMe,https://www.ampme.com/,marketing
+222,sonyentertainmentnetwork.com,Sony Corporation,https://www.sony.com/,first-party host
+223,comcast.net,Comcast,https://www.comcast.com/,first-party host
+224,rr.com,Spectrum,https://www.spectrum.com/,DNS
+225,sl-reverse.com,SL Reverse,https://sl-reverse.com/,CDN
+226,myactv.net,Antietam Broadband,https://www.antietambroadband.com/,first-party host
+227,cloudapp.net,Microsoft Corporation,https://www.microsoft.com/,CDN
+228,setaptr.net,Setaptr,https://www.setaptr.net/,DNS
+229,servercontrol.com.au,Server Control,https://www.servercontrol.com.au/,static server
+230,unmetered.com,Unmetered,https://www.unmetered.com/,CDN
+231,azure.com,Microsoft,https://www.microsoft.com/,Cloud Computing Platform and Services
+232,edgecastcdn.net,Verizon Digital Media Services,https://www.verizondigitalmedia.com/,CDN
+233,amazon.co.uk,Amazon,https://www.amazon.com/,first-party host
+234,avcdn.net,AccuWeather,https://www.accuweather.com/,CDN
+235,ea.com,Electronic Arts,https://www.ea.com/,first-party host
+236,ubi.com,Ubisoft Entertainment,https://www.ubisoft.com/,first-party host
+237,respawn.com,Respawn Entertainment,https://www.respawn.com/,first-party host
+238,sitestream.net,SiteStream,https://www.sitestream.net/,CDN
+239,musical.ly,musical.ly,https://www.musical.ly/,first-party host
+240,ubisoft.com,Ubisoft,https://www.ubisoft.com/,first-party host
+241,ondemand.com,Akamai Technologies,https://www.akamai.com/,CDN
+242,goguardian.com,GoGuardian,https://www.goguardian.com/,analytics
+243,withgoogle.com,Google,https://www.google.com,first-party host
+244,hshh.org,,,
+245,insigniaproducts.com,Insignia,https://www.insigniaproducts.com/,first-party host
+246,urbanairship.com,Urban Airship,https://www.urbanairship.com/,marketing
+247,amazon-dss.com,Amazon,www.amazon.com,CDN
+248,a2z.com,A2Z Development Center,https://www.amazon.com/a2zdevelopmentcenter,CDN
+249,akamai.net,Akamai Technologies,https://www.akamai.com/,CDN
+250,sonos.com,Sonos,www.sonos.com,first-party host
+251,amazon-adsystem.com,Amazon,https://www.amazon.com/,advertising
+252,usatoday.com,USA Today,https://www.usatoday.com/,news website
+253,gannett-cdn.com,"Gannett Co., Inc.",https://www.gannett.com/,CDN
+254,wpdigital.net,WP Digital,https://wpdigital.net/,First-party host
+255,amazonalexa.com,Amazon,https://www.amazon.com,first-party host
+256,duapps.com,DU Apps Studio,www.duapps.com,marketing
+257,ntp-fireos.com,Amazon,https://aws.amazon.com/,DNS
+258,amazonsilk.com,Amazon,https://www.amazon.com/,CDN
+259,bbci.co.uk,BBC,https://www.bbc.com/,first-party host
+260,tapas.net,Tapas Media,https://tapas.io/,first-party host
+261,msftncsi.com,Microsoft Corporation,https://www.microsoft.com,DNS
+262,foldlife.net,FoldLife,https://foldlife.net/,first-party host
+263,amazonmusic.com,Amazon,https://www.amazon.com/,Music streaming service
+264,dropcam.com,Dropcam,https://www.dropcam.com/,first-party host
+265,edgekey.net,Akamai Technologies,https://www.akamai.com/,CDN
+266,mzstatic.com,Apple Inc.,https://www.apple.com/,CDN
+267,launchdarkly.com,LaunchDarkly,https://launchdarkly.com/,analytics
+268,advg.vip,,,
+269,truste.com,TrustArc,https://www.trustarc.com/,tracking
+270,adrta.com,AdRoll,https://www.adroll.com/,advertising
+271,tvpixel.com,TVSquared,https://tvsquared.com/,tracking
+272,placed.com,Placed,https://www.placed.com/,analytics
+273,samba.tv,Samba TV,https://samba.tv/,tracking
+274,stickyadstv.com,StickyADS.tv,https://www.stickyadstv.com/,advertising
+275,mookie1.com,Criteo,https://www.criteo.com/,advertising
+276,imtwjwoasak.com,,,
+277,qbk1.com,,,
+278,bluecava.com,BlueCava,https://www.bluecava.com/,tracking
+279,movetv.com,Move Networks,https://en.wikipedia.org/wiki/Move_Networks,CDN
+280,sling.com,Sling TV,https://www.sling.com/,first-party host
+281,twitter.com,Twitter,https://twitter.com/,social media platform
+282,cdninstagram.com,"Facebook, Inc.",https://www.facebook.com/,CDN
+283,office.com,Microsoft Corporation,https://www.microsoft.com/,productivity suite
+284,t.co,Twitter,https://twitter.com/,URL shortening service for Twitter
+285,reddit.com,Reddit,https://www.redditinc.com/,first-party host
+286,instagram.com,Facebook,https://www.facebook.com/,social media platform
+287,microsoftonline.com,Microsoft,https://www.microsoft.com/,authentication/login portal for Microsoft products and services
+288,sc-cdn.net,SmartClip,https://www.smartclip.com/,CDN
+289,one.one,,,
+290,appspot.com,Google,https://www.google.com/,CDN
+291,paypal.com,PayPal,https://www.paypal.com/,first-party host
+292,snapchat.com,Snap Inc.,https://www.snap.com/,social media and messaging platform
+293,office365.com,Microsoft Corporation,https://www.microsoft.com/,first-party host
+294,3gppnetwork.org,3GPP,https://www.3gpp.org/,DNS
+295,dynatrace.com,Dynatrace,https://www.dynatrace.com/,analytics
+296,pusher.com,Pusher,https://pusher.com/,real-time messaging and communication services provider
+297,redd.it,Reddit,https://www.redditinc.com/,first-party host
+298,gfycat.com,Gfycat,https://gfycat.com/,CDN
+299,tile-api.com,Tile Inc.,https://www.thetileapp.com/,API for Tile device tracking service
+300,ticktick.com,TickTick,https://ticktick.com/,productivity app
+301,statuspage.io,Atlassian,https://www.atlassian.com/,static server
+302,trusteer.com,IBM,https://www.ibm.com/,security software provider
+303,ecosia.org,Ecosia,https://www.ecosia.org/,search engine
+304,mapbox.com,Mapbox,www.mapbox.com,static server
+305,braze.eu,Braze,https://www.braze.com/,marketing
+306,adswizz.com,AdsWizz,https://www.adswizz.com/,advertising
+307,startappservice.com,StartApp,https://www.startapp.com/,advertising
+308,sharp-stream.com,SharpStream,https://sharp-stream.com/,CDN
+309,channel4.com,Channel Four Television Corporation,https://www.channel4.com,first-party host
+310,bombproxy.pro,,,
+311,hotspotproxy.live,,,
+312,tt2.live,,,
+313,starproxy.pro,Starproxy.pro,https://starproxy.pro/,CDN
+314,nflximg.net,Netflix,https://www.netflix.com/,CDN
+315,lgtvsdp.com,LG Electronics,https://www.lg.com,CDN
+316,lgappstv.com,LG Electronics,https://www.lg.com/,first-party host
+317,lgsmartad.com,LG Electronics,https://www.lg.com,advertising
+318,kustomerapp.com,Kustomer,https://www.kustomer.com/,marketing
+319,affirm.com,Affirm,https://www.affirm.com/,marketing
+320,company-target.com,Target,www.target.com,marketing
+321,fandango.com,"Fandango Media, LLC",https://www.fandango.com/,marketing
+322,google.ca,Google,https://www.google.com/,first-party host
+323,google.fr,Google,https://www.google.com/,first-party host
+324,goo.gl,Google,https://www.google.com/,URL shortener service
+325,google.it,Google,https://www.google.com/,first-party host
+326,google.co.uk,Google,https://www.google.com,first-party host
+327,g.co,Google,https://www.google.com/,DNS
+328,google.be,Google,https://www.google.com/,first-party host
+329,google.es,Google,https://www.google.com/,first-party host
+330,google.co.id,Google,https://www.google.com/,first-party host
+331,google.co.in,Google,https://www.google.com/,first-party host
+332,google.com.ua,Google,https://www.google.com/,first-party host
+333,google.dk,Google,https://www.google.com/,first-party host
+334,google.no,Google,https://www.google.com,first-party host
+335,google.at,Google,https://www.google.com/,first-party host
+336,google.nl,Google,https://www.google.com/,first-party host
+337,google.ch,Google,https://www.google.com/,first-party host
+338,google.gr,Google,https://www.google.com/,first-party host
+339,google.com.tw,Google,https://www.google.com/,first-party host
+340,google.co.kr,Google,https://www.google.com/,first-party host
+341,google.ro,Google,https://www.google.com/,first-party host
+342,google.se,Google,https://www.google.com/,first-party host
+343,sophos.com,Sophos,https://www.sophos.com/,security
+344,princeton.edu,Princeton University,https://www.princeton.edu/,first-party host
+345,hotjar.com,Hotjar,https://www.hotjar.com/,analytics
+346,duckduckgo.com,DuckDuckGo,https://duckduckgo.com/,search engine
+347,fing.io,Fing Limited,https://www.fing.com/,IoT device management and network security
+348,maxmind.com,MaxMind,https://www.maxmind.com/,analytics
+349,ampproject.net,Google,https://www.google.com/,CDN
+350,sc-static.net,Sitecore,https://www.sitecore.com/,static server
+351,firebaseapp.com,Google,https://www.google.com/,static server
+352,sony.tv,Sony,https://www.sony.com/,first-party host
+353,ndmdhs.com,,,
+354,amazon.co.jp,Amazon Japan,https://www.amazon.co.jp/,first-party host
+355,mlb.com,Major League Baseball,https://www.mlb.com/,first-party host
+356,primevideo.com,Amazon,https://www.amazon.com/,video streaming platform
+357,muscdn.com,MUSO,https://www.muso.com/,CDN
+358,flingo.tv,Flingo,https://flingo.tv/,video streaming
+359,playmemoriesonline.com,Sony Corporation,https://www.sony.com/,First-party host
+360,ink1001.com,Ink1001,https://ink1001.com/,marketing
+361,capitalonegslbex.com,Capital One,https://www.capitalone.com/,CDN
+362,giraffic.net,Giraffic,www.giraffic.com,CDN
+363,shoptv.com,Shop LC,https://www.shoplc.com/,marketing
+364,jwplatform.com,JW Player,https://www.jwplayer.com/,CDN
+365,amcs-tachyon.com,AMCS,https://www.amcsgroup.com/,static server
+366,youtube-nocookie.com,Google LLC,https://www.google.com/,static server
+367,nhl.com,National Hockey League,https://www.nhl.com/,first-party host
+368,internet-census.org,Carna Botnet Research Team,https://carna.botnet.abuse.ch/,research project
+369,vido.info,Vido,https://vido.info/,First-party host
+370,rapid7.com,Rapid7,https://www.rapid7.com/,first-party host
+371,fcloud.biz,,,
+372,linode.com,Linode,https://www.linode.com/,static server
+373,plex.bz,Plex,https://www.plex.tv/,CDN
+374,plexapp.com,Plex,https://www.plex.tv/,first-party host
+375,nvidia.com,NVIDIA,https://www.nvidia.com/,first-party host
+376,npr.org,NPR,https://www.npr.org/,first-party host
+377,streamtheworld.com,StreamTheWorld,https://www.streamtheworld.com/,CDN
+378,aibixby.com,Aibixby,https://aibixby.com,First-party host
+379,ring.com,Ring,https://ring.com/,video doorbell and home security products
+380,allrecipes.com,Meredith Corporation,https://www.meredith.com/,recipe and cooking website (first-party host)
+381,sndcdn.com,SoundCloud Limited,https://soundcloud.com/,CDN
+382,people.com,Meredith Corporation,https://www.meredith.com/,marketing
+383,overwatchleague.com,Blizzard Entertainment,https://www.blizzard.com/,first-party host
+384,nbc.co,NBC Universal,https://www.nbcuniversal.com/,first-party host
+385,pandora.com,"Pandora Media, LLC",https://www.pandora.com,music streaming first-party host
+386,groceryserver.com,GroceryServer,https://www.groceryserver.com/,static server
+387,meraki.com,Meraki,https://www.cisco.com/c/en/us/products/cloud-systems-management/meraki/index.html,first-party host
+388,sbixby.com,Samsung,https://www.samsung.com,First-party host
+389,whisk.com,Whisk,https://whisk.com/,first-party host
+390,media-allrecipes.com,Allrecipes,https://www.allrecipes.com/,CDN
+391,ywxi.net,Google,https://www.google.com,Analytics
+392,tizenstore.com,Samsung,www.samsung.com,First-party host
+393,samsunghrm.com,Samsung,https://www.samsung.com,first-party host
+394,cspserver.net,MaxCDN,https://www.maxcdn.com/,CDN
+395,twit.tv,TWiT,https://twit.tv/,first-party host
+396,onyxmtp.online,Onyx MTP,https://onyxmtp.com/,DNS
+397,acquia.com,Acquia,https://www.acquia.com/,marketing
+398,hotspotproxy.xyz,Hotspot Proxy,https://hotspotproxy.xyz/,proxy server
+399,newslive2.xyz,Unknown,Unknown,Suspicious URL. May contain harmful content.
+400,nintendo.net,Nintendo,https://www.nintendo.com/,first-party host
+401,virginm.net,Virgin Media,https://www.virginmedia.com/,First-party host
+402,onedrive.com,Microsoft Corporation,https://www.microsoft.com,"cloud storage platform for personal and business use, offered by Microsoft"
+403,cloudflare.com,Cloudflare,https://www.cloudflare.com/,CDN
+404,windows.com,Microsoft Corporation,https://www.microsoft.com/,first-party host
+405,brightcove.net,Brightcove,https://www.brightcove.com/,CDN
+406,brightcove.com,Brightcove,https://www.brightcove.com/,CDN
+407,discord.gg,Discord,https://discord.com,first-party host
+408,boltdns.net,BoltDNS,https://boltdns.net/,DNS
+409,steampowered.com,Valve Corporation,https://www.valvesoftware.com/,first-party host
+410,twitch.tv,Twitch Interactive,https://www.twitch.tv/,first-party host
+411,salesforce.com,Salesforce,https://www.salesforce.com/,first-party host
+412,twitchcdn.net,"Twitch Interactive, Inc.",https://www.twitch.tv/,CDN
+413,siteforce.com,Salesforce,https://www.salesforce.com/,marketing
+414,transacme.com,Transacme,https://transacme.com/,First-party host
+415,tuyaus.com,Tuya,https://www.tuya.com/,IoT device management and control platform
+416,2o7.net,Adobe,https://www.adobe.com/,Analytics
+417,ihrhls.com,,,
+418,iheart.com,iHeartMedia,https://www.iheartmedia.com/,first-party host
+419,zillowstatic.com,Zillow Group,https://www.zillowgroup.com/,static server
+420,gumgum.com,GumGum,https://gumgum.com/,advertising
+421,tailtarget.com,Tail Target,https://www.tailtarget.com/,advertising
+422,doordash.com,DoorDash,https://www.doordash.com/,first-party host
+423,aiv-cdn.net,AIV,https://aiv.ai/,CDN
+424,as13285.net,TalkTalk Communications Limited,https://www.talktalk.co.uk/,DNS
+425,live.com,Microsoft Corporation,https://www.microsoft.com/,first-party host
+426,meethue.com,Philips,https://www.usa.philips.com/,First-party host
+427,tplinkra.com,TP-Link,https://www.tp-link.com/,first-party host
+428,tplinkcloud.com,TP-Link Technologies,https://www.tp-link.com/,IoT device management platform
+429,pushbullet.com,Pushbullet,https://www.pushbullet.com/,first-party host
+430,nist.gov,National Institute of Standards and Technology,https://www.nist.gov/,government agency website
+431,fungames-forfree.com,Fun Games For Free,https://www.fungames-forfree.com/,marketing
+432,tunein.com,TuneIn,https://tunein.com/,first-party host
+433,feelinsonice.com,Uber,https://www.uber.com/,Marketing
+434,adblockplus.org,eyeo GmbH,https://eyeo.com/,marketing
+435,tuyaeu.com,Tuya,https://www.tuya.com/,IoT platform
+436,bamgrid.com,BAMTech Media,https://www.bamtechmedia.com/,CDN
+437,babbel.com,Babbel,https://www.babbel.com/,first-party host
+438,presage.io,Presage,https://www.presage.io/,Analytics
+439,worldlifestyle.com,World Lifestyle,https://www.worldlifestyle.com/,marketing
+440,irobotapi.com,iRobot Corporation,https://www.irobot.com/,API for controlling iRobot devices
+441,pbs.org,PBS,https://www.pbs.org/,first-party host
+442,mlbstatic.com,Major League Baseball Advanced Media,https://www.mlb.com/,static server
+443,datadome.co,DataDome,https://www.datadome.co/,CDN
+444,githubusercontent.com,GitHub,https://github.com/,CDN
+445,tmdb.org,The Movie Database (TMDb),https://www.themoviedb.org/,movie database and API provider
+446,github.com,GitHub,https://github.com/,static server
+447,opendns.com,OpenDNS,https://www.opendns.com/,DNS
+448,bit.nl,BIT,https://www.bit.nl/,first-party host
+449,amplitude.com,Amplitude,https://amplitude.com/,analytics
+450,herokuapp.com,Heroku,https://www.heroku.com/,CDN
+451,alexa.com,Amazon,https://www.amazon.com/,analytics
+452,imgur.com,Imgur,https://imgur.com/,static server
+453,tetaneutral.net,Tetaneutral,https://www.tetaneutral.net/,first-party host
+454,amazontrust.com,Amazon,https://www.amazon.com/,CDN
+455,amazon.de,Amazon,https://www.amazon.com/,first-party host
+456,bit.ly,Bitly,https://bitly.com/,URL Shortening Service
+457,archive.org,Internet Archive,https://archive.org/,CDN
+458,segment.io,Segment,https://segment.com/,analytics
+459,kodi.tv,Kodi,https://kodi.tv/,Media center software
+460,op.gg,OP.GG,https://op.gg/,analytics
+461,f-droid.org,F-Droid,https://f-droid.org/,CDN
+462,lastpass.com,LastPass,https://www.lastpass.com/,password manager
+463,quad9.net,Quad9,https://www.quad9.net/,DNS
+464,bootstrapcdn.com,Bootstrap,https://getbootstrap.com/,CDN
+465,fontawesome.com,Font Awesome,https://fontawesome.com/,CDN
+466,jquery.com,jQuery Foundation,https://jquery.org/,Static server
+467,speedtest.net,Ookla,https://www.ookla.com/,analytics
+468,amazonpay.com,Amazon,https://www.amazon.com/,payment processing for merchants
+469,d3js.org,D3,https://d3js.org/,static server
+470,datatables.net,DataTables,https://datatables.net/,static server
+471,myshopify.com,Shopify,https://www.shopify.com/,CDN
+472,footprintdns.com,FootprintDNS,https://www.footprintdns.com/,DNS
+473,outlook.com,Microsoft Corporation,https://www.microsoft.com/,first-party host
+474,webtest.net,Akamai Technologies,https://www.akamai.com,CDN
+475,hotmail.com,Microsoft Corporation,https://www.microsoft.com,first-party host
+476,mb-cosmos.com,MB&F,https://www.mbandf.com/,marketing
+477,nzbplanet.net,NZBPlanet,https://nzbplanet.net/,first-party host
+478,amazonbrowserapp.com,Amazon,https://www.amazon.com/,marketing
+479,justgetflux.com,f.lux,https://justgetflux.com/,marketing
+480,slack.com,"Slack Technologies, Inc.",https://slack.com/,collaboration and communication platform
+481,dropboxcaptcha.com,Dropbox,https://www.dropbox.com/,CDN
+482,ably.io,Ably,https://www.ably.io/,CDN
+483,cdn-apple.com,Apple Inc.,https://www.apple.com/,CDN
+484,samsungcloud.tv,Samsung Electronics,https://www.samsung.com/,CDN
+485,ooreka.fr,Ooreka,https://www.ooreka.fr/,first-party host
+486,underdog.media,Underdog Media,https://www.underdogmedia.com/,advertising
+487,staticwars.com,Static Wars,https://staticwars.com/,static server
+488,tvsquared.com,TVSquared,https://tvsquared.com/,marketing
+489,bn765.com,,,
+490,comhem.se,Com Hem AB,https://www.comhem.se/,first-party host
+491,adobe.io,Adobe,https://www.adobe.com/,CDN
+492,msn.com,Microsoft Corporation,https://www.microsoft.com/,first-party host
+493,live.net,Microsoft Corporation,https://www.microsoft.com/,first-party host
+494,windowsupdate.com,Microsoft,https://www.microsoft.com/,first-party host
+495,bing.com,Microsoft,https://www.microsoft.com/,search engine
+496,adobe.com,Adobe,www.adobe.com,marketing
+497,amd.com,AMD,https://www.amd.com/,first-party host
+498,discordapp.com,Discord,https://discord.com/,first-party host
+499,dropbox-dns.com,Dropbox,https://www.dropbox.com/,DNS
