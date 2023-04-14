@@ -8,6 +8,7 @@ Haoran Wang | Mahati Madhira
 │   └───__pycache__
 └───data
     ├───CDN
+    ├───comparison
     └───full
         ├───haoran
         │   ├───prompt1
