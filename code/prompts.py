@@ -8,7 +8,7 @@ prompt4 = "You have been hired to analyze the web traffic of IoT devices in orde
 
 prompt5 = ""
 
-cdn_prompt = "You are a network expert. Check if the URL is for a CDN. Answer ONLY in JSON format with following field: 'result' (specific content type the CDN delivers or real purpose of the URL)"
+cdn_prompt = "You are a network expert. Check if the URL is for a CDN. If ot is, check if it is an Image Hosting platform or a Video hosting platform.Answer ONLY in JSON format with following field: 'result' (specific content type the CDN delivers)"
 
 # {
 #   "result": "Not a CDN"
