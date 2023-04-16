@@ -1,0 +1,201 @@
+,Unnamed: 0,remote_hostname,company,company_website,result
+0,3325,turbooo.xyz,Unknown,,It is difficult to determine the purpose of this URL without additional information.
+1,3325,turbooo.xyz,Unknown,,{'purpose': 'Unknown'}
+2,1575,stackoverflow.com,Stack Overflow,https://stackoverflow.com/,First-party host
+3,1575,stackoverflow.com,Stack Overflow,https://stackoverflow.com/,"{'purpose': ['Q&A forum for programmers to ask and answer technical questions.', 'Community-driven wiki for programmers to collaborate on creating and curating technical documentation.', 'Job board for technical positions.', 'Advertising platform for targeted developer audiences.'], 'services': ['Web hosting', 'Content delivery network (CDN)', 'Analytics', 'Marketing', 'User tracking', 'Third-party integrations']}"
+4,1631,pushwoosh.com,Pushwoosh,https://www.pushwoosh.com/,marketing
+5,1631,pushwoosh.com,Pushwoosh,https://www.pushwoosh.com/,push notifications and in-app messaging service provider
+6,1600,marketwatch.com,Dow Jones & Company,https://www.dowjones.com/,financial news and analysis
+7,1600,marketwatch.com,MarketWatch,https://www.marketwatch.com/,"['Financial news and stock market analysis', 'Investment information', 'Business journalism', 'Market data and research', 'Personal financial advice']"
+8,2853,tryinvision.com,"InVisionApp, Inc.",https://www.invisionapp.com/,marketing
+9,2853,tryinvision.com,InVision,https://www.invisionapp.com/,Design collaboration and prototyping platform
+10,433,feelinsonice.com,Cloudflare,https://www.cloudflare.com/,CDN
+11,433,feelinsonice.com,Cloudflare,https://www.cloudflare.com/,CDN
+12,2747,supercell.net,Supercell,supercell.com,first-party host
+13,2747,supercell.net,Supercell,supercell.com,"Domain used as the primary website for Supercell, a mobile game development company, to provide information about their games, company news, and job opportunities."
+14,846,tivo.com,TiVo Corporation,https://www.tivo.com/,marketing
+15,846,tivo.com,TiVo,https://www.tivo.com/,"{'purpose': ['marketing', 'tracking'], 'type': ['CDN'], 'content_delivery': 'Akamai'}"
+16,2041,luminati.io,Luminati,https://luminati.io/,proxy network for web data extraction and online privacy solutions
+17,2041,luminati.io,Luminati,https://luminati.io/,Proxy network
+18,723,sharethis.com,ShareThis,https://sharethis.com/,marketing
+19,723,sharethis.com,ShareThis,https://sharethis.com/,social sharing and engagement tool
+20,2074,edgecastdns.net,Verizon Media,https://www.verizonmedia.com/,DNS
+21,2074,edgecastdns.net,Verizon Edgecast,https://www.verizondigitalmedia.com/platform/edgecast-cdn/,DNS
+22,2408,alikunlun.com,Aliyun,https://www.alibabacloud.com/,CDN
+23,2408,alikunlun.com,Alikunlun,https://alikunlun.com,Cannot determine the purpose of the domain without further information or access to the website's server logs.
+24,3279,tula.net,Tula,https://tula.net/,DNS
+25,3279,tula.net,"Tula Technology, Inc.",https://tulatech.com/,It is not possible to determine the purpose of this domain without further information.
+26,945,utexas.edu,University of Texas at Austin,https://www.utexas.edu/,first-party host
+27,945,utexas.edu,The University of Texas at Austin,https://www.utexas.edu,educational institution website
+28,3123,inter.net.il,Interhost Communication Solutions Ltd,https://www.interhost.co.il/,DNS
+29,3123,inter.net.il,Inter.net Israel Ltd.,https://www.inter.net.il/,DNS
+30,3140,mivocloud.com,MivoCloud,https://mivocloud.com/,DNS
+31,3140,mivocloud.com,MivoCloud,https://www.mivocloud.com/,"It seems that MivoCloud provides a cloud-based hosting service for websites and applications. However, without access to their website's source code or network traffic, it is not possible to determine the specific purpose of the domain in terms of tracking, marketing, advertising, analytics, CDN, static server or DNS."
+32,1832,naver.jp,NAVER Corporation,https://www.navercorp.com/,first-party host
+33,1832,naver.jp,Naver Corporation,https://www.navercorp.com/en,DNS
+34,73,googletagservices.com,Google,https://www.google.com/,advertising
+35,73,googletagservices.com,Google,https://www.google.com/,CDN
+36,3287,nochost.ru,DNS,https://nochost.ru/,The purpose of this URL is to serve as a DNS host for domains registered with Nochost.ru.
+37,3287,nochost.ru,Nochost,https://www.nochost.ru/,DNS
+38,1500,glasswire.com,GlassWire,https://www.glasswire.com/,analytics
+39,1500,glasswire.com,GlassWire,https://www.glasswire.com/,Firewall and network monitoring tool for Windows devices
+40,2960,viettel.vn,Viettel Group,https://viettel.com.vn,DNS
+41,2960,viettel.vn,Viettel,https://viettel.vn/,It is not possible to identify the purpose of the domain with certainty without further information.
+42,1207,alphonso.tv,Alphonso Inc.,https://www.alphonso.tv/,Advertising
+43,1207,alphonso.tv,Alphonso Inc.,https://alphonso.tv/,tracking
+44,3412,kali.ru,Kali,https://kali.ru/,first-party host
+45,3412,kali.ru,Kali Linux,https://www.kali.org/,Operating System Download and Support
+46,571,muug.ca,Manitoba Unix User Group,https://muug.ca/,static server
+47,571,muug.ca,Manitoba UNIX User Group,https://muug.ca/,DNS
+48,3226,telegraph.co.uk,The Telegraph,https://www.telegraph.co.uk/,first-party host
+49,3226,telegraph.co.uk,The Telegraph,https://www.telegraph.co.uk/,"{'purpose': ['news', 'media'], 'CDN': True, 'DNS': True, 'static_server': True}"
+50,135,bidswitch.net,BidSwitch,https://www.bidswitch.com/,advertising
+51,135,bidswitch.net,Bidswitch,https://www.bidswitch.com/,Advertising
+52,1871,smartclip.net,Smartclip,https://www.smartclip.net/,advertising
+53,1871,smartclip.net,Smartclip,https://www.smartclip.net/,advertising
+54,2133,hypixel.net,Hypixel Studios,https://hypixelstudios.com/,first-party host
+55,2133,hypixel.net,Hypixel Studios,https://hypixel.net,gaming server
+56,2132,thepiratebay.org,The Pirate Bay,thepiratebay.org,peer-to-peer file sharing website
+57,2132,thepiratebay.org,The Pirate Bay,https://thepiratebay.org/,File sharing and BitTorrent tracker
+58,428,tplinkcloud.com,TP-Link,https://www.tp-link.com/,DNS
+59,428,tplinkcloud.com,TP-Link,www.tp-link.com,Cloud service for managing TP-Link networking devices remotely.
+60,13,amazon.com,CDN,https://aws.amazon.com/cloudfront/,"The provided URL is a content delivery network (CDN) used by Amazon to distribute static content, such as images and videos, to end users worldwide. CloudFront is Amazon's global CDN service that securely delivers data, videos, applications, and APIs to customers globally with low latency, high transfer speeds, all within a developer-friendly environment."
+61,13,amazon.com,Amazon,https://www.amazon.com/,"['e-commerce', 'cloud computing', 'content streaming', 'advertising', 'analytics', 'logistics', 'AI/ML', 'hardware (Kindle, Echo, etc.)']"
+62,1508,dpreview.com,DPReview,https://www.dpreview.com/,{'purpose': 'analytics'}
+63,1508,dpreview.com,dpreview,https://www.dpreview.com/,"['photography', 'reviews', 'forums']"
+64,172,appdynamics.com,AppDynamics,https://www.appdynamics.com/,analytics
+65,172,appdynamics.com,AppDynamics,https://www.appdynamics.com/,Application performance monitoring and management solutions
+66,601,oath.com,Oath,https://www.oath.com/,marketing
+67,601,oath.com,Oath,https://www.oath.com/,"Oath is a digital media company that includes brands like Yahoo, AOL, HuffPost, TechCrunch, and others. The purpose of the domain oath.com is to serve as a landing page for the company and to provide access to its various brands and services."
+68,2879,meredithcorp.io,Meredith Corporation,https://www.meredith.com/,marketing
+69,2879,meredithcorp.io,Meredith Corporation,https://www.meredith.com/,It is not clear what the purpose of meredithcorp.io is without further information or investigation.
+70,1496,testmynids.org,TestMyNIDS,https://www.testmynids.org/,analytics
+71,1496,testmynids.org,TestMyNIDS,https://testmynids.org,The purpose of the domain testmynids.org is to provide a platform to test the effectiveness of network intrusion detection systems (NIDS) through simulated attacks. The website allows users to upload PCAP files and perform a range of tests to determine whether their NIDS is detecting and alerting on the specified attacks. This domain is primarily used for testing and assessing NIDS capabilities rather than for marketing or advertising purposes.
+72,2756,teliacarrier.com,Telia Carrier,https://www.teliacarrier.com/,CDN
+73,2756,teliacarrier.com,Telia Carrier,https://www.teliacarrier.com/,This domain belongs to a company website and is likely used to provide information about Telia Carrier's services and products.
+74,1454,drivepedia.com,Unknown,,It is not possible to determine the purpose of the URL with certainty as it could serve different purposes depending on how the website is used.
+75,1454,drivepedia.com,Drivepedia,https://www.drivepedia.com/,"It is not possible to determine the exact purpose of the domain without further information or access to the backend systems of the company. However, based on the name of the company and the .com top-level domain, it is likely to be related to automotive or transportation industry. Further research is necessary to determine the specific purpose of the domain."
+76,824,blinkreceipt.com,BlinkReceipt,https://www.blinkreceipt.com/,analytics
+77,824,blinkreceipt.com,BlinkReceipt,https://www.blinkreceipt.com/,Receipt scanning and data extraction
+78,1461,ibm.com,IBM,https://www.ibm.com/,{'purpose': 'CDN'}
+79,1461,ibm.com,IBM,www.ibm.com,"{'purpose': ['Information Technology', 'Data Management', 'Cloud Computing', 'IoT', 'Artificial Intelligence', 'Blockchain', 'Cybersecurity', 'Software Development', 'Business Consulting', 'Research and Development']}"
+80,2599,axia.com,,,
+81,2599,axia.com,Axia,https://www.axia.com/,"It is not possible to identify the purpose of the domain as it is a company website and could serve multiple purposes such as providing information about the company, its products and services, careers, contacts, etc."
+82,2450,autodesk.com,Autodesk,https://www.autodesk.com/,marketing
+83,2450,autodesk.com,Autodesk,autodesk.com,"Autodesk's domain appears to serve as their primary website for promoting and selling their software products, as well as providing customer support and access to educational resources. The website likely utilizes various tools for tracking user behavior, analytics, and potentially includes a CDN for delivering content efficiently."
+84,2143,expertcity.com,ExpertCity,https://www.logmeininc.com/,remote desktop software and online meeting software
+85,2143,expertcity.com,Expertcity,https://www.expertcity.com/,"Expertcity is a software company that provides remote access and support solutions. Based on the company's website, it appears that the Expertcity domain is primarily used for the company's own website, which serves as a platform to showcase their products and services to potential customers, as well as provide support and resources for existing customers."
+86,697,stitcher.com,Stitcher,https://www.stitcher.com/,analytics
+87,697,stitcher.com,Stitcher,www.stitcher.com,podcast streaming and distribution platform
+88,920,nabucasa.com,Nabu Casa,https://www.nabucasa.com/,first-party host
+89,920,nabucasa.com,Nabu Casa,https://www.nabucasa.com/,"The domain appears to be the website of Nabu Casa, a provider of cloud-based services for Home Assistant, an open-source home automation platform. The domain might be used for hosting the company's website, user portal, or cloud services related to Home Assistant."
+90,2069,in-addr-servers.arpa,Internet Assigned Numbers Authority (IANA),https://www.iana.org/,DNS
+91,2069,in-addr-servers.arpa,Internet Assigned Numbers Authority (IANA),https://www.iana.org/,DNS (reverse DNS for IPv4 and IPv6 address to domain name resolution)
+92,1633,bingapis.com,Microsoft,https://www.microsoft.com/,API provider for Bing Web Search and Bing Autosuggest services.
+93,1633,bingapis.com,Microsoft Corporation,https://www.microsoft.com/,API services
+94,3401,htlbid.com,HTLBid,https://htlbid.com/,advertising
+95,3401,htlbid.com,HTL Bid,https://htlbid.com,"The purpose of htlbid.com domain is likely related to online auctions or bidding. Without further information, it is not possible to determine the exact purpose of the domain."
+96,2804,gravityrd-services.com,GravityRD,https://www.gravityrd.com/,CDN
+97,2804,gravityrd-services.com,Gravityrd Services,https://gravityrd-services.com/,{'purpose': ['Analytics']}
+98,2825,sharethru.com,Sharethrough,https://www.sharethrough.com/,Advertising
+99,2825,sharethru.com,Sharethrough,https://www.sharethrough.com/,advertising
+100,2059,basis.net,CDN,https://www.basis.net/,"Basis is a content delivery network (CDN) providing fast and secure delivery of static files, images, videos, and other content from a globally distributed network of servers. It is used to speed up websites and applications, reduce server load, and improve user experience."
+101,2059,basis.net,BASIS,https://www.basis.net/,It is not possible to determine the purpose of the domain without additional information or access to the network architecture.
+102,1346,edgedatg.com,Akamai Technologies,https://www.akamai.com/,CDN
+103,1346,edgedatg.com,Edge,https://www.edgedatg.com/,CDN
+104,1561,pollen.com,Pollen.com,https://www.pollen.com/,first-party host
+105,1561,pollen.com,Pollen,https://www.pollen.com/,tracking
+106,3535,chefsteps.com,ChefSteps,https://www.chefsteps.com/,marketing
+107,3535,chefsteps.com,ChefSteps,https://www.chefsteps.com/,"Recipes, Cooking Techniques, and Food Videos"
+108,45,tlnk.io,Talon.One,https://www.talon.one/,marketing
+109,45,tlnk.io,Tlnk.io,https://tlnk.io/,"URL shortener, link management and analytics platform"
+110,3170,kit.edu,Karlsruhe Institute of Technology,https://www.kit.edu/english/index.php,first-party host
+111,3170,kit.edu,Karlsruhe Institute of Technology,https://www.kit.edu/,"{'purpose': ['Education', 'Research'], 'services': ['Web Hosting', 'Email Hosting', 'DNS']}"
+112,202,adtng.com,Advertising,https://www.adtng.com/,The provided URL is primarily used for advertising purposes.
+113,202,adtng.com,ADTNG,https://adtng.com/,advertising
+114,3119,contabo.host,Contabo GmbH,https://contabo.com/,static server
+115,3119,contabo.host,Contabo GmbH,https://contabo.com/,static server
+116,1641,shifen.com,Shifen,https://www.shifen.com/,DNS
+117,1641,shifen.com,Shifen,shifen.com,It is not possible to determine the purpose of this domain without further information.
+118,2870,inpvp.net,INPVP,https://www.inpvp.net/,static server
+119,2870,inpvp.net,InPvP,https://www.inpvp.net/,gaming server
+120,3003,singnet.com.sg,Singtel,https://www.singtel.com/,DNS
+121,3003,singnet.com.sg,Singtel,https://www.singtel.com/,DNS
+122,3537,zedfilter.xyz,Unknown,,Cannot determine the purpose of the provided URL
+123,3537,zedfilter.xyz,ZedFilter,https://zedfilter.xyz,"It is not possible to determine the exact purpose of the domain without further information or analysis. The domain name suggests it could be related to web filtering or content moderation, but this information is speculative and not confirmed."
+124,359,playmemoriesonline.com,Sony Corporation,https://www.sony.com/,cloud-based photo sharing and storage service
+125,359,playmemoriesonline.com,Sony Corporation,https://www.sony.com/,cloud-based photo and video sharing and storage service
+126,3425,mail.com,mail.com,https://www.mail.com/,{'purpose': 'first-party host'}
+127,3425,mail.com,Mail.com,https://www.mail.com/,Email service provider
+128,1786,swedish-academy.org,Swedish Academy,https://www.svenskaakademien.se/svenska-akademien,first-party host
+129,1786,swedish-academy.org,Swedish Academy,https://swedishacademy.se/,Domain name
+130,2694,cambrium.nl,Cambrium,https://www.cambrium.nl/,DNS
+131,2694,cambrium.nl,Cambrium,https://www.cambrium.nl/,DNS
+132,3086,btopenworld.com,BT Openworld,https://www.bt.com/,CDN
+133,3086,btopenworld.com,BT Openworld,https://www.bt.com/bt-plc/,"{'purpose': 'Internet Service Provider', 'services': ['Broadband', 'Web hosting', 'Email']}"
+134,2139,t-ipconnect.de,T-Systems International GmbH,https://www.t-systems.com/,DNS
+135,2139,t-ipconnect.de,Deutsche Telekom AG,https://www.telekom.com/,DNS
+136,1633,bingapis.com,Microsoft,https://www.microsoft.com/,API provider for Bing Web Search and Bing Autosuggest services.
+137,1633,bingapis.com,Microsoft Corporation,https://www.microsoft.com/,API services
+138,475,hotmail.com,Microsoft Corporation,https://www.microsoft.com/,first-party host
+139,475,hotmail.com,Microsoft,https://www.microsoft.com/,Email Service Provider
+140,2652,cloudmobi.net,CloudMobi,https://cloudmobi.net/,marketing
+141,2652,cloudmobi.net,CloudMobi,https://www.cloudmobi.net/,marketing
+142,1831,line-scdn.net,LINE Corporation,https://linecorp.com/,CDN
+143,1831,line-scdn.net,LINE Corporation,https://linecorp.com/en/,CDN
+144,1539,alicdn.com,Alibaba Group,https://www.alibaba.com/,CDN
+145,1539,alicdn.com,Alibaba Cloud,https://www.alibabacloud.com/,Content Delivery Network (CDN)
+146,2871,mineplex.com,,,
+147,2871,mineplex.com,Mineplex,https://www.mineplex.com/,Gaming Server
+148,2945,xipline.com,Xipline,https://xipline.com/,marketing
+149,2945,xipline.com,Xipline,https://www.xipline.com/,It is not possible to determine the purpose of the domain without further information or analysis.
+150,1257,demonware.net,Demonware,https://www.demonware.net/,analytics
+151,1257,demonware.net,Demonware,https://www.demonware.net/,CDN
+152,1906,atlassian.com,Atlassian,https://www.atlassian.com/,"{'purpose': 'first-party host', 'description': 'Atlassian.com is a first-party host that serves as the primary web presence for Atlassian. It hosts various products and services offered by the company.'}"
+153,1906,atlassian.com,Atlassian,https://www.atlassian.com/,"['tracking', 'marketing', 'analytics']"
+154,1368,chili.com,Chili.com,https://www.chili.com/,It is not possible to determine the purpose of the URL without additional information.
+155,1368,chili.com,Chili.com,https://www.chili.com/,The purpose of the domain is to provide streaming services for movies and TV shows.
+156,1722,get.no,GET,https://www.get.no/,first-party host
+157,1722,get.no,GET AS,https://www.get.no/,"{'purpose': 'Internet Service Provider', 'services': ['Broadband internet', 'IPTV', 'Mobile services', 'Fixed-line telephony', 'Web hosting', 'Domain registration', 'Cloud services', 'Security services']}"
+158,2597,yamaha.com,Yamaha,www.yamaha.com,"{'purpose': 'mix of marketing, advertising, and analytics', 'details': 'The yamaha.com website serves as a platform for Yamaha to showcase and market their products to potential customers. The website also includes advertising to promote their products and services. Additionally, analytics tools are likely used to track user behavior and website performance.'}"
+159,2597,yamaha.com,Yamaha,https://www.yamaha.com/,"{'purpose': ['Marketing', 'Advertising'], 'type': 'Static Server'}"
+160,1599,mktoresp.com,Marketo,https://www.marketo.com/,marketing
+161,1599,mktoresp.com,Marketo,https://www.marketo.com/,marketing
+162,269,truste.com,TrustArc,https://www.trustarc.com/,first-party host
+163,269,truste.com,TrustArc,https://www.trustarc.com/,Tracking and Compliance Platform
+164,1660,twilio.com,Twilio,https://www.twilio.com/,marketing
+165,1660,twilio.com,Twilio,https://twilio.com,"Twilio provides a cloud communications platform that allows developers to build, scale, and operate real-time communications within software applications. The domain serves as the company's main website, offering information on their products, services, and customer solutions."
+166,1262,abcotvs.net,ABC Owned Television Stations,https://abcotvs.com/,CDN
+167,1262,abcotvs.net,ABC Owned Television Stations,https://abcotvs.com/,TV broadcasting network
+168,2548,unpkg.com,UNPKG,https://unpkg.com/,CDN
+169,2548,unpkg.com,unpkg,https://unpkg.com/,CDN (Content Delivery Network)
+170,707,branch.io,Branch,https://branch.io/,marketing
+171,707,branch.io,Branch,https://branch.io/,"tracking, deep linking, attribution"
+172,2390,sc-gw.com,SC-Gateway,https://sc-gw.com/,CDN
+173,2390,sc-gw.com,SC-GW,sc-gw.com,The purpose of the domain could not be determined as the website is currently offline.
+174,1317,zdf.de,Zweites Deutsches Fernsehen (ZDF),https://www.zdf.de/,first-party host
+175,1317,zdf.de,ZDF,https://www.zdf.de/,Media Content and Streaming
+176,2151,airbnb.com,Airbnb,www.airbnb.com,first-party host
+177,2151,airbnb.com,Airbnb,airbnb.com,The purpose of this domain is to provide a platform for people to rent out their homes or accommodations to travelers for short-term stays.
+178,1699,drift.com,Drift,https://www.drift.com/,marketing
+179,1699,drift.com,Drift,https://www.drift.com/,marketing
+180,605,snapcraft.io,Canonical Ltd,https://www.canonical.com/,CDN
+181,605,snapcraft.io,Canonical Ltd.,https://canonical.com/,"This domain is used as a platform for software developers to build, publish and distribute Snap packages for Linux systems."
+182,3466,fibaro.com,Fibaro,https://www.fibaro.com/,static server
+183,3466,fibaro.com,Fibaro,https://www.fibaro.com/,smart home automation products and solutions
+184,287,microsoftonline.com,Microsoft Corporation,https://www.microsoft.com/,first-party host
+185,287,microsoftonline.com,Microsoft Corporation,https://www.microsoft.com,DNS
+186,1650,uwaterloo.ca,University of Waterloo,https://uwaterloo.ca/,first-party host
+187,1650,uwaterloo.ca,University of Waterloo,https://uwaterloo.ca/,"{'purpose': 'Education', 'function': 'Providing information about the University, its faculties, departments, programs, and research.', 'type': 'Static Server'}"
+188,3382,mirrorservice.org,Mirror Service,https://www.mirrorservice.org/,static server
+189,3382,mirrorservice.org,Mirror Service,https://www.mirrorservice.org/,Static Server
+190,267,launchdarkly.com,LaunchDarkly,https://launchdarkly.com/,first-party host
+191,267,launchdarkly.com,LaunchDarkly,https://launchdarkly.com/,feature management platform
+192,2373,gpsonextra.net,Unknown,,"The purpose of gpsonextra.net URL is unclear and cannot be determined with certainty. It could potentially serve as a tracking, marketing, advertising or analytics tool, but further investigation is required to determine its exact function and ownership."
+193,2373,gpsonextra.net,GPSONEXTRA,gpsonextra.net,It is not possible to determine the purpose of this domain as no website is hosted on this domain. It seems that the domain is currently inactive.
+194,2736,ebillsoft.net,Ebillsoft,https://www.ebillsoft.net/,DNS
+195,2736,ebillsoft.net,eBillSoft,https://www.ebillsoft.net/,It is not possible to determine the purpose of this domain solely based on the information provided.
+196,2182,dg-w.de,DGW GmbH,https://dg-w.de/,static server
+197,2182,dg-w.de,DGW GmbH,https://dg-w.de/,It seems to be the website of the company providing IT services and solutions. Without further analysis it is not possible to determine the exact purpose of the domain.
+198,3497,192.in-addr.arpa,DNS,https://www.iana.org/domains/root/db,The URL is a reverse DNS lookup domain used to map an IP address to a hostname.
+199,3497,192.in-addr.arpa,Internet Assigned Numbers Authority (IANA),https://www.iana.org/,DNS
