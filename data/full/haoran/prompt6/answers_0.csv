@@ -1,0 +1,101 @@
+,remote_hostname,company,company_website,result
+0,googleusercontent.com,Google,https://www.google.com/,CDN
+1,google.com,Google,https://www.google.com/,"{'purpose': ['Search Engine', 'Advertising', 'Analytics', 'CDN', 'Email', 'Cloud Storage']}"
+2,gstatic.com,Google,https://www.google.com/,CDN (Content Delivery Network)
+3,nflxso.net,Netflix,https://www.netflix.com/,CDN
+4,netflix.com,"Netflix, Inc.",https://www.netflix.com/,Streaming and Content Delivery Network (CDN) services
+5,scdn.co,StackPath,https://www.stackpath.com/,CDN
+6,spotify.com,Spotify,spotify.com,music streaming service
+7,nflxext.com,Netflix,https://www.netflix.com/,CDN
+8,sentry-cdn.com,Sentry,https://sentry.io/,CDN
+9,amazonaws.com,Amazon Web Services,https://aws.amazon.com/,CDN and cloud computing services provider
+10,youtube.com,Google,https://www.google.com/,Video sharing platform
+11,ytimg.com,YouTube,https://www.youtube.com/,CDN
+12,gvt2.com,GVT2,http://www.gvt2.com/,Unable to determine the purpose of the domain as the website is not accessible.
+13,amazon.com,Amazon,https://www.amazon.com/,"['e-commerce', 'cloud computing', 'content streaming', 'advertising', 'analytics', 'logistics', 'AI/ML', 'hardware (Kindle, Echo, etc.)']"
+14,amazonvideo.com,Amazon,https://www.amazon.com/,Video Streaming Service
+15,roku.com,Roku,https://www.roku.com/,Streaming media platform and hardware manufacturer
+16,googlevideo.com,Google,https://www.google.com/,CDN
+17,conviva.com,Conviva,https://www.conviva.com/,Analytics
+18,ggpht.com,Google,https://www.google.com/,CDN
+19,googlesyndication.com,Google,https://www.google.com/,Advertising
+20,media-amazon.com,Amazon,https://www.amazon.com/,CDN
+21,akamaihd.net,Akamai Technologies,https://www.akamai.com/,CDN (Content Delivery Network)
+22,doubleclick.net,DoubleClick,https://www.doubleclick.net/,advertising
+23,googleadservices.com,Google,https://www.google.com/,Advertising
+24,nflxvideo.net,Netflix,https://www.netflix.com/,CDN
+25,aiv-delivery.net,AIV Delivery,https://www.aiv-delivery.net/,CDN
+26,hbogo.com,HBO,hbogo.com,Streaming and on-demand entertainment services
+27,hbo.com,HBO,hbo.com,Entertainment streaming service
+28,dns.google,Google,https://www.google.com/,DNS
+29,mgo-images.com,MGO Images,https://www.mgo-images.com/,static server
+30,mgo.com,MGO,https://www.mgo.com/,It is not possible to determine the purpose of the domain with the given information.
+31,rokutime.com,Roku,https://www.roku.com/,Video streaming and media player
+32,plex.direct,Plex,https://www.plex.tv/,CDN
+33,ampproject.org,AMP Project,https://www.ampproject.org/,CDN and Static Server
+34,omtrdc.net,Adobe Systems Incorporated,https://www.adobe.com,Marketing and analytics domain used by Adobe Marketing Cloud to track and analyze user interactions on websites.
+35,plex.tv,Plex,https://www.plex.tv/,media streaming
+36,gvt1.com,GVT1,https://gvt1.com,Cannot determine the purpose of the domain without further information.
+37,cloudfront.net,Amazon,https://aws.amazon.com/,CDN (Content Delivery Network)
+38,akamaiedge.net,Akamai Technologies,https://www.akamai.com/,Content Delivery Network (CDN)
+39,akamaitechnologies.com,Akamai Technologies,https://www.akamai.com/,CDN
+40,wp.com,WordPress.com,https://wordpress.com/,Content Management System (CMS) and blogging platform
+41,domotz.com,Domotz,https://www.domotz.com/,IoT network monitoring and management platform
+42,app-measurement.com,Google,https://www.google.com/,Analytics
+43,supersonicads.com,Supersonic,https://www.supersonic.com/,marketing
+44,1e100.net,Google,https://www.google.com/,CDN
+45,tlnk.io,Tlnk.io,https://tlnk.io/,"URL shortener, link management and analytics platform"
+46,footprint.net,Footprint,https://www.footprint.net/,CDN (Content Delivery Network)
+47,apigee.net,Apigee,https://apigee.com/,API management platform
+48,mtvnservices.com,MTV Networks,www.mtv.com,CDN
+49,slack-imgs.com,"Slack Technologies, Inc.",https://slack.com/,CDN
+50,futurecdn.net,"Future Hosting, LLC",https://www.futurehosting.com/,CDN
+51,smarterhq.io,SmarterHQ,https://smarterhq.io/,marketing
+52,googleapis.com,Google,https://www.google.com/,CDN
+53,microsoft.com,Microsoft,www.microsoft.com,"{'purpose': ['DNS', 'CDN', 'Static Server', 'Marketing', 'Analytics', 'Advertising']}"
+54,msedge.net,Microsoft Corporation,https://www.microsoft.com/,DNS
+55,gmail.com,Google,https://www.google.com,Email service provider
+56,facebook.com,Facebook,https://www.facebook.com/,['social media']
+57,whatsapp.net,WhatsApp,https://www.whatsapp.com/,Messaging and communication
+58,bugsnag.com,Bugsnag,https://www.bugsnag.com/,"['error monitoring', 'crash reporting', 'real-time application monitoring']"
+59,android.com,Android,https://www.android.com/,Static Server
+60,izatcloud.net,izatcloud,https://www.izatcloud.net/,It is not possible to determine the purpose of this domain without additional information.
+61,azureedge.net,Microsoft Azure,https://azure.microsoft.com/,CDN (Content Delivery Network)
+62,crashlytics.com,Crashlytics,https://www.crashlytics.com/,Error tracking and crash reporting service for mobile and web applications
+63,apptimize.com,Apptimize,https://www.apptimize.com/,Mobile A/B testing platform
+64,eum-appdynamics.com,AppDynamics,https://www.appdynamics.com/,Application Performance Monitoring (APM)
+65,onesignal.com,OneSignal,https://onesignal.com/,Push Notification Service
+66,acompli.net,Acompli,https://en.wikipedia.org/wiki/Acompli,email client application
+67,truecaller.com,Truecaller,www.truecaller.com,Phone number lookup and spam blocker
+68,vivintsky.com,Vivint,https://www.vivint.com/,Unknown
+69,wzrkt.com,Wizrocket Inc.,https://www.wizrocket.com/,"marketing, analytics"
+70,discover.com,Discover Financial Services,https://www.discover.com/,"[{'purpose': 'financial services', 'description': 'Provides credit cards, loans, and banking services to consumers and businesses'}, {'purpose': 'tracking', 'description': 'Tracks user behavior on the website to improve user experience and personalize marketing'}, {'purpose': 'marketing', 'description': ""Promotes Discover's financial services and offers to potential customers""}, {'purpose': 'analytics', 'description': 'Analyzes website traffic and user behavior to optimize website design and marketing strategies'}, {'purpose': 'CDN', 'description': 'Uses a content delivery network to improve website performance and speed'}, {'purpose': 'static server', 'description': 'Hosts static website content such as images, CSS, and JavaScript files'}, {'purpose': 'DNS', 'description': 'Provides domain name system services to translate domain names into IP addresses'}]"
+71,samsungiotcloud.com,Samsung,https://www.samsung.com/,IoT cloud platform
+72,hulu.com,Hulu,https://www.hulu.com/,Video streaming service
+73,googletagservices.com,Google,https://www.google.com/,CDN
+74,samsungcloudsolution.net,Samsung,https://www.samsung.com/,"The domain appears to be related to Samsung's cloud solutions, possibly for storing and accessing data or services on the cloud."
+75,samsungacr.com,Samsung,https://www.samsung.com/,CDN
+76,elasticbeanstalk.com,Amazon Web Services,https://aws.amazon.com/,Platform as a Service (PaaS) for deploying and managing applications on the AWS Cloud.
+77,google-analytics.com,Google,https://www.google.com/,analytics
+78,amazoncrl.com,Amazon,https://www.amazon.com/,DNS
+79,2mdn.net,Google,https://www.google.com/,Advertising and tracking domain used in the Google Marketing Platform for display advertising and retargeting campaigns.
+80,app.link,Branch,https://branch.io/,Mobile deep linking and attribution platform for marketers
+81,feedburner.com,FeedBurner,www.feedburner.com,RSS feed management and distribution service.
+82,pluto.tv,Pluto TV,https://pluto.tv/,"streaming, TV shows, movies"
+83,pavv.co.kr,Pavv,https://www.pavv.co.kr/,"It is the website of a Korean company that specializes in providing digital solutions such as software development, cloud services, and IT consulting. It seems to serve as a static server for the company's online presence."
+84,internetat.tv,Internet@TV,https://www.internetat.tv/,It is not possible to determine the exact purpose of this domain without further information or access to the website.
+85,samsungcloudsolution.com,Samsung Cloud Solution,https://www.samsungcloudsolution.com/,"It is likely that this domain is used for providing cloud solutions and services by Samsung. Without additional information or access to the domain, it is not possible to determine the specific purpose of the domain."
+86,samsungelectronics.com,Samsung Electronics,https://www.samsung.com/,Static server and DNS
+87,majorleaguegaming.com,Major League Gaming,https://www.majorleaguegaming.com/,"gaming and esports events, content, and community"
+88,samsungqbe.com,Samsung,https://www.samsung.com/,It is not possible to determine the purpose of the domain as it is currently not accessible.
+89,samsungads.com,Samsung Ads,https://samsungads.com/,advertising
+90,samsungotn.net,Samsung,https://www.samsung.com/,"It is not possible to determine the exact purpose of this domain without further information or analysis. However, based on the domain name, it could potentially be related to Samsung's IoT (Internet of Things) products."
+91,samsungrm.net,Samsung,https://www.samsung.com/,It is not possible to determine the purpose of the domain as it appears to be currently inactive.
+92,fbcdn.net,Facebook,https://www.facebook.com/,"Content Delivery Network (CDN) for serving images, videos and other static content on Facebook"
+93,rwth-aachen.de,RWTH Aachen University,https://www.rwth-aachen.de/,DNS
+94,mparticle.com,mParticle,https://www.mparticle.com/,"tracking, analytics"
+95,pki.goog,Google,https://www.google.com/,PKI (Public Key Infrastructure) platform used for secure communication and transactions over the internet.
+96,yahoo.com,Yahoo!,https://www.yahoo.com,"{'purpose': ['Search Engine', 'Email', 'News', 'Finance', 'Sports', 'Entertainment', 'Advertising']}"
+97,vidible.tv,Vidible,https://www.vidible.tv/,Video content distribution network (CDN)
+98,kochava.com,Kochava,https://www.kochava.com/,analytics
+99,thehill.com,The Hill,https://thehill.com/,['News']

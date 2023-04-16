@@ -1,0 +1,101 @@
+,remote_hostname,company,company_website,result
+1000,espn.com,ESPN,espn.com,"['Sports News', 'Streaming', 'Advertising', 'Marketing', 'Analytics']"
+1001,shoofle.tv,Shoofle TV,https://shoofle.tv/,"It is impossible to determine the purpose of the domain with certainty without further information or investigation. The website does not appear to have any obvious tracking, marketing, advertising, analytics, or CDN services. It appears to be a platform for streaming and sharing video content."
+1002,auditude.com,Auditude,auditude.com,Advertising platform for digital video content.
+1003,starz.com,Starz,https://www.starz.com/,Content delivery and streaming platform for movies and television shows.
+1004,aboutamazon.com,Amazon,https://www.amazon.com/,"Marketing and public relations - This domain is used by Amazon to share news, updates, and stories about the company, its products, and services."
+1005,winkapp.com,"Wink Labs, Inc.",https://www.wink.com/,smart home automation platform
+1006,drugfree.org,Drugfree.org,https://www.drugfree.org/,Substance abuse prevention and education
+1007,7tv.de,ProSiebenSat.1 Media SE,https://www.prosiebensat1.com/,Streaming Service
+1008,symantec.com,Symantec,symantec.com,security software and services provider
+1009,norton.com,Norton,norton.com,Security software
+1010,cloudflare-dns.com,Cloudflare,https://www.cloudflare.com/,DNS
+1011,symantecliveupdate.com,Symantec,https://www.symantec.com/,The domain is used for live updates for Symantec's antivirus software.
+1012,keepa.com,Keepa,https://keepa.com/,tracking
+1013,rbxcdn.com,Roblox Corporation,https://corp.roblox.com/,CDN
+1014,roblox.com,Roblox Corporation,www.roblox.com,Gaming platform and community website.
+1015,bing.net,Microsoft Corporation,https://www.microsoft.com/,Search Engine
+1016,glpals.com,GLPALS,https://www.glpals.com,It is not possible to determine the purpose of the domain as the website is under construction and inaccessible.
+1017,tripadvisor.com,TripAdvisor,www.tripadvisor.com,"The purpose of the domain is to provide a platform for travelers to share reviews, ratings, and information about hotels, restaurants, and tourist attractions worldwide."
+1018,coucou-networks.fr,Coucou Networks,https://coucou-networks.fr,"It is not possible to determine the purpose of the domain with just the domain name. Additional information such as server logs, website content, and DNS settings would be needed to accurately identify the purpose of the domain."
+1019,bbc.co.uk,British Broadcasting Corporation,https://www.bbc.com/,"{'purpose': ['Content Delivery Network', 'Analytics', 'Tracking', 'Marketing']}"
+1020,googlehosted.com,Google,https://www.google.com/,DNS
+1021,althub.co.za,Althub,https://althub.co.za,"{'purpose': ""It appears that althub.co.za is a domain for a technology company that offers web development, hosting, and design services. Without more information, it's difficult to determine the specific purpose of the domain."", 'category': 'Technology'}"
+1022,aylanetworks.com,Ayla Networks,https://www.aylanetworks.com/,Internet of Things (IoT) Platform
+1023,fastnzb.com,FastNZB,fastnzb.com,It is not possible to determine the purpose of the domain as the website is currently not accessible.
+1024,lbdns-streamguys.com,StreamGuys,https://www.streamguys.com/,DNS
+1025,hinet.net,HiNet,https://www.hinet.net/,DNS
+1026,7-eleven.com,7-Eleven,7-eleven.com,Static server or e-commerce platform
+1027,nflximg.com,Netflix,https://www.netflix.com/,This domain is used as a static server to serve images for the Netflix website and applications.
+1028,oui-0x00199d.com,OUI,https://ouitelemetry.com/,tracking
+1029,wd2go.com,Western Digital,http://www.westerndigital.com,File storage and sharing service
+1030,arloxcld.com,Arlo Technologies,https://www.arlo.com/,CDN
+1031,ntp.se,NTP Sweden,https://www.ntp.se/,NTP server
+1032,ancestry.com,Ancestry.com LLC,www.ancestry.com,Genealogy research
+1033,braze.com,Braze,https://www.braze.com/,Marketing automation and customer engagement platform
+1034,adsmoloco.com,AdsMoloco,https://www.adsmoloco.com/,advertising
+1035,svt.se,Sveriges Television,https://www.svt.se/,"{'CDN': True, 'Static Server': True, 'DNS': True, 'Analytics': True, 'Marketing': True}"
+1036,svtstatic.se,Sveriges Television AB,https://www.svt.se/,static server
+1037,oculus.com,Oculus,https://www.oculus.com/,Virtual reality hardware and software
+1038,macrium.com,Macrium,https://www.macrium.com/,Backup and Imaging Software Provider
+1039,ed.ac.uk,University of Edinburgh,www.ed.ac.uk,DNS
+1040,synology.me,Synology,https://www.synology.com/,Dynamic DNS service provided by Synology for its network-attached storage (NAS) devices. It allows users to access their NAS remotely using a domain name rather than an IP address.
+1041,kimsufi.com,Kimsufi,https://www.kimsufi.com/,static server
+1042,quickconnect.to,QuickConnect,https://quickconnect.to/,static server
+1043,hosteurope.de,Host Europe GmbH,https://www.hosteurope.de/,"{'purpose': ['Web Hosting', 'Domain Registration', 'Cloud Hosting', 'Email Hosting', 'Server Hosting', 'Website Builder']}"
+1044,ltsapis.goog,Google,https://www.google.com/,API service for Location Targeting in Google Ads
+1045,akacdn.co,Akamai Technologies,https://www.akamai.com/,CDN
+1046,neatocloud.com,NeatoCloud,https://www.neatocloud.com/,It is not possible to determine the purpose of the domain based solely on the domain name. Additional information or analysis is required.
+1047,synocommunity.com,SynoCommunity,https://synocommunity.com/,"Community-driven package repository for Synology NAS devices. It provides a large collection of additional applications for the Synology NAS, like Git, OpenVPN, Plex, etc."
+1048,dtvce.com,DTVCe,https://www.dtvce.com/,The purpose of the domain is not clear without further information.
+1049,rollout.io,Rollout.io,https://rollout.io/,SDK for mobile app feature releases and A/B testing
+1050,vodafonedsl.it,Vodafone Italy,https://www.vodafone.it,"{'purpose': 'Internet Service Provider', 'type': 'Static Server'}"
+1051,jetbrains.com,JetBrains,https://www.jetbrains.com/,Software Development Tools and Integrated Development Environments (IDEs)
+1052,pndsn.com,PubNub,https://www.pubnub.com/,real-time data streaming and messaging network
+1053,steamcommunity.com,Steam,https://store.steampowered.com/,"platform for gamers to connect, play games, and buy/sell game items"
+1054,anydesk.com,AnyDesk,https://anydesk.com/,remote desktop software solution
+1055,ddns.net,DynDNS,https://dyn.com/,Dynamic DNS (DDNS) service
+1056,contabo.net,Contabo GmbH,https://contabo.net/,Static Server and VPS Hosting Provider
+1057,your-server.de,Your-server.de,https://www.your-server.de/,Static server and web hosting provider
+1058,rima-tde.net,,,Unable to identify the purpose of the given domain
+1059,contaboserver.net,Contabo GmbH,https://contabo.com/,Static server
+1060,northghost.com,Northghost,https://www.northghost.com/,It is not possible to determine the purpose of the domain without further information or access to their server logs.
+1061,no-reverse-dns-configured.com,N/A,N/A,"Based on the domain name, it appears that the purpose of this domain is to indicate that reverse DNS has not been configured for a particular IP address. It does not seem to serve any specific company or business purpose."
+1062,netsystemsresearch.com,Net Systems Research,https://netsystemsresearch.com/,It is not possible to determine the purpose of the domain without further information or analysis as the website does not provide any clear indication of its purpose or services offered.
+1063,intrinsec.com,Intrinsec,https://intrinsec.com/,security services and training
+1064,adscore.com,Adscore,https://adscore.com/,The purpose of the domain is to provide online advertising verification and fraud detection services.
+1065,server-hosting.expert,Server-Hosting.expert,https://server-hosting.expert/,"Domain name suggests that the purpose of the domain is providing services related to server hosting. However, without further information it is impossible to determine the exact purpose of the domain."
+1066,cloudwaysapps.com,Cloudways,https://www.cloudways.com/,It seems that cloudwaysapps.com is a subdomain used by Cloudways for hosting their clients' applications or websites.
+1067,cloudedic.net,CloudEDIC,https://cloudedic.net/,It is not possible to identify the purpose of the domain solely based on the domain name.
+1068,vsys.host,vsys.host,https://vsys.host/,DNS
+1069,shadowserver.org,Shadowserver Foundation,https://www.shadowserver.org/,The purpose of the domain is to provide internet security services and gather data related to cyber threats for the purpose of research and analysis.
+1070,shodan.io,Shodan,https://www.shodan.io/,"Search engine for internet-connected devices, providing information about various devices like servers, routers, security cameras, and more."
+1071,xwinnet.biz,Xwinnet,https://www.xwinnet.biz/,It is not possible to accurately determine the purpose of this domain with the given information.
+1072,quadmetrics.com,QuadMetrics,https://quadmetrics.com/,"QuadMetrics specializes in predictive cyber risk analytics for enterprises to measure, prioritize and mitigate cyber risks. Their domain is likely used for their website, analytics, and potentially hosting their product or services."
+1073,caacbook.com,Caacbook,caacbook.com,Unable to determine the purpose of the domain. It appears to be inactive or under construction.
+1074,ovo.sc,OVO Energy,https://www.ovoenergy.com/,It is not possible to determine the purpose of the domain based solely on the domain name. Additional information about the website is needed.
+1075,ucsd.edu,"University of California, San Diego",https://ucsd.edu/,"{'purpose': 'Education and Research', 'type': 'DNS'}"
+1076,threatsinkhole.com,ThreatSinkhole,https://www.threatsinkhole.com/,DNS sinkhole service
+1077,mmms.eu,MMMS,http://mmms.eu/,Cannot determine the purpose of the domain as the website seems to be under construction and does not have any content available.
+1078,acsechocaptiveportal.com,Acserva Technologies,https://www.acserva.com/,"This domain appears to be a captive portal, which is a web page that is displayed to newly connected users before they are granted broader access to network resources. It may be used for authentication or as a landing page for guests or customers accessing a network."
+1079,musicradio.com,Music Radio,musicradio.com,It is not possible to determine the purpose of this domain without further information.
+1080,statcounter.com,Statcounter,https://statcounter.com,Analytics
+1081,quicinc.com,Qualcomm,https://www.qualcomm.com/,company website
+1082,canalplus.pro,Canal+,https://www.canalplus.com/,It is not possible to determine the purpose of canalplus.pro without further information. It is recommended to contact the company directly for more information.
+1083,tpv-analytics.com,TPV Analytics,https://www.tpv-analytics.com/,Analytics
+1084,cornell.edu,Cornell University,https://www.cornell.edu/,"{'purpose': ['Education', 'Research', 'Community Engagement']}"
+1085,qualtrics.com,Qualtrics,www.qualtrics.com,"Online survey and data analysis platform for market research, customer feedback, and employee engagement."
+1086,typography.com,Typography.com,https://www.typography.com/,static server
+1087,patch.com,Patch,https://www.patch.com/,Local news and community engagement platform
+1088,hypemarks.com,Hypemarks,https://hypemarks.com/,marketing
+1089,gnome.org,GNOME Foundation,https://www.gnome.org/,The purpose of the domain is to provide information and resources related to the GNOME desktop environment and applications built on top of it. It may also be used for collaboration and communication among GNOME community members.
+1090,fwupd.org,fwupd,https://fwupd.org,firmware updates
+1091,rcn.net,"RCN Telecom Services, LLC",https://www.rcn.com/,Internet Service Provider (ISP)
+1092,fidnet.com,Fidnet,https://www.fidnet.com/,DNS
+1093,grafana.com,Grafana Labs,https://grafana.com/,analytics
+1094,utoronto.ca,University of Toronto,https://www.utoronto.ca/,DNS
+1095,plumenet.io,Plume Design Inc.,https://www.plume.com/,DNS
+1096,tapjoy.com,Tapjoy,https://www.tapjoy.com/,"Tapjoy provides a platform for mobile app developers to monetize their apps through in-app advertising and user engagement. The domain is likely used for tracking, marketing, advertising, and analytics purposes."
+1097,deltadna.net,DeltaDNA,https://deltadna.net/,analytics
+1098,playrix.com,Playrix,playrix.com,Gaming company website
+1099,dev.to,DEV Community,https://dev.to/,Blogging platform for developers to share knowledge and connect with other developers.

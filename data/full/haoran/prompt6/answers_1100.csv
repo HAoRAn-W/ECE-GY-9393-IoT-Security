@@ -1,0 +1,101 @@
+,remote_hostname,company,company_website,result
+1100,amazon.ca,Amazon,www.amazon.com,e-commerce
+1101,cnn.io,CNN,https://www.cnn.com/,News and media content delivery
+1102,cbsinteractive.com,CBS Interactive,https://www.cbsinteractive.com/,"{'purpose': 'Media and entertainment', 'services': ['Content production and distribution', 'Digital media platforms']}"
+1103,samsunghealth.com,Samsung,https://www.samsung.com/,Healthcare tracking and monitoring application.
+1104,w-x.co,,w-x.co,Unable to determine the purpose of the domain as there is no company name or website associated with it.
+1105,bleacherreport.net,Bleacher Report,https://bleacherreport.com,sports news and media website
+1106,imdbws.com,IMDb,https://www.imdb.com/,"API for accessing IMDb data and functionality, including movie and TV show information, photos, cast and crew details, user ratings, and reviews, for use in various applications and websites."
+1107,loginradius.com,LoginRadius,https://www.loginradius.com/,"{'purpose': ['authentication', 'identity management', 'customer data management']}"
+1108,outturner.com,Out Turner,outturner.com,Cannot determine the purpose of the domain as the website appears to be non-existent or currently down.
+1109,viafoura.co,Viafoura,https://viafoura.com/,tracking
+1110,lrcontent.com,LR Content,https://lrcontent.com/,It is not possible to determine the purpose of the domain without further information as the site appears to be currently under construction or not functioning.
+1111,lenovomm.com,Lenovo,www.lenovo.com,Corporate website
+1112,zillow.com,Zillow,https://www.zillow.com/,Real Estate Listings
+1113,stratoserver.net,StratoServer,https://www.stratoserver.net/,static server
+1114,ip-pool.com,IP Pool,https://www.ip-pool.com/,It is unclear what the purpose of this domain is without additional context or information.
+1115,24olympia.com,24 Olympia,24olympia.com,The purpose of the domain is not clear. The website is currently under construction and does not provide any information about its intended use or purpose.
+1116,criteo.com,Criteo,https://www.criteo.com/,Advertising
+1117,omnitagjs.com,Ensighten,https://www.ensighten.com/,Tag Management and Marketing Platform
+1118,theguardian.com,The Guardian,theguardian.com,News and media
+1119,criteo.net,Criteo,https://www.criteo.com/,advertising
+1120,eyeota.net,Eyeota,https://www.eyeota.com/,Data Marketing
+1121,betrad.com,BeTRaD,https://www.betrad.com/,marketing
+1122,360yield.com,360 Yield Center,https://www.360yieldcenter.com/,"It is not possible to determine the purpose of the domain as it is a standard company website with no clear indication of any specific functionality or services related to tracking, marketing, advertising, analytics, CDN, static server or DNS."
+1123,guim.co.uk,Guim Ltd.,https://www.guim.co.uk/,static server
+1124,gu-web.net,GU-Web,https://www.gu-web.net/,DNS
+1125,brandmetrics.com,Brand Metrics,https://brandmetrics.com/,marketing
+1126,the-ozone-project.com,The Ozone Project,https://www.the-ozone-project.com/,Advertising
+1127,stackassets.com,StackAssets,https://stackassets.com,"['CDN', 'Static server']"
+1128,mobimagic.com,Mobimagic,https://mobimagic.com/,The purpose of the domain is not clear from the company website. Further information is needed to determine the purpose of the domain.
+1129,bellaliant.net,Bell Aliant,https://www.bellaliant.ca/,DNS
+1130,quadranet.com,QuadraNet,https://www.quadranet.com/,"{'CDN': False, 'tracking': False, 'marketing': False, 'advertising': False, 'analytics': False, 'static_server': False, 'DNS': True}"
+1131,online.no,Online.no,https://www.online.no/,Internet Service Provider and web portal
+1132,colocrossing.com,ColoCrossing,https://www.colocrossing.com/,"{'purpose': 'Data Center Services', 'services': ['Colocation', 'Dedicated Servers', 'Cloud', 'Managed Services'], 'target_customers': ['Businesses', 'Enterprises', 'Service Providers'], 'location': 'Buffalo, New York, USA'}"
+1133,dnainternet.fi,DNA Oy,https://www.dna.fi/,DNS
+1134,dsl4u.ca,DSL4U,https://dsl4u.ca/,DNS
+1135,sefiber.dk,SEFiber,https://sefiber.dk/,static server
+1136,ifxnetworks.com,IFX Networks,https://www.ifxnetworks.com/,CDN
+1137,utg.ge,UTG,https://www.utg.ge/,It is not possible to determine the exact purpose of the domain without further information or analysis.
+1138,coolideas.co.za,Cool Ideas,https://www.coolideas.co.za/,{'purpose': 'Internet Service Provider'}
+1139,utcluj.ro,Technical University of Cluj-Napoca,https://www.utcluj.ro/en/,DNS
+1140,s-microsoft.com,Microsoft Corporation,https://www.microsoft.com/,The domain s-microsoft.com does not have a clear or publicly known purpose. It is possible that it is a subdomain or internal domain used by Microsoft for various purposes such as testing or development.
+1141,meetcircle-blue.co,MeetCircle Blue,https://meetcircle-blue.co/,"It is not possible to determine the purpose of the domain without further information or analysis. The domain appears to be a company website, but without additional context or investigation, it is unknown what services or products the company offers and what the purpose of the website is."
+1142,forzamotorsport.net,Microsoft Corporation,https://www.microsoft.com,Gaming Website
+1143,google.fi,Google,www.google.com,"{'purpose': ['Search engine', 'Advertising', 'Analytics']}"
+1144,yle.fi,YLE,https://yle.fi/,Media content delivery
+1145,myvisualiq.net,Visual IQ,https://www.visualiq.com/,Tracking
+1146,samknows.com,SamKnows,https://www.samknows.com/,Network Quality Monitoring and Testing
+1147,ebay.com,eBay,www.ebay.com,"{'purpose': ['e-commerce', 'online auction'], 'CDN': 'Akamai', 'DNS': 'MarkMonitor', 'analytics': ['Google Analytics', 'Adobe Analytics'], 'marketing': ['Google Ads', 'Facebook Ads']}"
+1148,ebaystatic.com,eBay,https://www.ebay.com,static server
+1149,ebayimg.com,eBay,https://www.ebay.com/,static server
+1150,bbc.com,BBC,https://www.bbc.com/,"{'purpose': {'news': True, 'entertainment': True, 'education': True}, 'CDN': True, 'DNS': True}"
+1151,measurement-lab.org,Measurement Lab,https://www.measurementlab.net/,Internet measurement research
+1152,cnn.com,CNN,https://www.cnn.com/,"{'purpose': ['News delivery', 'Media']}"
+1153,imdb.com,IMDb,www.imdb.com,"The purpose of the domain imdb.com is to provide a comprehensive online database of information related to films, television programs, home videos, video games, and streaming content. It includes movie and TV show reviews, ratings, cast and crew information, trailers, plot summaries, celebrity gossip, and industry news."
+1154,quantserve.com,Quantcast,https://www.quantcast.com/,tracking
+1155,chartbeat.com,Chartbeat,https://chartbeat.com/,analytics
+1156,telmtp.xyz,Unknown,,Unknown purpose
+1157,umu.se,Umeå University,www.umu.se,Education and Research Institution
+1158,trakt.tv,Trakt.tv,https://trakt.tv/,tracking and analytics
+1159,licdn.com,LinkedIn Corporation,https://www.linkedin.com/,professional social networking platform
+1160,ecobee.com,ecobee,https://www.ecobee.com/,The purpose of the domain is to provide information and sell products related to smart thermostats and home automation.
+1161,kqed.org,KQED,https://www.kqed.org/,"{'purpose': ['Media content delivery', 'Educational resources', 'News and information dissemination'], 'type': ['CDN', 'Static server', 'Analytics']}"
+1162,jwplayer.com,JW Player,https://www.jwplayer.com/,media player and video hosting platform
+1163,nintendo.com,Nintendo,https://www.nintendo.com/,"['marketing', 'advertising', 'analytics']"
+1164,yospace.com,Yospace,https://www.yospace.com/,"The purpose of the domain appears to be related to delivering dynamic ad insertion solutions for online video platforms and broadcasters, which may involve tracking, analytics, and CDN functionality."
+1165,driftt.com,Drift,drift.com,marketing
+1166,ninjajournalist.com,Ninja Journalist,ninjajournalist.com,News and Media
+1167,wsj.com,The Wall Street Journal,https://www.wsj.com/,News and Media
+1168,noaa.gov,NOAA,https://www.noaa.gov/,"Weather forecasting, research and monitoring"
+1169,crunchyroll.com,Crunchyroll,https://www.crunchyroll.com/,Streaming and distribution of anime and East Asian media content.
+1170,theplatform.com,thePlatform,https://www.theplatform.com/,Video management and publishing platform for streaming video content.
+1171,nbc.com,NBC,https://www.nbc.com/,"[{'purpose': 'Content Delivery Network (CDN)', 'description': 'nbc.com uses Akamai CDN to deliver their content efficiently and quickly to users all around the world.'}, {'purpose': 'Analytics', 'description': 'nbc.com uses Google Analytics to track user behavior and website performance.'}, {'purpose': 'Marketing', 'description': 'nbc.com uses various marketing tools to promote their shows and engage with their audience.'}]"
+1172,taplytics.com,Taplytics,https://www.taplytics.com/,"marketing, analytics"
+1173,jdownloader.org,JDownloader,https://jdownloader.org/,Download Manager
+1174,deployads.com,DeployAds,https://www.deployads.com/,advertising
+1175,bazaarvoice.com,Bazaarvoice,https://www.bazaarvoice.com/,"marketing, analytics"
+1176,art19.com,ART19,https://art19.com,"ART19 is a podcast hosting and distribution platform that provides analytics, advertising, and dynamic ad insertion services for podcast publishers and advertisers."
+1177,contextweb.com,ContextWeb,https://www.contextweb.com/,advertising
+1178,hlserve.com,HL Serve,https://hlserve.com,"It is not possible to determine the purpose of the domain without further information or access to the website's backend. It could potentially be used for hosting a variety of services such as a static server, content delivery network (CDN), or DNS among others."
+1179,dc-storm.com,DC Storm,https://www.dc-storm.com/,Marketing and Analytics
+1180,simplecast.com,Simplecast,https://simplecast.com/,Podcast hosting and analytics
+1181,bouyguesbox.fr,Bouygues Telecom,https://www.bouyguestelecom.fr/,DNS
+1182,weborama.fr,Weborama,https://www.weborama.com/,advertising
+1183,meetrics.net,Meetrics,https://www.meetrics.com/,analytics
+1184,intuit.com,Intuit,https://www.intuit.com/,"It is the official website of Intuit - a financial software company that develops financial, accounting, and tax preparation software for individuals and businesses. The website provides information about the company, its products and services, as well as customer support and resources."
+1185,tesla.services,Tesla,https://www.tesla.com/,"It is likely that this domain is used for providing various services related to Tesla's products or services, such as registration, support, or other customer-related activities."
+1186,tmz.com,TMZ,https://tmz.com/,Entertainment news and gossip
+1187,mint.com,Mint,https://www.mint.com/,"['Tracking', 'Financial Management', 'Budgeting', 'Personal Finance']"
+1188,mwbsys.com,Malwarebytes,https://www.malwarebytes.com/,"This domain belongs to Malwarebytes and is likely used for various purposes such as a static server, CDN, or DNS."
+1189,aka.ms,Microsoft Corporation,https://www.microsoft.com/,URL shortener service
+1190,avastbrowser.com,Avast Software,https://www.avast.com/,Browser
+1191,myexternalip.com,myexternalip.com,https://myexternalip.com/,Identify the public IP address of a device connected to the internet.
+1192,v0cdn.net,Verizon Digital Media Services,https://www.verizondigitalmedia.com/,CDN (Content Delivery Network)
+1193,getgo.com,GetGo,https://www.getgo.com/,loyalty program
+1194,cedexis.com,Cedexis,https://www.cedexis.com/,CDN (Content Delivery Network)
+1195,cedexis-radar.net,Cedexis,https://www.cedexis.com/,CDN monitoring and optimization service
+1196,perimeterx.net,PerimeterX,https://www.perimeterx.com/,CDN and Bot Protection Service
+1197,usebutton.com,Button Inc.,https://www.usebutton.com/,marketing
+1198,webex.com,WebEx,www.webex.com,"{'purpose': 'web and video conferencing', 'type': 'application', 'platform': 'cloud'}"
+1199,outlookmobile.com,Microsoft,https://www.microsoft.com/,Mobile email and calendar application
