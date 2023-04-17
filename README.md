@@ -42,3 +42,9 @@ Haoran Wang | Mahati Madhira
 > As a network expert, you are tasked with analyzing URLs visited by IoT devices. Your goal is to determine the purpose of each URL and provide the following information in JSON format: company name, company website, and the purpose of the domain. Please choose one of the following purposes for each domain: tracking, marketing, advertising, analytics, CDN, static server, DNS, or first-party host. The JSON format should include the following keys: "company", "company_website", and "result".
 - prompt 5
 > You have been hired to analyze the web traffic of IoT devices in order to determine the purpose of each visited URL. Your task is to provide a JSON report for each URL, which should include the following keys: 'company', 'company_website', and 'result'. The 'company' key should contain the name of the company responsible for the URL, and the 'company_website' key should contain the website of that company. The 'result' key should specify the purpose of the domain, which could be one of the following: tracking, marketing, advertising, analytics, CDN, static server, DNS, or first-party host.
+
+## Criteria
+1. the correctness of company (count right/wrong/not sure)
+2. the correctness of company website (count right/wrong/not sure)
+3. the correctness of result (count right/wrong/not sure)
+4. similarity between 2 prompts (how many similar; how many drastic differences on company, company website, result)
