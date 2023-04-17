@@ -17,7 +17,7 @@ domains.insert(len(domains.columns), 'result', "")
 
 total_count = len(domains)
 step = 100
-temperature = 0.85
+temperature = prompts.temperature0
 prompt = prompts.prompt6
 
 def gpt_query(URL, temperature, prompt):
