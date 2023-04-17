@@ -1,0 +1,203 @@
+Unnamed: 0,remote_hostname,company,company_website,result
+500,digicert.com,DigiCert,https://www.digicert.com/,first-party host
+500,digicert.com,"DigiCert, Inc.",https://www.digicert.com/,static server
+741,quickbooks.com,Intuit Inc.,https://www.intuit.com/,first-party host
+741,quickbooks.com,Intuit Inc.,https://www.intuit.com/,first-party host
+177,mozilla.org,Mozilla,https://www.mozilla.org/,first-party host
+177,mozilla.org,Mozilla,https://www.mozilla.org/,first-party host
+13,amazon.com,"Amazon.com, Inc.",https://www.amazon.com/,e-commerce
+13,amazon.com,Amazon,https://www.amazon.com/,first-party host
+1350,samsungpositioning.com,Samsung,https://www.samsung.com/,marketing
+1350,samsungpositioning.com,Samsung,https://www.samsung.com/,marketing
+1301,denon.jp,Denon,https://www.denon.com/,static server
+1301,denon.jp,Denon,https://www.denon.com/,first-party host
+1263,pocketcasts.com,Pocket Casts,https://www.pocketcasts.com/,static server
+1263,pocketcasts.com,Pocket Casts,https://www.pocketcasts.com/,first-party host
+1075,ucsd.edu,University of California San Diego,https://www.ucsd.edu/,first-party host
+1075,ucsd.edu,"University of California, San Diego",https://www.ucsd.edu/,first-party host
+861,alexametrics.com,Amazon,https://www.amazon.com/,analytics
+861,alexametrics.com,Amazon,https://www.amazon.com/,analytics
+628,rhocdn.net,Rackspace Hosting,https://www.rackspace.com/,CDN
+628,rhocdn.net,Rackspace Hosting,https://www.rackspace.com/,CDN
+2597,yamaha.com,Yamaha,https://www.yamaha.com/,first-party host
+2597,yamaha.com,Yamaha Corporation,https://www.yamaha.com/,first-party host
+3034,vf.net.nz,Vodafone New Zealand,https://www.vodafone.co.nz/,CDN
+3034,vf.net.nz,Vodafone New Zealand,https://www.vodafone.co.nz/,CDN
+1563,nwsvr2.com,,,DNS
+1563,nwsvr2.com,Unknown,,CDN
+671,qwest.net,CenturyLink,https://www.centurylink.com/,DNS
+671,qwest.net,CenturyLink,https://www.centurylink.com/,DNS
+517,yandex.net,Yandex,https://yandex.com/,CDN
+517,yandex.net,Yandex,https://yandex.com/,CDN
+181,honeywell.com,Honeywell International Inc.,https://www.honeywell.com/,first-party host
+181,honeywell.com,Honeywell International Inc.,https://www.honeywell.com/,first-party host
+0,googleusercontent.com,Google,https://www.google.com/,CDN
+0,googleusercontent.com,Google,https://www.google.com/,CDN
+796,samsung-svoice.com,Samsung,www.samsung.com,marketing
+796,samsung-svoice.com,Samsung,https://www.samsung.com/,marketing
+965,freebox.fr,Free,https://www.free.fr/,first-party host
+965,freebox.fr,Free SAS,https://www.free.fr/,first-party host
+1175,bazaarvoice.com,Bazaarvoice,https://www.bazaarvoice.com/,marketing
+1175,bazaarvoice.com,Bazaarvoice,https://www.bazaarvoice.com/,marketing
+1338,sumologic.com,Sumo Logic,https://www.sumologic.com/,first-party host
+1338,sumologic.com,Sumo Logic,https://www.sumologic.com/,marketing
+2047,123freecell.com,Solitaire Games,https://www.solitaireparadise.com/,gaming
+2047,123freecell.com,TreeCardGames,https://www.treecardgames.com/,static server
+2675,epson.net,Epson,https://www.epson.com/,static server
+2675,epson.net,Epson,https://www.epson.com/,first-party host
+3384,fau.de,Friedrich-Alexander University of Erlangen-Nuremberg,https://www.fau.eu/,first-party host
+3384,fau.de,Friedrich-Alexander University Erlangen-Nuremberg,https://www.fau.eu/,first-party host
+3560,bosch.de,Bosch,https://www.bosch.com/,first-party host
+3560,bosch.de,Bosch,https://www.bosch.com/,first-party host
+3002,veloxzone.com.br,Veloxzone,https://www.veloxzone.com.br/,static server
+3002,veloxzone.com.br,Veloxzone,https://www.veloxzone.com.br/,static server
+2369,ziffdavis.com,Ziff Davis,https://www.ziffdavis.com/,marketing
+2369,ziffdavis.com,Ziff Davis,https://www.ziffdavis.com/,marketing
+1998,mmstat.com,Alibaba Group,https://www.alibaba.com/,analytics
+1998,mmstat.com,Alibaba Group,https://www.alibabagroup.com/en/global/home,analytics
+429,pushbullet.com,Pushbullet,https://www.pushbullet.com/,marketing
+429,pushbullet.com,Pushbullet,https://www.pushbullet.com/,first-party host
+25,aiv-delivery.net,AIV,https://www.aiv-inc.com/,CDN
+25,aiv-delivery.net,AIV,https://www.aiv-inc.com/,CDN
+241,aiv-delivery.net,AIV,https://www.aiv-inc.com/,CDN
+241,ondemand.com,OnDemand,https://www.ondemand.com/,CDN
+1614,wearetriple.com,Triple,https://wearetriple.com/,marketing
+1614,wearetriple.com,Triple,https://wearetriple.com/,marketing
+2878,cloudns.asia,Cloud DNS Ltd.,https://www.cloudns.net/,DNS
+2878,cloudns.asia,Cloud DNS Ltd.,https://www.cloudns.net/,DNS
+1089,gnome.org,GNOME Foundation,https://www.gnome.org,first-party host
+1089,gnome.org,GNOME Foundation,https://www.gnome.org/about/,first-party host
+2973,logantele.com,Logantel,https://www.logantele.com/,CDN
+2973,logantele.com,Logan Teleflex Inc.,https://www.logantele.com/,static server
+2281,snopes.com,Snopes Media Group,https://www.snopes.com/,fact-checking website
+2281,snopes.com,Snopes Media Group,http://www.snopesmedia.com/,fact-checking
+823,instabug.com,Instabug,https://instabug.com/,marketing
+823,instabug.com,Instabug,https://instabug.com/,analytics
+322,google.ca,Google,https://www.google.com/,first-party host
+322,google.ca,Google,https://www.google.com/,search engine
+1829,sync.com,Sync.com,https://www.sync.com/,CDN
+1829,sync.com,Sync.com,https://www.sync.com,CDN
+2962,surfer.at,Surfer SEO,https://surferseo.com/,marketing
+2962,surfer.at,Surfer,https://surfer.at/,first-party host
+3289,mywire.org,,,
+3289,mywire.org,,,DNS
+3539,vylmedia.com,VYL Media,https://www.vylmedia.com/,marketing
+3539,vylmedia.com,Vyl Media,https://www.vylmedia.com/,marketing
+1573,tubi.io,"Tubi, Inc.",https://tubi.tv/,CDN
+1573,tubi.io,"Tubi, Inc.",https://tubi.tv/,CDN
+921,ecouser.net,Eco User,https://ecouser.net/,CDN
+921,ecouser.net,EcoUser,https://ecouser.net/,tracking
+591,cdk.com,CDK Global,https://www.cdkglobal.com/,first-party host
+591,cdk.com,CDK Global,https://www.cdkglobal.com/,first-party host
+220,jtvnw.net,Fastly,https://www.fastly.com/,CDN
+220,jtvnw.net,Akamai Technologies,https://www.akamai.com/,CDN
+37,cloudfront.net,Amazon,https://www.amazon.com/,CDN
+37,cloudfront.net,Amazon,https://aws.amazon.com,CDN
+462,lastpass.com,LastPass,https://www.lastpass.com/,first-party host
+462,lastpass.com,"LogMeIn, Inc.",https://www.logmeininc.com/,first-party host
+748,netflix.net,Netflix Inc.,https://www.netflix.com/,CDN
+748,netflix.net,Netflix,https://www.netflix.com/,CDN
+1150,bbc.com,BBC,https://www.bbc.com/,first-party host
+1150,bbc.com,BBC,https://www.bbc.com/,first-party host
+487,staticwars.com,Static Wars,,static server
+487,staticwars.com,StaticWars,https://staticwars.com/,static server
+1122,360yield.com,TripleLift,https://triplelift.com/,advertising
+1122,360yield.com,360 Yield Center,https://www.360yieldcenter.com/,marketing
+2102,dedicatedpanel.com,DedicatedPanel,https://www.dedicatedpanel.com/,static server
+2102,dedicatedpanel.com,DedicatedPanel,https://www.dedicatedpanel.com/,static server
+868,belkin.com,Belkin,https://www.belkin.com/,first-party host
+868,belkin.com,"Belkin International, Inc.",https://www.belkin.com/,first-party host
+992,bilibili.com,Bilibili,https://www.bilibili.com/,first-party host
+992,bilibili.com,Bilibili Inc.,https://www.bilibili.com,first-party host
+1140,s-microsoft.com,Microsoft Corporation,https://www.microsoft.com/,CDN
+1140,s-microsoft.com,Microsoft Corporation,https://www.microsoft.com/,CDN
+1353,sublink.org,,,
+1353,sublink.org,,,DNS
+1757,afilias-nst.info,Afilias Limited,https://afilias.info/,DNS
+1757,afilias-nst.info,Afilias,https://afilias.info/,DNS
+1217,216.in-addr.arpa,Internet Assigned Numbers Authority (IANA),https://www.iana.org/,DNS
+1217,216.in-addr.arpa,Internet Assigned Numbers Authority (IANA),https://www.iana.org/,DNS
+1718,tado.com,Tado GmbH,https://www.tado.com/,first-party host
+1718,tado.com,Tado GmbH,https://www.tado.com,marketing
+2006,rakuten.com,,,
+2006,rakuten.com,Rakuten,https://www.rakuten.com/,e-commerce
+2354,zenkube.com,,,
+2354,zenkube.com,Zenkube,https://www.zenkube.com/,static server
+2530,hispeed.ch,Swisscom,https://www.swisscom.ch/,static server
+2530,hispeed.ch,Sunrise Communications AG,https://www.sunrise.ch/,first-party host
+2774,vtuner.com,vTuner,https://www.vtuner.com/,CDN
+2774,vtuner.com,vTuner,https://vtuner.com,CDN
+2036,youtu.be,Google,https://www.google.com/,CDN
+2036,youtu.be,Google,https://www.google.com/,CDN
+1416,flashtalking.com,Flashtalking,https://flashtalking.com/,advertising
+1416,flashtalking.com,Flashtalking,https://www.flashtalking.com/,advertising
+1137,utg.ge,Unknown,,first-party host
+1137,utg.ge,United Telecom Georgia,https://www.utg.ge/,static server
+699,unity3d.com,Unity Technologies,https://unity.com/,static server
+699,unity3d.com,Unity Technologies,https://unity.com/,CDN
+397,acquia.com,Acquia,https://www.acquia.com/,first-party host
+397,acquia.com,Acquia,https://www.acquia.com/,CDN
+10,youtube.com,Google,https://www.google.com/,CDN
+10,youtube.com,Google,https://www.google.com/,CDN
+429,pushbullet.com,Pushbullet,https://www.pushbullet.com/,marketing
+429,pushbullet.com,Pushbullet,https://www.pushbullet.com/,first-party host
+942,intercomcdn.com,Intercom,https://www.intercom.com/,CDN
+942,intercomcdn.com,Intercom,https://www.intercom.com/,CDN
+1438,operacdn.com,Opera Software AS,https://www.opera.com,CDN
+1439,safebrowsing.apple,Apple Inc.,https://www.apple.com/,DNS
+1964,exct.net,Experian,https://www.experian.com,marketing
+1964,exct.net,eXact Advertising,https://www.exactmatchmedia.com/,advertising
+2142,gotomeeting.com,"LogMeIn, Inc.",https://www.logmeininc.com/,marketing
+2142,gotomeeting.com,LogMeIn,https://www.logmein.com/,marketing
+2352,dlvr.it,dlvr.it,https://dlvr.it/,marketing
+2352,dlvr.it,dlvr.it,https://dlvrit.com/,marketing
+2787,tubemogul.com,Adobe,https://www.adobe.com/,advertising
+2787,tubemogul.com,Tubemogul,https://www.tubemogul.com,advertising
+3314,6play.fr,M6 Web,https://www.m6web.fr/,marketing
+3314,6play.fr,M6 Web,https://www.m6web.fr/,marketing
+3556,your-loop.com,Yourloop,your-loop.com,first-party host
+3556,your-loop.com,Your-Loop,https://your-loop.com/,It is not possible to determine the purpose of the URL without additional information.
+2950,comsouth.net,ComSouth,https://www.comsouth.net/,first-party host
+2950,comsouth.net,ComSouth,https://www.comsouth.net/,First-party host
+1963,nordstrom.com,Nordstrom,nordstrom.com,e-commerce website
+1963,nordstrom.com,Nordstrom,https://www.nordstrom.com/,first-party host
+1784,nowtv.com,Now TV,https://www.nowtv.com/,first-party host
+1784,nowtv.com,Now TV,https://www.nowtv.com/,streaming service
+1642,jomodns.com,Jomohost LLC,https://jomohost.com/,DNS
+1642,jomodns.com,"Jomo Technology Co., Ltd.",https://www.jomotech.com/,DNS
+1311,scruffapp.com,"Perry Street Software, Inc.",https://www.perrystreet.com/,marketing
+1311,scruffapp.com,"Perry Street Software, Inc.",https://www.scruff.com/,marketing
+1057,your-server.de,Hetzner Online GmbH,https://www.hetzner.com/,static server
+1057,your-server.de,Hetzner Online GmbH,https://www.hetzner.com/,static server
+858,hubspot.com,HubSpot,https://www.hubspot.com/,marketing
+858,hubspot.com,HubSpot,https://www.hubspot.com/,marketing
+619,bellmedia.ca,Bell Media Inc.,https://www.bellmedia.ca/,first-party host
+619,bellmedia.ca,Bell Media,https://www.bellmedia.ca/,first-party host
+352,sony.tv,Sony,https://www.sony.com/,marketing
+352,sony.tv,Sony,https://www.sony.com/,marketing
+220,jtvnw.net,Fastly,https://www.fastly.com/,CDN
+220,jtvnw.net,Akamai Technologies,https://www.akamai.com/,CDN
+15,roku.com,Roku,https://www.roku.com/,first-party host
+15,roku.com,Roku Inc.,https://www.roku.com/,first-party host
+120,ravm.tv,RAVM,https://ravm.tv/,static server
+120,ravm.tv,Unknown,,CDN
+110,playstation.net,Sony Interactive Entertainment LLC,https://www.playstation.com/,first-party host
+110,playstation.net,Sony Interactive Entertainment Inc.,https://www.sie.com/,first-party host
+322,google.ca,Google,https://www.google.com/,first-party host
+322,google.ca,Google,https://www.google.com/,search engine
+491,adobe.io,Adobe,https://www.adobe.com/,CDN
+491,adobe.io,Adobe,https://www.adobe.com/,CDN
+586,adsafeprotected.com,Integral Ad Science,https://integralads.com/,advertising
+586,adsafeprotected.com,Integral Ad Science,https://integralads.com/,tracking
+743,noip.com,"Vitalwerks Internet Solutions, LLC",https://www.noip.com/,DNS
+743,noip.com,No-IP,https://www.noip.com/,DNS
+835,aerserv.com,Aerserv,https://www.aerserv.com/,advertising
+835,aerserv.com,Aerserv,https://www.aerserv.com/,Advertising
+925,parastorage.com,Wix,https://www.wix.com/,CDN
+925,parastorage.com,Para,https://www.para.com/,CDN
+1073,caacbook.com,,,
+1073,caacbook.com,Unknown,,Invalid URL
+1246,bbox.fr,Bouygues Telecom,https://www.bouyguestelecom.fr/,CDN
+1246,bbox.fr,Bbox,https://www.bouyguestelecom.fr/offres-internet,CDN
+1352,herokuspace.com,Heroku,https://www.heroku.com/,static server
+1352,herokuspace.com,Heroku,https://www.heroku.com/,static server
