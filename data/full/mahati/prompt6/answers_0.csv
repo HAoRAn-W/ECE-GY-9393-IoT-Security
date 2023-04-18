@@ -1,0 +1,501 @@
+,remote_hostname,company,company_website,result
+0,googleusercontent.com,Google,https://www.google.com/,Content Delivery Network (CDN)
+1,google.com,Google,https://www.google.com,"{'purpose': ['search engine', 'online advertising', 'email service', 'cloud storage', 'web analytics', 'video hosting (YouTube)']}"
+2,gstatic.com,Google,https://www.google.com,CDN
+3,nflxso.net,Netflix,https://www.netflix.com/,CDN
+4,netflix.com,Netflix,https://www.netflix.com/,Streaming and distribution of movies and TV shows
+5,scdn.co,StackPath,https://www.stackpath.com/,CDN (Content Delivery Network)
+6,spotify.com,Spotify,https://www.spotify.com/,Music streaming service.
+7,nflxext.com,Netflix,https://www.netflix.com/,CDN
+8,sentry-cdn.com,Sentry,https://sentry.io,CDN
+9,amazonaws.com,Amazon,https://aws.amazon.com/,CDN and cloud computing services provider
+10,youtube.com,Google,https://www.google.com/,video sharing and social networking platform
+11,ytimg.com,YouTube,https://www.youtube.com/,CDN
+12,gvt2.com,GVT2,https://www.gvt2.com/,Unable to determine the purpose of the domain as it appears to be inactive or no longer in use.
+13,amazon.com,Amazon,www.amazon.com,{'purpose': ['e-commerce']}
+14,amazonvideo.com,Amazon,https://www.amazon.com/,Streaming video service provider
+15,roku.com,Roku,www.roku.com,CDN
+16,googlevideo.com,Google,https://www.google.com/,CDN
+17,conviva.com,Conviva,www.conviva.com,Analytics
+18,ggpht.com,Google,https://www.google.com/,CDN (Content Delivery Network)
+19,googlesyndication.com,Google,https://www.google.com,advertising
+20,media-amazon.com,Amazon,https://www.amazon.com/,CDN
+21,akamaihd.net,Akamai Technologies,https://www.akamai.com/,CDN
+22,doubleclick.net,Doubleclick,https://www.doubleclickbygoogle.com/,marketing
+23,googleadservices.com,Google,https://www.google.com/,advertising
+24,nflxvideo.net,Netflix,https://www.netflix.com/,CDN
+25,aiv-delivery.net,AIV Delivery,https://www.aiv-delivery.net/,CDN
+26,hbogo.com,HBO,hbogo.com,Video Streaming Platform
+27,hbo.com,HBO,https://www.hbo.com/,"['Entertainment', 'Streaming', 'Content delivery', 'Marketing']"
+28,dns.google,Google,https://www.google.com/,DNS service
+29,mgo-images.com,MGO Images,https://mgo-images.com/,static server
+30,mgo.com,MongoDB,https://www.mongodb.com/,Database Management System
+31,rokutime.com,Roku,https://www.roku.com/,content delivery network (CDN)
+32,plex.direct,Plex,https://www.plex.tv/,CDN
+33,ampproject.org,AMP Project,https://ampproject.org/,AMP Project is an open-source initiative that aims to provide a better user experience on the web. It provides a framework for creating fast-loading web pages that are optimized for mobile devices. The domain is used to host the project's website and resources related to the initiative.
+34,omtrdc.net,Adobe,https://www.adobe.com/,tracking
+35,plex.tv,Plex,https://www.plex.tv/,"[{'purpose': 'Media streaming and organization', 'type': 'Content Delivery Network (CDN)', 'domain': 'plex.tv', 'IP_Address': 'Various'}, {'purpose': 'User authentication and account management', 'type': 'Identity provider', 'domain': 'plex.tv', 'IP_Address': 'Various'}, {'purpose': 'Analytics', 'type': 'Analytics', 'domain': 'plex.tv', 'IP_Address': 'Various'}, {'purpose': 'Marketing', 'type': 'Marketing', 'domain': 'plex.tv', 'IP_Address': 'Various'}]"
+36,gvt1.com,GVT1,,Unable to determine the purpose of the domain
+37,cloudfront.net,Amazon,https://aws.amazon.com/cloudfront/,CDN
+38,akamaiedge.net,Akamai Technologies,https://www.akamai.com/,CDN
+39,akamaitechnologies.com,Akamai Technologies,https://www.akamai.com/,CDN (Content Delivery Network)
+40,wp.com,WordPress.com,https://wordpress.com/,CMS and web hosting platform
+41,domotz.com,Domotz,https://www.domotz.com/,network monitoring and management platform
+42,app-measurement.com,Google,https://www.google.com/,Analytics
+43,supersonicads.com,Supersonic Ads,https://www.supersonic.com/,advertising
+44,1e100.net,Google,https://www.google.com/,CDN
+45,tlnk.io,tlnk.io,https://tlnk.io/,marketing
+46,footprint.net,Footprint Networks,https://www.footprint.net/,CDN
+47,apigee.net,Apigee,https://apigee.com/,API Management Platform
+48,mtvnservices.com,MTV Networks,http://www.mtvnservices.com/,CDN
+49,slack-imgs.com,Slack,https://slack.com/,CDN
+50,futurecdn.net,"Future Hosting, LLC",https://www.futurehosting.com,CDN (Content Delivery Network)
+51,smarterhq.io,SmarterHQ,https://smarterhq.io,marketing
+52,googleapis.com,Google,https://www.google.com/,CDN
+53,microsoft.com,Microsoft,https://www.microsoft.com,"{'tracking': False, 'marketing': True, 'advertising': True, 'analytics': True, 'CDN': True, 'static_server': False, 'DNS': True}"
+54,msedge.net,Microsoft,https://www.microsoft.com/,DNS
+55,gmail.com,Google,https://www.google.com/,Email service provider
+56,facebook.com,Facebook,https://www.facebook.com/,"{'purpose': ['Social Networking', 'Advertising', 'Marketing']}"
+57,whatsapp.net,WhatsApp Inc.,https://www.whatsapp.com/,CDN and messaging server for the WhatsApp application and its services.
+58,bugsnag.com,Bugsnag,https://www.bugsnag.com/,error monitoring and debugging tool for web and mobile applications
+59,android.com,Android,https://www.android.com/,Operating System
+60,izatcloud.net,Izatcloud,https://www.izatcloud.net/,It is not possible to accurately determine the purpose of the domain without further information or analysis.
+61,azureedge.net,Microsoft,https://www.microsoft.com/,CDN
+62,crashlytics.com,Crashlytics,https://www.crashlytics.com/,Crash Reporting and Beta Testing Solution for Mobile Apps
+63,apptimize.com,Apptimize,https://apptimize.com/,A/B Testing and Feature Release Management for Mobile Apps
+64,eum-appdynamics.com,AppDynamics,https://www.appdynamics.com/,Application Performance Monitoring
+65,onesignal.com,OneSignal,https://onesignal.com/,The purpose of the domain is to provide a platform for push notifications and in-app messaging for web and mobile applications.
+66,acompli.net,Acompli,https://www.acompli.net/,email client application
+67,truecaller.com,Truecaller,https://www.truecaller.com/,Caller ID and call-blocking app
+68,vivintsky.com,Vivint,https://www.vivint.com/,It is not possible to determine the purpose of the domain as it does not exist or is not currently active.
+69,wzrkt.com,WizRocket,https://www.wizrocket.com,marketing and analytics
+70,discover.com,Discover Financial Services,https://www.discover.com/,Financial services and banking
+71,samsungiotcloud.com,Samsung IoT Cloud,https://samsungiotcloud.com,IoT Platform for managing and monitoring IoT devices and data
+72,hulu.com,Hulu,https://www.hulu.com/,"{'purpose': 'Streaming', 'type': 'Video content delivery', 'CDN': True, 'analytics': True}"
+73,googletagservices.com,Google,https://www.google.com/,Advertising and tracking
+74,samsungcloudsolution.net,Samsung,https://www.samsung.com/,"It appears to be a domain related to Samsung's cloud solutions, although the exact purpose is uncertain without further information."
+75,samsungacr.com,Samsung,https://www.samsung.com/,CDN
+76,elasticbeanstalk.com,Amazon Web Services,https://aws.amazon.com/,Platform-as-a-Service for deploying and scaling web applications and services
+77,google-analytics.com,Google,https://www.google.com/,analytics
+78,amazoncrl.com,Amazon,https://www.amazon.com/,DNS
+79,2mdn.net,DoubleClick,https://www.doubleclickbygoogle.com/,advertising
+80,app.link,Branch,https://branch.io/,Deep linking and attribution platform for mobile apps
+81,feedburner.com,Feedburner,https://feedburner.com,RSS feed management and analytics
+82,pluto.tv,Pluto TV,https://pluto.tv/,Streaming and on-demand TV service provider.
+83,pavv.co.kr,Pavv,pavv.co.kr,Unable to determine the purpose of the domain without additional information.
+84,internetat.tv,Internet@TV,https://internetat.tv/,It is not possible to determine the purpose of this domain without more information.
+85,samsungcloudsolution.com,Samsung Cloud Solution,samsungcloudsolution.com,"It is likely that this domain is used for providing cloud solutions by Samsung. Without further information, it is difficult to determine the exact purpose of the domain."
+86,samsungelectronics.com,Samsung Electronics,https://www.samsung.com/,"The domain is owned by Samsung Electronics and is likely used for their official website, which may include marketing, advertising, and sales purposes."
+87,majorleaguegaming.com,Major League Gaming,https://www.majorleaguegaming.com/,The purpose of the domain is to provide an online platform for hosting and streaming competitive gaming tournaments and events.
+88,samsungqbe.com,Samsung,https://www.samsung.com/,It is not possible to determine the purpose of the domain from the information provided.
+89,samsungads.com,Samsung Ads,https://samsungads.com/,advertising
+90,samsungotn.net,Samsung,https://www.samsung.com/,It is not possible to determine the purpose of samsungotn.net without further information.
+91,samsungrm.net,Samsung,https://www.samsung.com/,"It is difficult to determine the exact purpose of samsungrm.net without further information. It is possible that it is a subdomain used for Samsung's internal network or for a specific project or service. It does not appear to be a public-facing domain used for marketing, advertising, analytics, or CDN purposes."
+92,fbcdn.net,Facebook,https://www.facebook.com/,CDN
+93,rwth-aachen.de,RWTH Aachen University,https://www.rwth-aachen.de/,"{'purpose': ['Education', 'Research', 'Academic services']}"
+94,mparticle.com,mParticle,https://www.mparticle.com/,"marketing, analytics"
+95,pki.goog,Google,https://www.google.com/,PKI (Public Key Infrastructure)
+96,yahoo.com,Yahoo,https://www.yahoo.com/,"{'purpose': {'search_engine': True, 'email': True, 'news': True, 'finance': True, 'sports': True, 'advertising': True, 'analytics': True, 'marketing': True}}"
+97,vidible.tv,Vidible,https://www.vidible.tv/,Video content distribution platform for publishers and advertisers
+98,kochava.com,Kochava,https://www.kochava.com/,"tracking, analytics"
+99,thehill.com,The Hill,https://thehill.com/,"['news', 'media']"
+100,adcolony.com,AdColony,https://www.adcolony.com/,Advertising
+101,flurry.com,Flurry,flurry.com,Analytics
+102,ueiwsp.com,,,The domain ueiwsp.com does not exist or is currently inactive.
+103,aptoide.com,Aptoide,https://www.aptoide.com/,App Store and marketplace for Android apps
+104,ottmon.net,OTTMON,https://ottmon.net/,It is not possible to determine the purpose of the domain without further information or access to the website.
+105,philo.com,Philo,https://www.philo.com/,Video Streaming Service
+106,viki.io,Viki,https://www.viki.com/,Video streaming and community platform
+107,duckdns.org,Duck DNS,https://www.duckdns.org/,DNS
+108,mweb.co.za,MWEB,https://www.mweb.co.za/,Internet Service Provider
+109,akamaized.net,Akamai Technologies,https://www.akamai.com/,CDN
+110,playstation.net,Sony Interactive Entertainment,https://www.sie.com/,The domain playstation.net is used for gaming and gaming-related services offered by Sony Interactive Entertainment.
+111,intercom.io,Intercom,https://www.intercom.com/,Messaging and customer communication platform for businesses
+112,hotspotproxy.co,Hotspot Shield,https://www.hotspotshield.com/,VPN and Proxy Services
+113,mineproxy.club,Mineproxy.club,https://mineproxy.club/,"It is difficult to determine the exact purpose of the domain as there is no clear information available on the website. However, based on the name of the domain, it could potentially be related to a proxy server for Minecraft gaming."
+114,playstation.com,PlayStation,https://www.playstation.com/,"['Content Delivery Network (CDN)', 'Marketing', 'Online Gaming', 'Retail', 'Social Media']"
+115,epicgames.com,Epic Games,https://www.epicgames.com,gaming
+116,unrealengine.com,Unreal Engine,https://www.unrealengine.com,Game development platform
+117,vivox.com,Vivox,https://www.vivox.com/,VoIP and communication services for gaming and virtual worlds
+118,narvii.com,"Narvii, Inc.",https://www.narvii.com/,The domain is used for social networking and mobile app development purposes.
+119,epicgames.net,Epic Games,https://www.epicgames.com,Gaming/App Distribution Platform
+120,ravm.tv,RAVM TV,https://ravm.tv/,static server
+121,samsung.com,Samsung,https://www.samsung.com,"{'purpose': 'marketing', 'description': 'Samsung uses its domain for marketing their products and services.'}"
+122,samsungosp.com,Samsung,https://www.samsung.com/,"This domain appears to be associated with Samsung OSG (Open Source Group), which focuses on developing and contributing to open source software projects. It is likely used for hosting software repositories and related resources for developers."
+123,ntp.org,NTP Pool Project,https://www.ntppool.org/,Network Time Protocol (NTP) Server
+124,samsungcloud.com,Samsung,https://www.samsung.com/,cloud storage service
+125,samsungapps.com,Samsung,https://www.samsung.com/,App Store
+126,signal.org,Signal,https://signal.org/,Messaging and Voice over IP (VoIP) application focused on privacy and security.
+127,disquscdn.com,Disqus,https://disqus.com/,CDN
+128,weather.com,The Weather Channel,https://weather.com/,"{'purpose': 'Weather tracking and reporting', 'type': 'Informational website'}"
+129,linkedin.com,LinkedIn Corporation,https://www.linkedin.com/,Professional networking and employment-oriented service
+130,whispersystems.org,Signal Foundation,https://signal.org/,secure messaging and voice/video calling application
+131,googletagmanager.com,Google,https://www.google.com/,Tag management system used for managing and deploying marketing tags and code snippets on websites.
+132,moatads.com,Moat,https://www.moat.com/,tracking
+133,adnxs.com,AppNexus,https://www.appnexus.com/,Advertising
+134,optimizely.com,Optimizely,https://www.optimizely.com/,Website Optimization Platform
+135,bidswitch.net,BidSwitch,https://www.bidswitch.com/,Advertising
+136,chartbeat.net,Chartbeat,https://chartbeat.com/,Analytics
+137,sitescout.com,Sitescout,https://www.sitescout.com/,marketing
+138,att.com,AT&T,https://www.att.com,DNS
+139,permutive.com,Permutive,https://permutive.com/,Analytics
+140,lookout.com,Lookout,https://www.lookout.com/,"{'purpose': 'Security and Privacy', 'description': 'Lookout is a cybersecurity company that specializes in mobile security and identity protection. Their domain is primarily used for providing security solutions to individuals and businesses.'}"
+141,lkt.is,LKT.is,https://lkt.is/,It is not possible to accurately determine the purpose of the domain without further information.
+142,telenet.be,Telenet,https://www.telenet.be,{'purpose': 'Internet Service Provider'}
+143,gravatar.com,Gravatar,https://en.gravatar.com/,CDN
+144,imrworldwide.com,IMR Worldwide,https://www.imrworldwide.com/,analytics
+145,krxd.net,"Krux Digital, Inc.",https://www.salesforce.com/products/marketing-cloud/sfmc/audience-studio/,tracking
+146,evidon.com,Evidon,https://www.evidon.com/,"Marketing, Advertising, and Analytics"
+147,scorecardresearch.com,Scorecard Research,https://www.scorecardresearch.com/,analytics
+148,agkn.com,AGKN,https://www.agkn.com/,advertising
+149,demdex.net,Demdex,https://www.adobe.com/experience-cloud/marketing-technology/partners/demdex.html,tracking
+150,innovid.com,Innovid,https://www.innovid.com/,Marketing
+151,extremereach.io,Extreme Reach,https://www.extremereach.com/,Video advertising platform
+152,insightexpressai.com,InsightExpressAI,https://www.insightexpressai.com/,marketing
+153,uplynk.com,Uplynk,https://uplynk.com/,CDN
+154,doubleverify.com,DoubleVerify,https://www.doubleverify.com/,Tracking and Analytics
+155,spotxchange.com,SpotX,https://www.spotx.tv/,advertising
+156,fqtag.com,FQtag,https://www.fqtag.com/,marketing
+157,adsrvr.org,The Trade Desk,https://www.thetradedesk.com/,advertising
+158,cogocast.net,Cogocast,https://cogocast.net/,Unknown
+159,pippio.com,Pippio,https://www.pippio.com/,"marketing, advertising"
+160,apxlv.com,APXLV,https://www.apxlv.com/,Unknown
+161,extend.tv,Extend,https://extend.tv/,CDN
+162,rlcdn.com,RealNetworks,https://www.realnetworks.com/,CDN (Content Delivery Network)
+163,videoamp.com,VideoAmp,https://www.videoamp.com/,"The domain belongs to VideoAmp, a company that provides a software platform for advanced TV and video advertising. Therefore, the purpose of this domain is advertising and marketing."
+164,mdhv.io,mdhv.io,https://mdhv.io/,It is not possible to determine the purpose of the domain without further information or analysis.
+165,litix.io,Litix,https://litix.io/,CDN
+166,discovery.com,Discovery Communications,https://corporate.discovery.com/,Entertainment and Media
+167,att.net,AT&T,https://www.att.com/,DNS
+168,akadns.net,Akamai Technologies,https://www.akamai.com/,DNS
+169,apple.com,Apple,https://www.apple.com,"{'purpose': ['Marketing', 'e-commerce', 'Support', 'Content delivery network (CDN)', 'Security', 'Analytics', 'Authentication', 'DNS']}"
+170,cloudflare.net,Cloudflare,https://www.cloudflare.com/,CDN (Content Delivery Network)
+171,fitbit.com,Fitbit,https://www.fitbit.com/,"Tracking, Analytics"
+172,appdynamics.com,AppDynamics,https://www.appdynamics.com/,Application Performance Monitoring and Management (APM) Solution
+173,apple-dns.net,Unknown,N/A,DNS
+174,icloud.com,Apple Inc.,https://www.apple.com/,"Cloud storage and syncing service for Apple device users, along with email, calendar, and other productivity tools."
+175,aaplimg.com,Apple Inc.,https://www.apple.com/,CDN
+176,mixpanel.com,Mixpanel,https://mixpanel.com/,Analytics
+177,mozilla.org,Mozilla,https://www.mozilla.org,"{'purpose': ['Web browser development', 'Open-source software development', 'Internet privacy and security advocacy', 'Online community engagement', 'Web standards advocacy']}"
+178,localytics.com,Localytics,https://www.localytics.com/,analytics
+179,att-idns.net,AT&T,https://www.att.com/,DNS
+180,itunes.com,Apple Inc.,https://www.apple.com/,"Media distribution and streaming platform for music, movies, and TV shows."
+181,honeywell.com,Honeywell,honeywell.com,"{'purpose': 'Manufacturing and technology', 'description': 'Honeywell is a Fortune 100 technology company that delivers industry-specific solutions that include aerospace and automotive products and services, control technologies for buildings, homes, and industry, and performance materials globally.'}"
+182,game-mode.net,Game Mode,https://game-mode.net/,It is not possible to determine the purpose of this domain without further information.
+183,images-amazon.com,Amazon,https://www.amazon.com/,CDN
+184,sfx.ms,Microsoft Corporation,https://www.microsoft.com,CDN
+185,usinternet.com,US Internet Corp,https://www.usinternet.com/,Internet and networking service provider
+186,leanplum.com,Leanplum,https://www.leanplum.com/,marketing
+187,wikimedia.org,"Wikimedia Foundation, Inc.",https://wikimediafoundation.org/,"CDN, DNS, and static server"
+188,adjust.com,Adjust,https://www.adjust.com/,tracking
+189,mozilla.net,Mozilla,www.mozilla.org,DNS
+190,pinterest.com,Pinterest,https://www.pinterest.com/,"['Social Media', 'Image sharing', 'Content sharing']"
+191,phncdn.com,Pornhub,https://www.pornhub.com/,CDN
+192,skype.com,Skype Technologies S.A.,https://www.skype.com/,VoIP and video calling service
+193,mozilla.com,Mozilla,https://www.mozilla.org/,"{'tracking': False, 'marketing': False, 'advertising': False, 'analytics': True, 'CDN': True, 'static_server': True, 'DNS': False}"
+194,dropbox.com,Dropbox,https://www.dropbox.com/,Cloud Storage and File Sharing
+195,trustarc.com,TrustArc,https://www.trustarc.com/,"privacy compliance and data protection solutions, including assessments, certifications, and consulting services"
+196,dropboxapi.com,Dropbox,https://www.dropbox.com/,API for integrating Dropbox services into third-party applications
+197,ssl-images-amazon.com,Amazon,https://www.amazon.com,CDN
+198,wikipedia.org,Wikipedia,https://www.wikipedia.org/,Encyclopedia and knowledge base website
+199,audible.com,Audible,www.audible.com,audiobook streaming and download service
+200,icfcdn.com,ICF International,https://www.icf.com,CDN
+201,mopub.com,MoPub,https://www.mopub.com/,advertising
+202,adtng.com,ADTNG,https://adtng.com/,advertising
+203,etahub.com,EtaHub,https://etahub.com,It is not possible to determine the purpose of the domain without further information.
+204,trafficjunky.net,TrafficJunky,https://www.trafficjunky.com/,advertising
+205,flipboard.com,Flipboard,https://flipboard.com/,"['Content Aggregation', 'Social Media']"
+206,thisamericanlife.org,This American Life,https://www.thisamericanlife.org/,Podcast and media streaming platform for the radio show This American Life.
+207,itsup.com,ITSUP,https://itsup.com/,Unable to determine the purpose of the domain. It could be a general IT services company.
+208,asuscomm.com,ASUS,https://www.asus.com/,DNS
+209,netcabo.pt,Netcabo,https://www.netcabo.pt/,Internet Service Provider (ISP)
+210,telepac.pt,Telepac,https://www.telepac.pt/,"{'purpose': 'Internet Service Provider', 'services': ['Internet Access', 'Web Hosting', 'Domain Registration', 'Cloud Services', 'VPN', 'VoIP', 'Security Services']}"
+211,proxy4.win,Proxy4Win,https://proxy4.win/,Proxy Server
+212,proxygo.us,ProxyGo,https://proxygo.us/,proxy server
+213,hotspotproxy.gq,,,This domain is not valid or currently not in use.
+214,proxygo.club,ProxyGo,https://proxygo.club/,This domain appears to be a proxy server that provides anonymous access to the internet.
+215,demandbase.com,Demandbase,https://www.demandbase.com/,marketing
+216,twimg.com,Twitter,https://twitter.com,CDN (Content Delivery Network)
+217,facebook.net,Facebook,https://www.facebook.com/,CDN
+218,livetelegram.cc,,livetelegram.cc,Unable to determine the purpose of the domain
+219,llnwd.net,Limelight Networks,https://www.limelight.com/,CDN
+220,jtvnw.net,JW Player,https://www.jwplayer.com/,CDN
+221,ampme.com,AmpMe,https://ampme.com/,Music sharing platform that allows users to sync their devices and play music in a group setting.
+222,sonyentertainmentnetwork.com,Sony,https://www.sony.com/,"The domain is used as a platform for Sony's entertainment network services which includes gaming, music, movies, and TV shows. It is mainly used for providing users with access to Sony's digital content and services."
+223,comcast.net,Comcast,https://www.comcast.com/,Internet Service Provider
+224,rr.com,RoadRunner,https://www.spectrum.com/,DNS
+225,sl-reverse.com,SL Reverse,https://sl-reverse.com/,It is not possible to determine the purpose of this domain without further information.
+226,myactv.net,Antietam Broadband,https://www.antietambroadband.com/,DNS
+227,cloudapp.net,Microsoft,https://www.microsoft.com,CDN
+228,setaptr.net,Setaptr,https://www.setaptr.net/,DNS
+229,servercontrol.com.au,ServerControl,https://www.servercontrol.com.au/,"It seems that ServerControl provides server management services, but without further information or access to the website, I cannot determine the exact purpose of the domain."
+230,unmetered.com,Unmetered.com,https://unmetered.com/,It is not possible to accurately determine the purpose of the domain based solely on the domain name. Further investigation is needed.
+231,azure.com,Microsoft,https://www.microsoft.com/en-us/azure/,Cloud computing platform and services
+232,edgecastcdn.net,EdgeCast Networks,https://www.verizondigitalmedia.com/platform/edgecast-cdn/,CDN (Content Delivery Network)
+233,amazon.co.uk,Amazon,amazon.co.uk,e-commerce
+234,avcdn.net,AVCDN,https://www.avcdn.net/,CDN
+235,ea.com,Electronic Arts,https://www.ea.com/,Gaming and Interactive entertainment website.
+236,ubi.com,UBI Soft Entertainment,https://www.ubisoft.com,"This domain belongs to the company UBI Soft Entertainment, which is likely to use it for their official website, gaming platforms, or other related services."
+237,respawn.com,Respawn Entertainment,https://www.respawn.com/,Gaming and Entertainment
+238,sitestream.net,Sitestream,https://sitestream.net/,CDN
+239,musical.ly,Musical.ly,https://www.musical.ly/,"The purpose of the domain musical.ly is to serve as a social media platform primarily used for creating, sharing and discovering short videos. It allows users to lip-sync to popular songs or audio bites, and also includes features such as filters, effects, and editing tools."
+240,ubisoft.com,Ubisoft,www.ubisoft.com,"This domain is the official website of the Ubisoft company that offers video games, online services, and mobile games. It serves as a marketing and advertising platform for the company's products and services."
+241,ondemand.com,OnDemand,https://ondemand.com,It is not possible to determine the purpose of the domain without further information or context.
+242,goguardian.com,GoGuardian,https://www.goguardian.com/,"tracking, analytics"
+243,withgoogle.com,Google,https://www.google.com/,This domain appears to be owned by Google and is currently not resolving to any active website. It is possible that it was used for internal purposes or testing.
+244,hshh.org,Unknown,,Cannot determine the purpose of the domain as there is no website hosted at hshh.org
+245,insigniaproducts.com,Insignia Products,https://www.insigniaproducts.com/,"HTML content, e-commerce"
+246,urbanairship.com,Urban Airship,https://www.urbanairship.com/,"marketing, analytics"
+247,amazon-dss.com,Amazon,https://www.amazon.com/,"It is not possible to determine the exact purpose of the domain 'amazon-dss.com' as it is currently not registered or active. Therefore, no information is available on how it is intended to be used."
+248,a2z.com,a2z.com,https://www.a2z.com/,"It seems that a2z.com is a domain owned by a company that provides services for event management and trade show organizers. Therefore, it is likely that the domain is used for marketing and advertising purposes, as well as for providing information about their services and events. It is also possible that they use various analytics tools to measure the effectiveness of their marketing strategies and improve their services."
+249,akamai.net,Akamai Technologies,https://www.akamai.com/,CDN (Content Delivery Network)
+250,sonos.com,Sonos,https://www.sonos.com/,"The website of Sonos is for marketing and e-commerce purposes, it is used to promote and sell their products and services."
+251,amazon-adsystem.com,Amazon,https://www.amazon.com/,advertising
+252,usatoday.com,USA Today,https://www.usatoday.com/,"['News', 'Media']"
+253,gannett-cdn.com,Gannett,https://www.gannett.com/,CDN
+254,wpdigital.net,WP Digital,https://wpdigital.net/,"It seems that WP Digital is a website design and development company. Without further information, it is difficult to determine the specific purpose of this domain."
+255,amazonalexa.com,Amazon,https://www.amazon.com/,"This domain is related to the Amazon Alexa service, which provides voice-activated virtual assistant capabilities. It is used for analytics and communication between the user's Alexa device and Amazon servers."
+256,duapps.com,DU Apps,https://www.duapps.com/,It seems that DU Apps is a website dedicated to offering various apps and tools for mobile devices. It is not possible to determine the specific purpose of the domain without further information.
+257,ntp-fireos.com,FireOS,https://www.amazon.com/Fire-Tablet-Apps/b?ie=UTF8&node=10208590011,NTP (Network Time Protocol) Server
+258,amazonsilk.com,Amazon,https://www.amazon.com/,Browser for Amazon devices
+259,bbci.co.uk,BBC,https://www.bbc.com/,Media and news website
+260,tapas.net,"Tapas Media, Inc.",https://tapas.io/,"The domain appears to belong to a media company that offers an online platform for publishing and reading comics and novels. The domain is likely used to serve content to users, provide access to the platform's features, and facilitate communication between users and the platform's servers."
+261,msftncsi.com,Microsoft,https://www.microsoft.com/,DNS
+262,foldlife.net,Foldlife,https://foldlife.net/,It is unclear what the purpose of this domain is as there is no website currently available at the provided URL.
+263,amazonmusic.com,Amazon,https://www.amazon.com/,Music streaming service
+264,dropcam.com,Dropcam,https://www.dropcam.com/,surveillance camera and video streaming service
+265,edgekey.net,Akamai,https://www.akamai.com/,CDN
+266,mzstatic.com,Apple Inc.,https://www.apple.com/,CDN
+267,launchdarkly.com,LaunchDarkly,https://www.launchdarkly.com/,Feature management and rollout platform for software development teams
+268,advg.vip,AdVantage Media,https://www.advg.vip/,Advertising
+269,truste.com,TrustArc,https://www.trustarc.com/,"Tracking, privacy compliance and risk management"
+270,adrta.com,AdRTA,https://adrta.com/,advertising
+271,tvpixel.com,TVSquared,https://tvsquared.com/,tracking
+272,placed.com,Placed,https://www.placed.com/,Tracking
+273,samba.tv,Samba TV,https://samba.tv/,"tracking, analytics"
+274,stickyadstv.com,StickyADS.tv,https://stickyadstv.com/,advertising
+275,mookie1.com,Mookie1,https://www.mookie1.com/,Advertising and tracking
+276,imtwjwoasak.com,Unknown,N/A,This domain does not exist or is no longer in use.
+277,qbk1.com,QBK1 Technologies,https://qbk1.com/,It is not possible to determine the purpose of the domain without further information or analysis.
+278,bluecava.com,BlueCava,https://www.bluecava.com/,tracking
+279,movetv.com,Movetv,movetv.com,"Unfortunately, it is not possible to determine the purpose of movetv.com without further context or information about the company's services."
+280,sling.com,Sling TV,https://www.sling.com/,Streaming TV service provider
+281,twitter.com,Twitter,https://twitter.com/,Social media platform for sharing short messages and media
+282,cdninstagram.com,Instagram,https://www.instagram.com/,CDN
+283,office.com,Microsoft Corporation,https://www.microsoft.com,Productivity Suite
+284,t.co,Twitter,https://twitter.com/,URL shortening service
+285,reddit.com,Reddit Inc.,www.redditinc.com,"[{'purpose': 'Social media platform', 'description': 'Reddit is a social news aggregation, web content rating, and discussion website. Registered members submit content to the site such as links, text posts, and images, which are then voted up or down by other members.'}, {'purpose': 'Community management', 'description': 'Reddit provides a platform for users to create and manage their own communities, known as subreddits. Each subreddit is dedicated to a particular topic, and users can subscribe to or participate in the subreddits that interest them.'}, {'purpose': 'Advertising', 'description': 'Reddit offers a self-serve advertising platform for businesses and individuals to promote their products or services on the site. Advertisements can be targeted to specific subreddits or user demographics.'}, {'purpose': 'Analytics', 'description': 'Reddit provides analytics tools to subreddit moderators and advertisers to track engagement and performance metrics of their content or ads.'}]"
+286,instagram.com,Instagram,https://www.instagram.com/,social media
+287,microsoftonline.com,Microsoft,https://www.microsoft.com/,"Domain for Microsoft's online services such as Office 365, Azure, Dynamics 365, and more."
+288,sc-cdn.net,StackPath,https://www.stackpath.com/,CDN (Content Delivery Network)
+289,one.one,Cloudflare,https://www.cloudflare.com/,DNS
+290,appspot.com,Google,https://www.google.com/,Platform as a Service (PaaS) for developing and hosting web applications in Google-managed data centers
+291,paypal.com,PayPal,paypal.com,"{'purpose': 'Payment processing', 'services_provided': ['Sending and receiving payments', 'Online checkout systems for businesses', 'Payment processing for online marketplaces', 'Invoicing and billing solutions', 'Fraud protection and security measures']}"
+292,snapchat.com,Snap Inc.,https://www.snap.com/,social media
+293,office365.com,Microsoft Corporation,https://www.microsoft.com/,Productivity suite and cloud-based services for businesses and individuals.
+294,3gppnetwork.org,3GPP,https://www.3gpp.org/,DNS
+295,dynatrace.com,Dynatrace,https://www.dynatrace.com/,Analytics
+296,pusher.com,Pusher,https://pusher.com,Real-time API and infrastructure provider for web and mobile applications.
+297,redd.it,Reddit,https://www.redditinc.com/,Social media and content sharing platform
+298,gfycat.com,Gfycat,https://gfycat.com/,"CDN, hosting short looping videos and GIFs"
+299,tile-api.com,Tile,tile.com,API for tracking and managing Tile devices
+300,ticktick.com,TickTick,https://ticktick.com/,Productivity and task management application
+301,statuspage.io,Atlassian,https://www.atlassian.com/,status page hosting and communication platform
+302,trusteer.com,Trusteer,https://www.trusteer.com/,security software
+303,ecosia.org,Ecosia,https://www.ecosia.org/,Search engine
+304,mapbox.com,Mapbox,https://www.mapbox.com/,"Mapbox provides mapping and location data services, including a CDN for maps and geospatial data, analytics, and geocoding services."
+305,braze.eu,Braze,https://www.braze.com/,marketing
+306,adswizz.com,Adswizz,https://www.adswizz.com/,"Adswizz provides audio advertising solutions and monetization for digital audio content publishers. They offer a complete suite of audio advertising technology solutions, including dynamic ad insertion, audio-centric programmatic buying, and targeted audio advertising."
+307,startappservice.com,StartApp,https://www.startapp.com/,This appears to be the website of the StartApp service provider. StartApp provides a mobile advertising platform that allows app developers to monetize their apps through various ad formats. It is likely that this domain serves as the entry point for accessing StartApp's advertising platform and related services.
+308,sharp-stream.com,SharpStream,https://sharp-stream.com/,CDN
+309,channel4.com,Channel 4,https://www.channel4.com/,"{'purpose': ['Advertising', 'Analytics', 'CDN']}"
+310,bombproxy.pro,BombProxy,https://bombproxy.pro/,Proxy server
+311,hotspotproxy.live,Hotspot Proxy,hotspotproxy.live,"It is not possible to determine the exact purpose of hotspotproxy.live without additional information or analysis. The domain name suggests that it may be related to providing proxy services for internet hotspots, but this is speculative."
+312,tt2.live,Unknown,,Unknown domain. Please provide a valid domain name.
+313,starproxy.pro,StarProxy,https://starproxy.pro/,CDN
+314,nflximg.net,Netflix,https://www.netflix.com/,CDN
+315,lgtvsdp.com,LG Electronics,https://www.lg.com,It is not possible to determine the purpose of this domain as it is currently not active. It may have been a test or development domain that is no longer in use.
+316,lgappstv.com,LG Electronics,https://www.lg.com/,The domain is likely used for LG Smart TV applications and services.
+317,lgsmartad.com,LG Electronics,https://www.lg.com/,advertising
+318,kustomerapp.com,Kustomer,https://www.kustomer.com/,customer service and support platform
+319,affirm.com,Affirm,https://www.affirm.com/,financial services
+320,company-target.com,Target,https://www.target.com/,Retail Shopping Website
+321,fandango.com,Fandango,https://www.fandango.com/,Movie ticket booking and movie-related content
+322,google.ca,Google,https://www.google.com/,search engine
+323,google.fr,Google,www.google.com,Search Engine
+324,goo.gl,Google,https://www.google.com/,URL shortening service
+325,google.it,Google,www.google.com,"{'purpose': 'Search Engine', 'description': ""Google is the world's largest search engine, helping people find information on the internet.""}"
+326,google.co.uk,Google,www.google.com,Search engine
+327,g.co,Google,https://www.google.com/,URL shortener
+328,google.be,Google,https://www.google.com/,"{'purpose': 'Search engine and various online services', 'type': 'Web services'}"
+329,google.es,Google,https://www.google.com,"Search engine and various online services including email, cloud storage, and productivity tools."
+330,google.co.id,Google,https://www.google.com/,Search engine
+331,google.co.in,Google,https://www.google.com,Search Engine
+332,google.com.ua,Google,https://www.google.com/,"{'tracking': True, 'marketing': True, 'advertising': True, 'analytics': True, 'CDN': True, 'static_server': False, 'DNS': False}"
+333,google.dk,Google,https://www.google.com,Search engine
+334,google.no,Google,https://www.google.com/,Search Engine
+335,google.at,Google,www.google.com,"{'purpose': 'Search Engine', 'description': 'Google is a search engine that indexes web pages on the Internet in order to allow users to find information on various topics.'}"
+336,google.nl,Google,https://www.google.com/,"{'purpose': ['Search engine', 'Online advertising', 'Cloud computing', 'Software', 'Internet services', 'Computer hardware']}"
+337,google.ch,Google,https://www.google.com,Search Engine
+338,google.gr,Google,https://www.google.com/,"Search engine, advertising, analytics"
+339,google.com.tw,Google,https://www.google.com,"{'purpose': {'search_engine': True, 'advertising': True, 'analytics': True, 'CDN': True, 'DNS': True}}"
+340,google.co.kr,Google,https://www.google.com/,Search engine and technology company
+341,google.ro,Google,https://www.google.com/,Search engine and technology company
+342,google.se,Google,https://www.google.com/,DNS
+343,sophos.com,Sophos,https://www.sophos.com/,Security solutions provider
+344,princeton.edu,Princeton University,www.princeton.edu,DNS
+345,hotjar.com,Hotjar Ltd.,https://www.hotjar.com/,"Analytics, Feedback and Behavioural Insights"
+346,duckduckgo.com,DuckDuckGo,https://duckduckgo.com/,Search Engine
+347,fing.io,Fing,https://www.fing.com/,network scanning and security
+348,maxmind.com,MaxMind,https://www.maxmind.com/,"tracking, analytics"
+349,ampproject.net,Google,https://www.google.com,"The domain ampproject.net is used for serving Accelerated Mobile Pages (AMP). AMP is an open-source HTML framework that is designed to help web pages load faster on mobile devices. AMP pages are cached by Google and served from its CDN, so the ampproject.net domain is used to serve these cached pages."
+350,sc-static.net,Section.io,https://www.section.io/,CDN
+351,firebaseapp.com,Google,https://www.google.com,"Platform for application development, authentication, and hosting"
+352,sony.tv,Sony Corporation,https://www.sony.com/,DNS
+353,ndmdhs.com,,,Unable to identify the purpose of the domain
+354,amazon.co.jp,Amazon Japan,https://www.amazon.co.jp/,E-commerce platform
+355,mlb.com,"MLB Advanced Media, L.P.",https://www.mlb.com,"['sports content distribution', 'live streaming', 'news and articles', 'scores and statistics', 'ticketing', 'fan engagement', 'merchandise sales', 'video playback']"
+356,primevideo.com,Prime Video,https://www.primevideo.com/,Video streaming and content delivery network (CDN) for streaming movies and TV shows.
+357,muscdn.com,Mus CDN,https://www.muscdn.com/,CDN
+358,flingo.tv,Flingo TV,https://flingo.tv,"It is not possible to determine the specific purpose of the domain without further information or analysis. However, based on the company name and website, it is likely that Flingo TV provides some type of television or media-related services. Further research or analysis would be necessary to determine any specific purposes related to tracking, marketing, advertising, analytics, CDN, static server, or DNS."
+359,playmemoriesonline.com,Sony Corporation,https://www.sony.com/,Cloud storage and sharing service for photos and videos.
+360,ink1001.com,Ink1001,ink1001.com,It is not possible to determine the purpose of this domain without further information.
+361,capitalonegslbex.com,Capital One,https://www.capitalone.com/,DNS
+362,giraffic.net,Giraffic,https://www.giraffic.com/,CDN
+363,shoptv.com,ShopTV,shoptv.com,E-commerce website for selling products through television and online platforms.
+364,jwplatform.com,JW Player,https://www.jwplayer.com/,CDN and Video Hosting Platform
+365,amcs-tachyon.com,AMCS Tachyon,https://www.amcsgroup.com/,It is not possible to determine the purpose of the domain without additional information.
+366,youtube-nocookie.com,Google,https://www.google.com/,Static Server - used for serving YouTube videos without setting cookies for tracking or advertising purposes.
+367,nhl.com,National Hockey League,https://www.nhl.com/,"The purpose of this domain is to serve as the official website of the National Hockey League. It provides news, scores, schedules, statistics, and other information related to the NHL and its teams."
+368,internet-census.org,Internet Census,internet-census.org,It is not possible to determine the exact purpose of the domain without further investigation. The domain name suggests it may be related to internet research or data analysis.
+369,vido.info,Unknown,,Unable to determine the purpose of the domain since there is no active website or any publicly available information.
+370,rapid7.com,Rapid7,https://www.rapid7.com/,"Rapid7.com is a website that is primarily designed to provide network security solutions and services, including vulnerability management, incident detection and response, application security, and compliance management. The domain is used for marketing, advertising, and analytics purposes to reach out to potential customers and drive traffic to the website. Additionally, it may also host static content and serve as a DNS for the company's network infrastructure."
+371,fcloud.biz,FCloud.biz,https://fcloud.biz/,"It is not clear what the purpose of this domain is, as the website only displays a message saying 'Coming soon' and does not provide any information about the company's services or products. Therefore, it is not possible to identify the purpose of the domain based on the provided information."
+372,linode.com,Linode,https://www.linode.com/,Cloud hosting provider
+373,plex.bz,Plex,https://www.plex.tv,Media Streaming
+374,plexapp.com,Plex,https://www.plex.tv/,media streaming and management
+375,nvidia.com,NVIDIA,www.nvidia.com,"This domain serves as the main website for NVIDIA, a technology company that primarily focuses on designing graphics processing units (GPUs) for the gaming and professional markets. The domain serves a variety of purposes, including marketing, advertising, and providing support for their products."
+376,npr.org,National Public Radio,https://www.npr.org/,news and media
+377,streamtheworld.com,StreamTheWorld,https://www.streamtheworld.com/,CDN
+378,aibixby.com,Aibixby,aibixby.com,Unable to determine the purpose of the domain as it appears to be parked or inactive.
+379,ring.com,Ring,https://ring.com/,Security and smart home devices that help protect and monitor homes and neighborhoods.
+380,allrecipes.com,Allrecipes,https://www.allrecipes.com/,Recipe sharing and cooking community
+381,sndcdn.com,SoundCloud,https://soundcloud.com/,CDN
+382,people.com,People,https://people.com,{'purpose': 'Publishing and Entertainment'}
+383,overwatchleague.com,Overwatch League,overwatchleague.com,Esports league website
+384,nbc.co,NBC,https://www.nbc.com/,static server
+385,pandora.com,Pandora,https://www.pandora.com/,music streaming service
+386,groceryserver.com,Grocery Server,groceryserver.com,"{'purpose': 'static server', 'description': 'Grocery Server website serves static content such as images, HTML, CSS, and JavaScript files to its users. It may also host downloadable files like PDFs, documents, and other media files. The website does not require dynamic content generation, so a static server is sufficient.'}"
+387,meraki.com,Meraki,https://meraki.com,"Meraki provides cloud-managed IT solutions, including networking, security, and application control. The domain likely serves as the primary website for the company and may also host cloud-based management tools for their products."
+388,sbixby.com,"S. Bixby, LLC",https://www.sbixby.com/,It is not possible to determine the purpose of the domain without additional information.
+389,whisk.com,Whisk,https://whisk.com/,Recipe management and recommendation platform
+390,media-allrecipes.com,Allrecipes,https://www.allrecipes.com/,CDN
+391,ywxi.net,YWXI,https://ywxi.net/,CDN
+392,tizenstore.com,Tizen,https://www.tizen.org/,App store and marketplace for Tizen operating system
+393,samsunghrm.com,Samsung,https://www.samsung.com/,Human resource management system for Samsung employees
+394,cspserver.net,CSPServer,https://www.cspserver.net/,"It is not possible to determine the exact purpose of the domain as there is no information available on their website or elsewhere online. However, based on the name of the domain, it is possible that it could be related to providing server and hosting services for content security policies (CSP)."
+395,twit.tv,TWiT LLC,https://twit.tv/,"{'purpose': ['Media', 'Podcasting', 'Live streaming'], 'type': 'Content Delivery Network', 'services': ['Content delivery', 'Live streaming', 'Podcasting']}"
+396,onyxmtp.online,Unknown,,"{'purpose': 'Unknown', 'description': 'The domain name does not provide enough information to determine its purpose or the company associated with it.'}"
+397,acquia.com,Acquia,https://www.acquia.com/,CDN and Web Development Platform
+398,hotspotproxy.xyz,Hotspot Proxy,hotspotproxy.xyz,"It is unclear what the purpose of this domain is without additional information. The domain name suggests it may be related to proxy services, which can be used for various purposes such as bypassing internet restrictions or improving security and privacy."
+399,newslive2.xyz,unknown,,"It is not possible to determine the purpose of the domain as it appears to be a suspicious or malicious domain, and is not associated with any reputable company or website."
+400,nintendo.net,Nintendo,https://www.nintendo.com/,DNS
+401,virginm.net,Virgin Media,https://www.virginmedia.com/,DNS
+402,onedrive.com,Microsoft Corporation,https://www.microsoft.com/,cloud storage and synchronization service
+403,cloudflare.com,Cloudflare,https://www.cloudflare.com/,"{'purpose': ['CDN', 'DNS', 'Security']}"
+404,windows.com,Microsoft,https://www.microsoft.com/,"[{'purpose': 'Information and downloads related to Windows operating system and Microsoft software products.', 'type': 'Static Server'}, {'purpose': 'DNS', 'type': 'DNS'}, {'purpose': 'CDN for delivering static assets, such as images and scripts.', 'type': 'CDN'}, {'purpose': 'Marketing and advertising', 'type': 'Marketing'}, {'purpose': 'Analytics tracking and user behavior analysis.', 'type': 'Analytics'}]"
+405,brightcove.net,Brightcove,https://www.brightcove.com/,CDN
+406,brightcove.com,Brightcove,https://www.brightcove.com/,"CDN, Video Hosting, OTT Solutions, Video Marketing and Monetization"
+407,discord.gg,Discord,https://discord.com/,Chat and Voice Communication Platform
+408,boltdns.net,BoltDNS,https://boltdns.net/,DNS provider
+409,steampowered.com,Steam,https://store.steampowered.com/,"{'marketing': True, 'tracking': True, 'analytics': True, 'CDN': True, 'DNS': True}"
+410,twitch.tv,Twitch Interactive,https://www.twitch.tv/,"[{'purpose': 'Live streaming and video community', 'type': 'Content delivery network (CDN)'}, {'purpose': 'Authentication and authorization for users', 'type': 'Identity provider'}, {'purpose': 'Chat and messaging functionality', 'type': 'Communication platform'}, {'purpose': 'Analytics for content creators', 'type': 'Analytics platform'}]"
+411,salesforce.com,Salesforce,https://www.salesforce.com/,CRM and enterprise cloud computing solutions provider
+412,twitchcdn.net,"Twitch Interactive, Inc.",https://www.twitch.tv/,CDN
+413,siteforce.com,Siteforce,https://www.siteforce.com/,It is not possible to determine the purpose of this domain with certainty as the website is currently unavailable.
+414,transacme.com,Transacme,https://transacme.com,It is not possible to determine the purpose of the domain without further information or access to the website's infrastructure.
+415,tuyaus.com,,,Unable to Identify the purpose of the domain
+416,2o7.net,Adobe Systems,https://www.adobe.com/,tracking
+417,ihrhls.com,Unknown,,Unable to determine the purpose of the domain
+418,iheart.com,iHeartMedia,https://www.iheartmedia.com/,audio streaming and media delivery
+419,zillowstatic.com,Zillow Group,https://www.zillowgroup.com/,static server
+420,gumgum.com,GumGum,https://gumgum.com/,Advertising
+421,tailtarget.com,TailTarget,https://www.tailtarget.com/,TailTarget is a marketing company that provides personalized and targeted advertising solutions for digital marketing campaigns.
+422,doordash.com,DoorDash,https://www.doordash.com/,food delivery service
+423,aiv-cdn.net,AIV,https://aiv.ai/,CDN
+424,as13285.net,TalkTalk,https://www.talktalk.co.uk/,DNS
+425,live.com,Microsoft Corporation,https://www.microsoft.com/,Email and messaging service provider
+426,meethue.com,Philips Hue,https://www.meethue.com/,"{'purpose': 'Smart lighting control platform', 'type': 'IoT/App', 'features': ['Control and customize lights from anywhere through the Hue app', 'Set schedules and timers to automate lighting', 'Smart home integration with voice assistants and other devices', 'Create scenes and dynamic lighting experiences', 'Access to various third-party apps and services']}"
+427,tplinkra.com,TP-Link,www.tp-link.com,DNS
+428,tplinkcloud.com,TP-Link,https://www.tp-link.com/,Cloud remote control and management for TP-Link devices
+429,pushbullet.com,Pushbullet,https://www.pushbullet.com/,notification and file transfer service
+430,nist.gov,National Institute of Standards and Technology (NIST),https://www.nist.gov/,"The purpose of the domain nist.gov is to provide information and resources related to technology, measurements, standards, and cybersecurity for promoting innovation and industrial competitiveness in the United States."
+431,fungames-forfree.com,Fun Games For Free,https://www.fungames-forfree.com/,This is the domain for the official website of Fun Games For Free. It is used to provide information and downloads for their mobile games.
+432,tunein.com,TuneIn,www.tunein.com,Audio Streaming and Radio Aggregation
+433,feelinsonice.com,Cloudflare,https://www.cloudflare.com/,CDN
+434,adblockplus.org,Adblock Plus,https://adblockplus.org/,"The domain is used for providing information, updates and downloads related to the Adblock Plus browser extension which is used to block ads on websites."
+435,tuyaeu.com,Unknown,,Unable to identify the purpose of the domain.
+436,bamgrid.com,BAMTech Media,https://www.bamtechmedia.com/,CDN
+437,babbel.com,Babbel,https://www.babbel.com/,"{'Purpose': 'Language learning platform', 'CDN': 'Fastly', 'Analytics': 'Google Analytics, Amplitude, Segment', 'Marketing': 'Facebook Pixel, Google Ads, LinkedIn Insights', 'Tracking': 'Mixpanel, Hotjar, Mouseflow', 'DNS': 'Amazon Route 53', 'Static Server': 'Amazon S3'}"
+438,presage.io,Presage,https://presage.io/,Analytics
+439,worldlifestyle.com,World Lifestyle,https://www.worldlifestyle.com/,Content website
+440,irobotapi.com,iRobot,https://www.irobot.com/,API for accessing iRobot's robotic products and data
+441,pbs.org,PBS,https://www.pbs.org/,"Content delivery, video streaming, and website hosting."
+442,mlbstatic.com,Major League Baseball Advanced Media,http://www.mlb.com,"This domain is used as a static server to host images, videos, and other assets for the MLB website and related properties."
+443,datadome.co,Datadome,https://www.datadome.co/,CDN
+444,githubusercontent.com,GitHub,https://github.com/,"Static server for hosting user-generated content, such as code snippets, documentation, and other files."
+445,tmdb.org,The Movie Database,https://www.themoviedb.org/,movie/TV show database
+446,github.com,GitHub,https://github.com/,Code hosting and collaborative development platform
+447,opendns.com,OpenDNS,https://www.opendns.com/,DNS
+448,bit.nl,BIT BV,https://www.bit.nl/,"{'purpose': 'Hosting Provider', 'services': ['Dedicated Servers', 'Colocation', 'Cloud Hosting', 'Internet Connectivity', 'Domain Registration', 'Managed Services', 'Security Services']}"
+449,amplitude.com,Amplitude,https://amplitude.com,Analytics
+450,herokuapp.com,Heroku,https://www.heroku.com/,"Platform as a Service (PaaS) used for deploying, managing, and scaling web applications."
+451,alexa.com,Alexa Internet,https://www.alexa.com/,Analytics
+452,imgur.com,Imgur,https://imgur.com/,Image hosting and sharing
+453,tetaneutral.net,Tetaneutral.net,https://www.tetaneutral.net/,"{'purpose': 'static server', 'description': ""The domain tetaneutral.net is registered to Tetaneutral, a non-profit organization in France. Based on the website, it appears that the domain is used as a static server for hosting various resources such as documentation, software packages, and other files related to the organization's activities.""}"
+454,amazontrust.com,Amazon Web Services,https://aws.amazon.com/,"This domain appears to be related to Amazon's Certificate Manager, which provides SSL/TLS certificates for use with their other services, such as Elastic Load Balancers and CloudFront distributions."
+455,amazon.de,Amazon,www.amazon.com,"[{'purpose': 'e-commerce', 'description': 'Amazon.de is an online e-commerce platform owned and operated by Amazon, which enables customers to purchase various products such as books, electronics, clothing, and many others.'}, {'purpose': 'CDN', 'description': 'Amazon.de uses a Content Delivery Network (CDN) to distribute and deliver its web content to users worldwide. This helps to improve user experience and reduce page load times.'}, {'purpose': 'Analytics', 'description': 'Amazon.de uses analytics tools to track user behavior, such as page views, clicks, and purchases. This helps Amazon to improve its services and optimize its website.'}]"
+456,bit.ly,Bitly,https://bitly.com/,URL shortening and link management
+457,archive.org,Internet Archive,https://archive.org/,"The purpose of the domain is to provide a digital archive of the Internet. It serves as a library of digital content including websites, books, music, videos, and software programs."
+458,segment.io,Segment,https://segment.com/,analytics
+459,kodi.tv,Kodi,https://kodi.tv/,"Media streaming platform for playing videos, music, pictures, games, and more."
+460,op.gg,OP.GG,https://op.gg/,"The purpose of the domain is tracking and analytics for the popular online game League of Legends. It provides various statistics, in-game data, and insights to players for improving their gameplay."
+461,f-droid.org,F-Droid Limited,https://f-droid.org/,App Store and Repository for Free and Open Source Software (FOSS) applications for the Android platform
+462,lastpass.com,LastPass,https://www.lastpass.com/,Password management
+463,quad9.net,Quad9,https://www.quad9.net/,DNS
+464,bootstrapcdn.com,BootstrapCDN,https://www.bootstrapcdn.com/,CDN
+465,fontawesome.com,FontAwesome,https://fontawesome.com/,CDN
+466,jquery.com,jQuery,https://jquery.com/,Javascript library for front-end development
+467,speedtest.net,Speedtest by Ookla,https://www.speedtest.net/,Network speed testing
+468,amazonpay.com,Amazon,https://www.amazon.com/,Payment processing service provided by Amazon for merchants to accept payments from customers using their Amazon accounts.
+469,d3js.org,D3.js,https://d3js.org/,data visualization library
+470,datatables.net,DataTables,https://datatables.net/,"A JavaScript library used to enhance HTML tables with advanced interaction controls and features such as sorting, filtering, and pagination."
+471,myshopify.com,Shopify,https://www.shopify.com/,"{'purpose': 'e-commerce platform', 'description': 'Myshopify.com is a subdomain used by Shopify for hosting online stores on their e-commerce platform. The platform provides features like inventory management, payment processing, and website hosting for online retailers.'}"
+472,footprintdns.com,FootprintDNS,https://footprintdns.com,DNS provider
+473,outlook.com,Microsoft Corporation,https://www.microsoft.com,email and productivity tool
+474,webtest.net,WebTest,https://www.webtest.net/,"It is difficult to determine the exact purpose of this domain without more information. It could be used for testing websites or web applications, or it could be a generic domain used for a variety of purposes. Without further context, it is impossible to determine the specific purpose of this domain."
+475,hotmail.com,Microsoft,https://www.microsoft.com/,Email Service Provider
+476,mb-cosmos.com,MB-Cosmos,mb-cosmos.com,Unable to determine the purpose of the domain without further information.
+477,nzbplanet.net,NZBPlanet,https://nzbplanet.net/,Usenet indexing service
+478,amazonbrowserapp.com,Amazon,https://www.amazon.com/,"It is difficult to determine the exact purpose of this domain without further information. However, based on the name of the domain, it is possible that it may be related to an Amazon-branded browser application."
+479,justgetflux.com,f.lux Software LLC,https://justgetflux.com/,Software tool for adjusting screen colors according to the time of day
+480,slack.com,"Slack Technologies, Inc.",https://slack.com/,collaboration and communication platform
+481,dropboxcaptcha.com,Dropbox,https://www.dropbox.com/,captcha service
+482,ably.io,Ably,https://www.ably.io/,CDN
+483,cdn-apple.com,Apple,https://www.apple.com,CDN (Content Delivery Network)
+484,samsungcloud.tv,Samsung,https://www.samsung.com,static server
+485,ooreka.fr,Ooreka,https://www.ooreka.fr/,Informational website
+486,underdog.media,Underdog Media,https://www.underdogmedia.com/,marketing
+487,staticwars.com,Static Wars,https://staticwars.com/,Static Server
+488,tvsquared.com,TVSquared,https://tvsquared.com/,Marketing and Analytics
+489,bn765.com,Unknown,,Unable to determine the purpose of the domain
+490,comhem.se,Com Hem AB,https://www.comhem.se/,Internet Service Provider (ISP)
+491,adobe.io,Adobe,https://www.adobe.com/,APIs and developer tools for Adobe's Creative Cloud and Experience Cloud platforms.
+492,msn.com,Microsoft,https://www.microsoft.com/,Content and services provider
+493,live.net,Microsoft Corporation,https://www.microsoft.com/,"{'purpose': ['Email and messaging service'], 'type': ['Web service'], 'category': ['Communication'], 'features': ['Instant messaging', 'Video chat', 'File sharing', 'Email service'], 'platforms': ['Web', 'Windows', 'MacOS', 'iOS', 'Android']}"
+494,windowsupdate.com,Microsoft Corporation,https://www.microsoft.com/,"Windows Update domain for delivering software updates, security patches, and service packs for Microsoft Windows operating system."
+495,bing.com,Microsoft Corporation,https://www.microsoft.com/,Search Engine
+496,adobe.com,Adobe,https://www.adobe.com/,"{'purpose': ['marketing', 'analytics', 'CDN']}"
+497,amd.com,AMD,amd.com,Static Server
+498,discordapp.com,Discord Inc.,https://discord.com/,Communication platform for gamers and communities
+499,dropbox-dns.com,Dropbox,https://www.dropbox.com/,DNS
