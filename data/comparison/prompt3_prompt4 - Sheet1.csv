@@ -1,0 +1,201 @@
+Unnamed: 0,remote_hostname,company,company_website,result
+18,ggpht.com,Google,https://www.google.com/,CDN
+18,ggpht.com,,,
+255,amazonalexa.com,Amazon,https://www.amazon.com/,marketing
+255,amazonalexa.com,Amazon,amazon.com,first-party host
+473,outlook.com,Microsoft Corporation,https://www.microsoft.com/,first-party host
+473,outlook.com,Microsoft,https://www.microsoft.com,first-party host
+724,typekit.net,Adobe,https://www.adobe.com/,CDN
+724,typekit.net,Adobe,https://www.adobe.com/,CDN
+985,e2ma.net,Emma Email Marketing,https://myemma.com/,marketing
+985,e2ma.net,Emma,https://myemma.com/,Email marketing platform
+1122,360yield.com,360 Yield Center,https://www.360yieldcenter.com/,marketing
+1122,360yield.com,360 Yield Center,https://www.360yieldcenter.com/,marketing
+876,xvideos-cdn.com,Xvideos,https://www.xvideos.com/,CDN
+876,xvideos-cdn.com,XVideos,https://www.xvideos.com/,CDN
+1140,s-microsoft.com,Microsoft Corporation,https://www.microsoft.com/,CDN
+1140,s-microsoft.com,Microsoft Corporation,https://www.microsoft.com/,first-party host
+1409,bigcommerce.com,BigCommerce,https://www.bigcommerce.com/,e-commerce platform provider
+1409,bigcommerce.com,BigCommerce,https://www.bigcommerce.com/,e-commerce platform provider (first-party host)
+1284,contentstack.io,Contentstack,https://www.contentstack.com/,CDN
+1284,contentstack.io,Contentstack,https://www.contentstack.com/,CDN
+1850,ada.lk,Ada Derana,https://www.adaderana.lk/,news website
+1850,ada.lk,Ada Derana,ada.lk,news and media
+2309,overkiz.com,Overkiz,https://www.overkiz.com/,CDN
+2309,overkiz.com,Overkiz,https://www.overkiz.com,IoT platform provider
+2600,grouponcdn.com,Groupon,https://www.groupon.com/,CDN
+2600,grouponcdn.com,Groupon,https://www.groupon.com/,CDN
+2076,obihai.com,Obihai Technology,https://www.obitalk.com/,first-party host
+2076,obihai.com,Obihai,obihai.com,first-party host
+1513,eff.org,Electronic Frontier Foundation,https://www.eff.org/,first-party host
+1513,eff.org,Electronic Frontier Foundation,https://www.eff.org/,First-party host
+1022,aylanetworks.com,Ayla Networks,https://www.aylanetworks.com/,marketing
+1023,fastnzb.com,FastNZB,https://fastnzb.com/,first-party host
+543,sbcglobal.net,AT&amp;T Inc.,https://www.att.com/,DNS
+543,sbcglobal.net,AT&T,https://www.att.com/,DNS
+828,ab1n.net,ABN,https://www.ab1n.net/,CDN
+828,ab1n.net,AB1N,https://ab1n.net/,CDN
+442,mlbstatic.com,Major League Baseball,https://www.mlb.com/,CDN
+442,mlbstatic.com,MLB Advanced Media,https://www.mlb.com,Static server
+703,blubrry.com,Blubrry,https://blubrry.com/,static server
+703,blubrry.com,Blubrry,https://blubrry.com/,CDN
+1943,awsdns-07.net,Amazon Web Services,https://aws.amazon.com/,DNS
+1943,awsdns-07.net,Amazon Web Services,https://aws.amazon.com/,DNS
+2308,healthgrades.com,Healthgrades,https://www.healthgrades.com/,first-party host
+2308,healthgrades.com,Healthgrades,healthgrades.com,first-party host
+2687,protonvpn.com,Proton Technologies AG,https://protonmail.com,VPN service provider
+2687,protonvpn.com,ProtonVPN,https://protonvpn.com/,VPN service provider
+1533,my3cx.fr,3CX,https://www.3cx.fr/,first-party host
+1533,my3cx.fr,3CX,https://www.3cx.com/,first-party host
+920,nabucasa.com,Nabu Casa,https://www.nabucasa.com/,first-party host
+920,nabucasa.com,Nabu Casa,https://www.nabucasa.com,First-party host
+2196,adform.net,Adform,https://www.adform.com/,advertising
+2196,adform.net,Adform,https://site.adform.com/,advertising
+2557,justpremium.com,JustPremium,https://justpremium.com/,advertising
+2557,justpremium.com,JustPremium,justpremium.com,advertising
+931,wtop.com,Hubbard Broadcasting,https://www.hubbard.com/,news website
+931,wtop.com,WTOP,https://wtop.com/,first-party host
+488,tvsquared.com,TVSquared,tvsquared.com,marketing
+488,tvsquared.com,TVSquared,https://tvsquared.com/,analytics
+90,samsungotn.net,Samsung,https://www.samsung.com/,CDN
+90,samsungotn.net,Samsung,https://www.samsung.com/,CDN
+3,nflxso.net,Netflix,https://www.netflix.com/,CDN
+3,nflxso.net,Netflix,https://www.netflix.com/,CDN
+3244,airbnb.pl,Airbnb,www.airbnb.com,first-party host
+3244,airbnb.pl,Airbnb,www.airbnb.com,First-party host
+3558,foobot.io,Foobot,https://foobot.io/,tracking
+3558,foobot.io,Foobot,https://www.foobot.io/,analytics
+1764,sony.com,Sony,https://www.sony.com/,first-party host
+1764,sony.com,Sony,www.sony.com,First-party host
+947,wordpress.org,WordPress Foundation,https://wordpressfoundation.org/,static server
+947,wordpress.org,WordPress,https://wordpress.org/,First-party host
+452,imgur.com,Imgur,https://imgur.com/,CDN
+452,imgur.com,Imgur,https://imgur.com/,CDN
+21,akamaihd.net,Akamai Technologies,https://www.akamai.com/,CDN
+21,akamaihd.net,Akamai Technologies,https://www.akamai.com/,Content Delivery Network (CDN)
+814,1rx.io,1rx.io,https://1rx.io/,tracking
+814,1rx.io,1Rx.io,https://1rx.io/,analytics
+1109,viafoura.co,Viafoura,https://viafoura.co/,marketing
+1109,viafoura.co,Viafoura,https://viafoura.com/,analytics
+1619,kxcdn.com,KeyCDN,https://www.keycdn.com/,CDN
+1619,kxcdn.com,KeyCDN,https://www.keycdn.com/,CDN
+2220,xiti.com,AT Internet,https://www.atinternet.com/,analytics
+2220,xiti.com,AT Internet,https://www.atinternet.com/,analytics
+2527,businessinsider.com,Insider Inc.,https://www.insider-inc.com/,media
+2527,businessinsider.com,Business Insider,https://www.businessinsider.com/,marketing
+2986,ipapi.co,IPAPI,https://ipapi.co/,analytics
+2986,ipapi.co,IPAPI,https://ipapi.co/,analytics
+3326,powerlinks.com,PowerLinks,https://powerlinks.com/,advertising
+3326,powerlinks.com,PowerLinks,https://powerlinks.com/,advertising
+2680,bldrdoc.gov,National Institute of Standards and Technology (NIST),https://www.nist.gov/,static server
+2680,bldrdoc.gov,National Institute of Standards and Technology,https://www.nist.gov/,government website
+1750,sonic.net,Sonic,https://www.sonic.com/,first-party host
+1750,sonic.net,Sonic,https://www.sonic.com/,DNS
+1317,zdf.de,ZDF,https://www.zdf.de/,first-party host
+1317,zdf.de,ZDF,https://www.zdf.de/,first-party host
+722,fing.com,Fing Limited,https://www.fing.com/,analytics
+722,fing.com,Fing,https://www.fing.com/,analytics
+283,office.com,Microsoft Corporation,https://www.microsoft.com/,first-party host
+283,office.com,Microsoft,https://www.microsoft.com,First-party host
+6,spotify.com,Spotify,https://www.spotify.com/,first-party host
+6,spotify.com,Spotify,https://www.spotify.com,first-party host
+1190,avastbrowser.com,Avast,www.avast.com,first-party host
+1190,avastbrowser.com,Avast,avast.com,first-party host
+2098,maas.global,MaaS Global,https://maas.global/,marketing
+2098,maas.global,MAAS Global,https://maas.global/,First-party host
+2510,pearson.com,Pearson,pearson.com,marketing
+2510,pearson.com,Pearson,pearson.com,First-party host
+3183,loggly.com,Loggly,https://www.loggly.com/,analytics
+3183,loggly.com,Loggly,https://www.loggly.com/,analytics
+3503,voncp.com,VONCP,https://voncp.com/,DNS
+3503,voncp.com,Vonage,www.vonage.com,DNS
+2468,airpr.com,AirPR,https://www.airpr.com/,marketing
+2468,airpr.com,AirPR,https://www.airpr.com/,marketing
+1959,fbpigeon.com,Facebook,https://www.facebook.com/,tracking
+1959,fbpigeon.com,Facebook,www.facebook.com,advertising
+1572,kanopy.com,Kanopy,https://www.kanopy.com/,static server
+1572,kanopy.com,Kanopy,https://www.kanopy.com/,static server
+960,wunderlist.com,Microsoft,https://www.microsoft.com/,Productivity/Task Management Application
+960,wunderlist.com,Wunderlist,https://www.wunderlist.com/,first-party host
+371,fcloud.biz,FCloud,https://www.fcloud.biz/,static server
+371,fcloud.biz,FCloud,http://fcloud.biz,CDN
+28,dns.google,Google,https://www.google.com/,DNS
+28,dns.google,Google,https://www.google.com/,DNS
+1000,espn.com,ESPN,http://espn.com,first-party host
+1000,espn.com,ESPN,https://www.espn.com/,sports news and information
+1368,chili.com,Chili,https://www.chili.com/,marketing
+1368,chili.com,Chili,https://www.chili.com/,marketing
+1651,rit.edu,Rochester Institute of Technology,https://www.rit.edu/,first-party host
+1651,rit.edu,Rochester Institute of Technology,https://www.rit.edu,first-party host
+2088,doub.ly,Bitly,https://bitly.com/,shortened URL service
+2088,doub.ly,DoubleVerify,https://www.doubleverify.com/,Advertising
+1468,remotewd.com,Remote Work Development,https://www.remotewd.com/,first-party host
+1468,remotewd.com,Remote WD,https://remotewd.com/,first-party host
+914,visualstudio.com,Microsoft Corporation,https://www.microsoft.com/,first-party host
+914,visualstudio.com,Microsoft,https://www.microsoft.com,first-party host
+367,nhl.com,National Hockey League,https://www.nhl.com/,first-party host
+367,nhl.com,National Hockey League,www.nhl.com,first-party host
+842,bitmoji.com,Bitmoji,http://bitmoji.com,static server
+842,bitmoji.com,Bitmoji,bitmoji.com,marketing
+1110,lrcontent.com,LiveRamp,https://liveramp.com/,tracking
+1110,lrcontent.com,Liveramp,https://liveramp.com/,Advertising
+1742,weekendpartycancel5.com,unknown,,advertising
+1742,weekendpartycancel5.com,Unknown,,Invalid or Suspicious URL
+2305,marketingautomation.services,Marketing Automation Services,,marketing
+2305,marketingautomation.services,Marketing Automation Services,https://marketingautomation.services/,marketing
+2190,ups.com,UPS,https://www.ups.com/,CDN
+2190,ups.com,UPS,https://www.ups.com/,shipping and logistics services
+1346,edgedatg.com,Akamai Technologies,https://www.akamai.com/,CDN
+1346,edgedatg.com,Akamai Technologies,https://www.akamai.com/,CDN
+500,digicert.com,"DigiCert, Inc.",https://www.digicert.com/,static server
+500,digicert.com,DigiCert,https://www.digicert.com/,DNS
+43,supersonicads.com,ironSource,https://www.ironsrc.com/,advertising
+43,supersonicads.com,,,
+1138,coolideas.co.za,Cool Ideas,https://www.coolideas.co.za/,first-party host
+1138,coolideas.co.za,Cool Ideas,https://www.coolideas.co.za/,first-party host
+2154,assoc-amazon.com,Amazon,https://www.amazon.com/,advertising
+2154,assoc-amazon.com,Amazon,www.amazon.com,CDN
+805,letsencrypt.org,Internet Security Research Group,https://www.isrg.org/,first-party host
+805,letsencrypt.org,Let's Encrypt,https://letsencrypt.org/,DNS
+327,g.co,Google,https://www.google.com/,URL Shortener
+327,g.co,Google,https://www.google.com/,DNS
+971,getgreenshot.org,GreenShot,https://getgreenshot.org/,static server
+971,getgreenshot.org,Greenshot,https://getgreenshot.org/,Static server
+512,spectrum.net,Charter Communications,https://www.charter.com/,first-party host
+512,spectrum.net,Spectrum,https://www.spectrum.com/,first-party host
+89,samsungads.com,Samsung,https://www.samsung.com/,advertising
+89,samsungads.com,Samsung Ads,https://samsungads.com/,advertising
+747,247mahjong.com,247 Games,https://www.247games.com/,static server
+747,247mahjong.com,247 Mahjong,https://www.247mahjong.com/,static server
+2267,scarabresearch.com,Scarab Research,https://scarabresearch.com/,analytics
+2267,scarabresearch.com,Scarab Research,https://www.scarabresearch.com/,analytics
+2590,paessler.com,Paessler AG,https://www.paessler.com/,marketing
+2590,paessler.com,Paessler AG,https://www.paessler.com/,first-party host
+3120,rr-severses.no,Redpill Linpro AS,https://www.redpill-linpro.com,DNS
+3120,rr-severses.no,RR-Severses,https://rr-severses.no,DNS
+3496,igodigital.com,iGoDigital,https://www.igodigital.com/,marketing
+3496,igodigital.com,Salesforce,https://www.salesforce.com/,analytics
+1629,spiderspace.co.uk,SpiderSpace,https://www.spiderspace.co.uk/,first-party host
+1629,spiderspace.co.uk,SpiderSpace,https://www.spiderspace.co.uk/,static server
+216,twimg.com,Twitter,https://twitter.com/,CDN
+216,twimg.com,Twitter,https://www.twitter.com,CDN
+1634,clearleap.com,IBM,https://www.ibm.com/,CDN
+1634,clearleap.com,Clearleap,https://www.clearleap.com/,CDN
+2031,alidns.com,Alibaba Cloud Computing Ltd.,https://www.alibabacloud.com/,DNS
+2031,alidns.com,Alibaba Cloud,https://www.alibabacloud.com/,DNS
+2525,foursquare.com,"Foursquare Labs, Inc.",https://foursquare.com/,marketing
+2525,foursquare.com,Foursquare,https://foursquare.com/,marketing
+2966,dnlab.ru,Digital Network Laboratory,https://dnlab.ru/,first-party host
+2966,dnlab.ru,DNLAB,https://dnlab.ru/,first-party host
+3552,mineproxy.ga,,,DNS
+3552,mineproxy.ga,Unknown,,DNS
+1954,mob.com,Mobvista Inc.,https://www.mobvista.com/,marketing
+1954,mob.com,MobTech,https://www.mob.com/,marketing
+1370,baidu.com,Baidu,https://www.baidu.com/,search engine
+1370,baidu.com,Baidu,https://www.baidu.com/,search engine and advertising
+766,redditmedia.com,Reddit Inc.,https://www.redditinc.com/,CDN
+766,redditmedia.com,Reddit,https://www.redditinc.com/,CDN
+95,pki.goog,Google,https://www.google.com/,first-party host
+95,pki.goog,Google LLC,www.google.com,encryption and authentication services
+1000,espn.com,ESPN,http://espn.com,first-party host
+1000,espn.com,ESPN,https://www.espn.com/,sports news and information
