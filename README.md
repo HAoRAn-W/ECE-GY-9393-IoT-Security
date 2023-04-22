@@ -48,3 +48,19 @@ Haoran Wang | Mahati Madhira
 2. the correctness of company website (count right/wrong/not sure)
 3. the correctness of result (count right/wrong/not sure)
 4. similarity between 2 prompts (how many similar; how many drastic differences on company, company website, result)
+
+## Workflows of validation
+### Company Validation
+![Company Validation](./img/company_validation.jpg "Company Validation")
+### Company Website Validation
+![Company Website Validation](./img/website_validation.jpg "Company Website Validation")
+### Identification Result Validation
+Based on the company websites we have from previous steps, manually check the major business of the company and make judgement. This validation is more subjective.
+
+tp-link.com
+tplinkcloud.com
+use1-api.tplinkra.com
+
+
+marketing == ad
+1.5 most different than others
