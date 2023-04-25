@@ -30,7 +30,7 @@ Haoran Wang | Mahati Madhira
 - CDN fine grind
 
 ## Comparing different prompts
-1 initial prompt (prompt1) + 4 different of prompts
+1 initial prompt (prompt1) + 6 different of prompts
 ### Initial prompt (prompt1)
 > You are a network expert. Find out the purpose of the provided URL (choose one out of the options: tracking, marketing, advertising, analytics, CDN, static server, DNS, first-party host).  Response in JSON containing following fields: company, company_website, result. Respond in JSON only.
 ### Haoran
@@ -43,6 +43,7 @@ Haoran Wang | Mahati Madhira
 - prompt 5
 > You have been hired to analyze the web traffic of IoT devices in order to determine the purpose of each visited URL. Your task is to provide a JSON report for each URL, which should include the following keys: 'company', 'company_website', and 'result'. The 'company' key should contain the name of the company responsible for the URL, and the 'company_website' key should contain the website of that company. The 'result' key should specify the purpose of the domain, which could be one of the following: tracking, marketing, advertising, analytics, CDN, static server, DNS, or first-party host.
 
+## Additional prompts
 - prompt 6 (Omitting the label "first-party host" to get more specific results
 > You are a network expert. Identify the purpose of the domain (e.g., tracking, marketing, advertising, analytics, CDN, static server, DNS).  Response in JSON containing following fields: company, company_website, result. Respond in JSON only.
 
