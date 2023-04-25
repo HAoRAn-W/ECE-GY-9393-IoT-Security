@@ -1,0 +1,19 @@
+,remote_hostname,company,company_website,result
+0,ec2-3-208-172-127.compute-l.amazonaws.com,Amazon,https://aws.amazon.com/,"This is an Amazon Elastic Compute Cloud (EC2) instance with a dynamic IP address assigned to it. It can be used for various purposes including hosting websites, applications, and databases."
+1,ec2-3-222-62-161.compute-l.amazonaws.com,Amazon Web Services,https://aws.amazon.com/,This appears to be a dynamic server hosted on AWS EC2 instance.
+2,dns.google,Google,https://www.google.com/,DNS service
+3,ec2-18-209-144-167.compute-l.amazonaws.com,Amazon Web Services,https://aws.amazon.com,static server
+4,ec2-34-232-135-5.compute-1.amazonaws.com,Amazon Web Services,https://aws.amazon.com/,"This is an Amazon Elastic Compute Cloud (EC2) instance which can be utilized for a variety of purposes such as hosting websites, applications or databases. Without knowing the specific use case, it's not possible to determine the exact purpose."
+5,ec2-35-169-83-25.compute-1.amazonaws.com,Amazon,https://aws.amazon.com/,AWS Elastic Compute Cloud (EC2) instance
+6,ec2-35-169-112-14.compute-1.amazonaws.com,Amazon,https://aws.amazon.com/,"This is likely an EC2 instance on Amazon Web Services, used for a variety of purposes such as hosting websites, running applications, or storing data."
+7,ec2-52-1-35-101.compute-l.amazonaws.com,Amazon Web Services,https://aws.amazon.com/,"This is a domain for an EC2 instance, which is a virtual server that can be used for a variety of purposes such as hosting websites, running applications or serving as a data processing unit. The purpose of this specific domain cannot be determined without additional information."
+8,ec2-52-4-36-141.compute-l.amazonaws.com,Amazon,https://aws.amazon.com/,EC2 instance
+9,ec2-52-4-226-185.compute-1.amazonaws.com,Amazon Web Services,https://aws.amazon.com/,Static Server
+10,ec2-52-55-210-33.compute-1.amazonaws.com,Amazon Web Services,https://aws.amazon.com/,"This is an EC2 instance on AWS, which can be used for a variety of purposes such as hosting websites, running applications, or storing data. The specific purpose of this instance cannot be determined just by the domain name provided."
+11,ec2-52-86-40-189.compute-1.amazonaws.com,Amazon Web Services,https://aws.amazon.com/,This domain name appears to be an EC2 instance running on AWS. The purpose of the instance and associated domain name may vary depending on the user's specific configuration and use case.
+12,ec2-52-86-141-52.compute-1.amazonaws.com,Amazon Web Services,https://aws.amazon.com/,"This is a domain associated with an Amazon Elastic Compute Cloud (EC2) instance. It is likely used for hosting websites, applications, or services on the cloud."
+13,ec2-52-203-70-243.compute-1.amazonaws.com,Amazon Web Services,https://aws.amazon.com/,"EC2 instance hostname - used for hosting applications, websites or server services."
+14,ec2-54-81-234-88.compute-1.amazonaws.com,Amazon Web Services,https://aws.amazon.com/,This is a generic AWS EC2 instance hostname and does not provide any specific information about the purpose or use of the domain.
+15,ec2-54-145-230-193.compute-1.amazonaws.com,Amazon,https://aws.amazon.com/,"It is an EC2 instance with the hostname ec2-54-145-230-193.compute-1.amazonaws.com. The purpose of this domain is not clear, as it could be used for various reasons such as hosting a server or running an application. Without further information, it is not possible to identify the specific purpose of this domain."
+16,ec2-54-227-137-190.compute-1.amazonaws.com,Amazon Web Services,https://aws.amazon.com/,EC2 instance hosting a website or application
+17,ec2-67-202-54-17.compute-1.amazonaws.com,Amazon Web Services,https://aws.amazon.com/,"This is a domain that belongs to Amazon Web Services, which provides cloud computing services. The purpose of this specific domain is unclear without additional information."
