@@ -1,0 +1,42 @@
+<mxfile host="app.diagrams.net" modified="2023-04-18T03:45:18.116Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="ZYwaFAlZBptlTS5ZhlPS" version="21.1.8" type="device">
+  <diagram name="Page-1" id="Nm1h-WQcVGLDH4JSeiIC">
+    <mxGraphModel dx="996" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8O5dC6IiWhnSEEmxBbYW-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8O5dC6IiWhnSEEmxBbYW-2" target="8O5dC6IiWhnSEEmxBbYW-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8O5dC6IiWhnSEEmxBbYW-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8O5dC6IiWhnSEEmxBbYW-2" target="8O5dC6IiWhnSEEmxBbYW-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8O5dC6IiWhnSEEmxBbYW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8O5dC6IiWhnSEEmxBbYW-2" target="8O5dC6IiWhnSEEmxBbYW-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8O5dC6IiWhnSEEmxBbYW-2" value="company is correct?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="80" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8O5dC6IiWhnSEEmxBbYW-5" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="178" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8O5dC6IiWhnSEEmxBbYW-6" value="check if website matches this company&lt;br&gt;(right / wrong/ not sure)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="240" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8O5dC6IiWhnSEEmxBbYW-7" value="use the correct company name you found to check&lt;br&gt;(right / wrong/ not sure)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8O5dC6IiWhnSEEmxBbYW-9" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="178" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8O5dC6IiWhnSEEmxBbYW-10" value="nothing we can do.&lt;br&gt;&#39;not sure&#39;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8O5dC6IiWhnSEEmxBbYW-12" value="not sure" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="118" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
