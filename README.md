@@ -43,6 +43,12 @@ Haoran Wang | Mahati Madhira
 - prompt 5
 > You have been hired to analyze the web traffic of IoT devices in order to determine the purpose of each visited URL. Your task is to provide a JSON report for each URL, which should include the following keys: 'company', 'company_website', and 'result'. The 'company' key should contain the name of the company responsible for the URL, and the 'company_website' key should contain the website of that company. The 'result' key should specify the purpose of the domain, which could be one of the following: tracking, marketing, advertising, analytics, CDN, static server, DNS, or first-party host.
 
+- prompt 6 (Omitting the label "first-party host" to get more specific results
+> You are a network expert. Identify the purpose of the domain (e.g., tracking, marketing, advertising, analytics, CDN, static server, DNS).  Response in JSON containing following fields: company, company_website, result. Respond in JSON only.
+
+- CDN prompt (To further classify the CDN domains into more specific categories
+> You have been hired to analyze the web traffic of IoT devices and classify each visited URL into one of several categories. Your task is to provide a JSON report for each URL, which should include the following keys: 'company', 'company_website', and 'result'. The 'company' key should contain the name of the company responsible for the URL, and the 'company_website' key should contain the website of that company. The 'result' key should specify the purpose of the domain and can be one of the following categories: Internet Service Providers (ISPs), Cloud Services, Social Media Platforms, E-commerce Platforms, Streaming Services, Email Services, Search Engines, Financial Services, or Education Platforms. Please use the website's content and other relevant information to determine the appropriate category for each URL.
+
 ## Criteria
 1. the correctness of company (count right/wrong/not sure)
 2. the correctness of company website (count right/wrong/not sure)
