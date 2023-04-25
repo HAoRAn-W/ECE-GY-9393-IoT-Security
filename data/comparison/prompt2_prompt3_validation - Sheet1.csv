@@ -1,0 +1,203 @@
+Unnamed: 0,remote_hostname,company,company_website,result,company_validation,correct_company,website_validation,correct_website,result_validation,correct_result
+500,digicert.com,DigiCert,https://www.digicert.com/,first-party host,Correct,,Correct,,Wrong,Support-party
+500,digicert.com,"DigiCert, Inc.",https://www.digicert.com/,static server,Correct,,Correct,,Wrong,Support-party
+741,quickbooks.com,Intuit Inc.,https://www.intuit.com/,first-party host,Correct,,Correct,,Correct,
+741,quickbooks.com,Intuit Inc.,https://www.intuit.com/,first-party host,Correct,,Correct,,Correct,
+177,mozilla.org,Mozilla,https://www.mozilla.org/,first-party host,Correct,,Correct,,Correct,
+177,mozilla.org,Mozilla,https://www.mozilla.org/,first-party host,Correct,,Correct,,Correct,
+13,amazon.com,"Amazon.com, Inc.",https://www.amazon.com/,e-commerce,Correct,,Correct,,Correct,Amazon is both e-commerce and First party host
+13,amazon.com,Amazon,https://www.amazon.com/,first-party host,Correct,,Correct,,Correct,Amazon is both e-commerce and First party host
+1350,samsungpositioning.com,Samsung,https://www.samsung.com/,marketing,Correct,,Correct,,Correct,
+1350,samsungpositioning.com,Samsung,https://www.samsung.com/,marketing,Correct,,Correct,,Correct,
+1301,denon.jp,Denon,https://www.denon.com/,static server,Correct,,Correct,,Wrong,Support-party
+1301,denon.jp,Denon,https://www.denon.com/,first-party host,Correct,,Correct,,Wrong,Support-party
+1263,pocketcasts.com,Pocket Casts,https://www.pocketcasts.com/,static server,Correct,,Correct,,Wrong,Static server
+1263,pocketcasts.com,Pocket Casts,https://www.pocketcasts.com/,first-party host,Correct,,Correct,,Wrong,Static server
+1075,ucsd.edu,University of California San Diego,https://www.ucsd.edu/,first-party host,Correct,,Correct,,Wrong,Static server
+1075,ucsd.edu,"University of California, San Diego",https://www.ucsd.edu/,first-party host,Correct,,Correct,,Wrong,Static server
+861,alexametrics.com,Amazon,https://www.amazon.com/,analytics,Correct,,Correct,,Correct,
+861,alexametrics.com,Amazon,https://www.amazon.com/,analytics,Correct,,Correct,,Correct,
+628,rhocdn.net,Rackspace Hosting,https://www.rackspace.com/,CDN,Correct,,Correct,,Correct,"Specifically, Cloud Provider"
+628,rhocdn.net,Rackspace Hosting,https://www.rackspace.com/,CDN,Correct,,Correct,,Correct,"Specifically, Cloud Provider"
+2597,yamaha.com,Yamaha,https://www.yamaha.com/,first-party host,Correct,,Correct,,Correct,Yamaha manufactures Speakers
+2597,yamaha.com,Yamaha Corporation,https://www.yamaha.com/,first-party host,Correct,,Correct,,Correct,Yamaha manufactures Speakers
+3034,vf.net.nz,Vodafone New Zealand,https://www.vodafone.co.nz/,CDN,Correct,,Correct,,Not sure,Vodafone has IoT devices but inconclusive
+3034,vf.net.nz,Vodafone New Zealand,https://www.vodafone.co.nz/,CDN,Correct,,Correct,,Not sure,Vodafone has IoT devices but inconclusive
+1563,nwsvr2.com,,,DNS,Unknown,Alibaba Cloud Computing,Unknown,,Wrong,CDN
+1563,nwsvr2.com,Unknown,,CDN,Unknown,Alibaba Cloud Computing,Unknown,,Wrong,CDN
+671,qwest.net,CenturyLink,https://www.centurylink.com/,DNS,Correct,,Correct,,Not sure,ISP
+671,qwest.net,CenturyLink,https://www.centurylink.com/,DNS,Correct,,Correct,,Not sure,ISP
+517,yandex.net,Yandex,https://yandex.com/,CDN,Correct,,Correct,,Correct,
+517,yandex.net,Yandex,https://yandex.com/,CDN,Correct,,Correct,,Correct,
+181,honeywell.com,Honeywell International Inc.,https://www.honeywell.com/,first-party host,Correct,,Correct,,Correct,
+181,honeywell.com,Honeywell International Inc.,https://www.honeywell.com/,first-party host,Correct,,Correct,,Correct,
+0,googleusercontent.com,Google,https://www.google.com/,CDN,Correct,,Correct,,Correct,
+0,googleusercontent.com,Google,https://www.google.com/,CDN,Correct,,Correct,,Correct,
+796,samsung-svoice.com,Samsung,www.samsung.com,marketing,Correct,,Correct,,Correct,
+796,samsung-svoice.com,Samsung,https://www.samsung.com/,marketing,Correct,,Correct,,Correct,
+965,freebox.fr,Free,https://www.free.fr/,first-party host,Correct,,Correct,,Correct,Set-top boxes
+965,freebox.fr,Free SAS,https://www.free.fr/,first-party host,Correct,,Correct,,Correct,Set-top boxes
+1175,bazaarvoice.com,Bazaarvoice,https://www.bazaarvoice.com/,marketing,Correct,,Correct,,Correct,
+1175,bazaarvoice.com,Bazaarvoice,https://www.bazaarvoice.com/,marketing,Correct,,Correct,,Correct,
+1338,sumologic.com,Sumo Logic,https://www.sumologic.com/,first-party host,Correct,,Correct,,Wrong,Analytics
+1338,sumologic.com,Sumo Logic,https://www.sumologic.com/,marketing,Correct,,Correct,,Wrong,Analytics
+2047,123freecell.com,Solitaire Games,https://www.solitaireparadise.com/,gaming,Wrong,Cannot find accurate info,Wrong,,Wrong,CDN
+2047,123freecell.com,TreeCardGames,https://www.treecardgames.com/,static server,Wrong,Cannot find accurate info,Wrong,,Wrong,CDN
+2675,epson.net,Epson,https://www.epson.com/,static server,Correct,,Correct,,Wrong,First-party
+2675,epson.net,Epson,https://www.epson.com/,first-party host,Correct,,Correct,,Wrong,First-party
+3384,fau.de,Friedrich-Alexander University of Erlangen-Nuremberg,https://www.fau.eu/,first-party host,Correct,,Correct,,Correct,IoT-enabled medical and lighting systems
+3384,fau.de,Friedrich-Alexander University Erlangen-Nuremberg,https://www.fau.eu/,first-party host,Correct,,Correct,,Correct,IoT-enabled medical and lighting systems
+3560,bosch.de,Bosch,https://www.bosch.com/,first-party host,Correct,,Correct,,Correct,"Thermostats,Cameras"
+3560,bosch.de,Bosch,https://www.bosch.com/,first-party host,Correct,,Correct,,Correct,"Thermostats,Cameras"
+3002,veloxzone.com.br,Veloxzone,https://www.veloxzone.com.br/,static server,Correct,,Correct,,Not sure,ISP?
+3002,veloxzone.com.br,Veloxzone,https://www.veloxzone.com.br/,static server,Correct,,Correct,,Not sure,ISP?
+2369,ziffdavis.com,Ziff Davis,https://www.ziffdavis.com/,marketing,Correct,,Correct,,Correct,
+2369,ziffdavis.com,Ziff Davis,https://www.ziffdavis.com/,marketing,Correct,,Correct,,Correct,
+1998,mmstat.com,Alibaba Group,https://www.alibaba.com/,analytics,Correct,,Correct,,Correct,
+1998,mmstat.com,Alibaba Group,https://www.alibabagroup.com/en/global/home,analytics,Correct,,Correct,,Correct,
+429,pushbullet.com,Pushbullet,https://www.pushbullet.com/,marketing,Correct,,Correct,,Wrong,First-party
+429,pushbullet.com,Pushbullet,https://www.pushbullet.com/,first-party host,Correct,,Correct,,Wrong,First-party
+25,aiv-delivery.net,AIV,https://www.aiv-inc.com/,CDN,Correct,,Correct,,Correct,
+25,aiv-delivery.net,AIV,https://www.aiv-inc.com/,CDN,Correct,,Correct,,Correct,
+241,ondemand.com,OnDemand,https://www.ondemand.com,static server,Correct,,Correct,,Not sure,Parked domain
+241,ondemand.com,OnDemand,https://www.ondemand.com/,CDN,Correct,,Correct,,Not sure,Parked domain
+1614,wearetriple.com,Triple,https://wearetriple.com/,marketing,Correct,,Correct,,Correct,
+1614,wearetriple.com,Triple,https://wearetriple.com/,marketing,Correct,,Correct,,Correct,
+2878,cloudns.asia,Cloud DNS Ltd.,https://www.cloudns.net/,DNS,Correct,,Correct,,Correct,
+2878,cloudns.asia,Cloud DNS Ltd.,https://www.cloudns.net/,DNS,Correct,,Correct,,Correct,
+1089,gnome.org,GNOME Foundation,https://www.gnome.org,first-party host,Correct,,Correct,,Not sure,Could be CDN
+1089,gnome.org,GNOME Foundation,https://www.gnome.org/about/,first-party host,Correct,,Correct,,Not sure,Could be CDN
+2973,logantele.com,Logantel,https://www.logantele.com/,CDN,Correct,,Correct,,Wrong,ISP
+2973,logantele.com,Logan Teleflex Inc.,https://www.logantele.com/,static server,Correct,,Correct,,Wrong,ISP
+2281,snopes.com,Snopes Media Group,https://www.snopes.com/,fact-checking website,Correct,,Correct,,Correct,News
+2281,snopes.com,Snopes Media Group,http://www.snopesmedia.com/,fact-checking,Correct,,Correct,,Correct,News
+823,instabug.com,Instabug,https://instabug.com/,marketing,Correct,,Correct,,Not sure,Analytics
+823,instabug.com,Instabug,https://instabug.com/,analytics,Correct,,Correct,,Not sure,Analytics
+322,google.ca,Google,https://www.google.com/,first-party host,Correct,,Correct,,Not sure,It is a search-engine and a first-party
+322,google.ca,Google,https://www.google.com/,search engine,Correct,,Correct,,Not sure,It is a search-engine and a first-party
+1829,sync.com,Sync.com,https://www.sync.com/,CDN,Correct,,Correct,,Not sure,Support-party?
+1829,sync.com,Sync.com,https://www.sync.com,CDN,Correct,,Correct,,Not sure,Support-party?
+2962,surfer.at,Surfer SEO,https://surferseo.com/,marketing,Correct,,Wrong,,Wrong,Analytics
+2962,surfer.at,Surfer,https://surfer.at/,first-party host,Correct,,Wrong,,Wrong,Analytics
+3289,mywire.org,,,,Unknown,,Unknown,,Not sure,
+3289,mywire.org,,,DNS,Unknown,,Unknown,,Not sure,
+3539,vylmedia.com,VYL Media,https://www.vylmedia.com/,marketing,Correct,,Correct,,Correct,
+3539,vylmedia.com,Vyl Media,https://www.vylmedia.com/,marketing,Correct,,Correct,,Correct,
+1573,tubi.io,"Tubi, Inc.",https://tubi.tv/,CDN,Correct,,Correct,,Correct,Streaming platform
+1573,tubi.io,"Tubi, Inc.",https://tubi.tv/,CDN,Correct,,Correct,,Correct,Streaming platform
+921,ecouser.net,Eco User,https://ecouser.net/,CDN,Correct,,Correct,,Not sure,
+921,ecouser.net,EcoUser,https://ecouser.net/,tracking,Correct,,Correct,,Not sure,
+591,cdk.com,CDK Global,https://www.cdkglobal.com/,first-party host,Correct,,Correct,,Not sure,Analytics
+591,cdk.com,CDK Global,https://www.cdkglobal.com/,first-party host,Correct,,Correct,,Not sure,Analytics
+220,jtvnw.net,Fastly,https://www.fastly.com/,CDN,Wrong,Twitch Hostmaster,Wrong,,Correct,Video Content on Twitch
+220,jtvnw.net,Akamai Technologies,https://www.akamai.com/,CDN,Wrong,Twitch Hostmaster,Wrong,,Correct,Video Content on Twitch
+37,cloudfront.net,Amazon,https://www.amazon.com/,CDN,Correct,,Correct,,Correct,AWS CDN
+37,cloudfront.net,Amazon,https://aws.amazon.com,CDN,Correct,,Correct,,Correct,AWS CDN
+462,lastpass.com,LastPass,https://www.lastpass.com/,first-party host,Wrong,GoTo,Wrong,,Correct,Has apps that can be used on IoT devices
+462,lastpass.com,"LogMeIn, Inc.",https://www.logmeininc.com/,first-party host,Wrong,GoTo,Wrong,,Correct,Has apps that can be used on IoT devices
+748,netflix.net,Netflix Inc.,https://www.netflix.com/,CDN,Correct,,Correct,,Correct,Streaming platform
+748,netflix.net,Netflix,https://www.netflix.com/,CDN,Correct,,Correct,,Correct,Streaming platform
+1150,bbc.com,BBC,https://www.bbc.com/,first-party host,Correct,,Correct,,Wrong,Support-party
+1150,bbc.com,BBC,https://www.bbc.com/,first-party host,Correct,,Correct,,Wrong,Support-party
+487,staticwars.com,Static Wars,,static server,Correct,,Unknown,,Not sure,
+487,staticwars.com,StaticWars,https://staticwars.com/,static server,Correct,,Unknown,,Not sure,
+1122,360yield.com,TripleLift,https://triplelift.com/,advertising,Wrong,Improve Digital BV,Wrong,,Not sure,Advertising?
+1122,360yield.com,360 Yield Center,https://www.360yieldcenter.com/,marketing,Wrong,Improve Digital BV,Wrong,,Not sure,Advertising?
+2102,dedicatedpanel.com,DedicatedPanel,https://www.dedicatedpanel.com/,static server,Correct,,Correct,,Not sure,Support-party (Management services)
+2102,dedicatedpanel.com,DedicatedPanel,https://www.dedicatedpanel.com/,static server,Correct,,Correct,,Not sure,Support-party (Management services)
+868,belkin.com,Belkin,https://www.belkin.com/,first-party host,Correct,,Correct,,Correct,
+868,belkin.com,"Belkin International, Inc.",https://www.belkin.com/,first-party host,Correct,,Correct,,Correct,
+992,bilibili.com,Bilibili,https://www.bilibili.com/,first-party host,Correct,,Correct,,Wrong,Video Steaming(CDN)
+992,bilibili.com,Bilibili Inc.,https://www.bilibili.com,first-party host,Correct,,Correct,,Wrong,Video Steaming(CDN)
+1140,s-microsoft.com,Microsoft Corporation,https://www.microsoft.com/,CDN,Correct,,Correct,,Not sure,
+1140,s-microsoft.com,Microsoft Corporation,https://www.microsoft.com/,CDN,Correct,,Correct,,Not sure,
+1353,sublink.org,,,,Unknown,,Unknown,,Not sure,
+1353,sublink.org,,,DNS,Unknown,,Unknown,,Not sure,
+1757,afilias-nst.info,Afilias Limited,https://afilias.info/,DNS,Correct,,Correct,,Correct,
+1757,afilias-nst.info,Afilias,https://afilias.info/,DNS,Correct,,Correct,,Correct,
+1217,216.in-addr.arpa,Internet Assigned Numbers Authority (IANA),https://www.iana.org/,DNS,Correct,,Correct,,Correct,
+1217,216.in-addr.arpa,Internet Assigned Numbers Authority (IANA),https://www.iana.org/,DNS,Correct,,Correct,,Correct,
+1718,tado.com,Tado GmbH,https://www.tado.com/,first-party host,Correct,,Correct,,Wrong,First-party
+1718,tado.com,Tado GmbH,https://www.tado.com,marketing,Correct,,Correct,,Wrong,First-party
+2006,rakuten.com,,,,Unknown,,Unknown,,Not sure,E-Commerce/First-party
+2006,rakuten.com,Rakuten,https://www.rakuten.com/,e-commerce,Unknown,,Unknown,,Not sure,E-Commerce/First-party
+2354,zenkube.com,,,,Unknown,,Unknown,,Not sure,
+2354,zenkube.com,Zenkube,https://www.zenkube.com/,static server,Unknown,,Unknown,,Not sure,
+2530,hispeed.ch,Swisscom,https://www.swisscom.ch/,static server,Wrong,UPC,Wrong,,Not sure,
+2530,hispeed.ch,Sunrise Communications AG,https://www.sunrise.ch/,first-party host,Wrong,UPC,Wrong,,Not sure,
+2774,vtuner.com,vTuner,https://www.vtuner.com/,CDN,Correct,,Correct,,Correct,
+2774,vtuner.com,vTuner,https://vtuner.com,CDN,Correct,,Correct,,Correct,
+2036,youtu.be,Google,https://www.google.com/,CDN,Correct,,Correct,,Correct,Video streaming
+2036,youtu.be,Google,https://www.google.com/,CDN,Correct,,Correct,,Correct,Video streaming
+1416,flashtalking.com,Flashtalking,https://flashtalking.com/,advertising,Correct,,Correct,,Correct,
+1416,flashtalking.com,Flashtalking,https://www.flashtalking.com/,advertising,Correct,,Correct,,Correct,
+1137,utg.ge,Unknown,,first-party host,Unknown,,Unknown,,Not sure,
+1137,utg.ge,United Telecom Georgia,https://www.utg.ge/,static server,Unknown,,Unknown,,Not sure,
+699,unity3d.com,Unity Technologies,https://unity.com/,static server,Correct,,Correct,,Not sure,
+699,unity3d.com,Unity Technologies,https://unity.com/,CDN,Correct,,Correct,,Not sure,
+397,acquia.com,Acquia,https://www.acquia.com/,first-party host,Correct,,Correct,,Wrong,CDN
+397,acquia.com,Acquia,https://www.acquia.com/,CDN,Correct,,Correct,,Wrong,CDN
+10,youtube.com,Google,https://www.google.com/,CDN,Correct,,Correct,,Correct,
+10,youtube.com,Google,https://www.google.com/,CDN,Correct,,Correct,,Correct,
+429,pushbullet.com,Pushbullet,https://www.pushbullet.com/,marketing,Correct,,Correct,,Wrong,First-party?
+429,pushbullet.com,Pushbullet,https://www.pushbullet.com/,first-party host,Correct,,Correct,,Wrong,First-party?
+942,intercomcdn.com,Intercom,https://www.intercom.com/,CDN,Correct,,Correct,,Correct,
+942,intercomcdn.com,Intercom,https://www.intercom.com/,CDN,Correct,,Correct,,Correct,
+1438,operacdn.com,Opera Software AS,https://www.opera.com,CDN,Correct,,Correct,,Correct,
+1438,operacdn.com,Opera Software AS,https://www.opera.com/,CDN,Correct,,Correct,,Correct,
+1964,exct.net,Experian,https://www.experian.com,marketing,Wrong,SalesForce,Wrong,,Wrong,CDN?
+1964,exct.net,eXact Advertising,https://www.exactmatchmedia.com/,advertising,Wrong,SalesForce,Wrong,,Wrong,CDN?
+2142,gotomeeting.com,"LogMeIn, Inc.",https://www.logmeininc.com/,marketing,Correct,,Correct,,Correct,Remote workspace
+2142,gotomeeting.com,LogMeIn,https://www.logmein.com/,marketing,Correct,,Correct,,Correct,Remote workspace
+2352,dlvr.it,dlvr.it,https://dlvr.it/,marketing,Correct,,Correct,,Not sure,Automated Social Media
+2352,dlvr.it,dlvr.it,https://dlvrit.com/,marketing,Correct,,Correct,,Not sure,Automated Social Media
+2787,tubemogul.com,Adobe,https://www.adobe.com/,advertising,Wrong,Adobe,Correct,Adobe is parent,Correct,Advertising
+2787,tubemogul.com,Tubemogul,https://www.tubemogul.com,advertising,Wrong,Adobe,Correct,TubeMogul is ad sub-domain,Correct,Advertising
+3314,6play.fr,M6 Web,https://www.m6web.fr/,marketing,Correct,,Correct,,Wrong,Streaming platform
+3314,6play.fr,M6 Web,https://www.m6web.fr/,marketing,Correct,,Correct,,Wrong,Streaming platform
+3556,your-loop.com,Yourloop,your-loop.com,first-party host,Correct,,Correct,,Not sure,Mental-health platform
+3556,your-loop.com,Your-Loop,https://your-loop.com/,It is not possible to determine the purpose of the URL without additional information.,Correct,,Correct,,Not sure,Mental-health platform
+2950,comsouth.net,ComSouth,https://www.comsouth.net/,first-party host,Correct,,Correct,,Not sure,ISP
+2950,comsouth.net,ComSouth,https://www.comsouth.net/,First-party host,Correct,,Correct,,Not sure,ISP
+1963,nordstrom.com,Nordstrom,nordstrom.com,e-commerce website,Correct,,Correct,,Wrong,E-commerce
+1963,nordstrom.com,Nordstrom,https://www.nordstrom.com/,first-party host,Correct,,Correct,,Wrong,E-commerce
+1784,nowtv.com,Now TV,https://www.nowtv.com/,first-party host,Correct,,Correct,,Correct,
+1784,nowtv.com,Now TV,https://www.nowtv.com/,streaming service,Correct,,Correct,,Correct,
+1642,jomodns.com,Jomohost LLC,https://jomohost.com/,DNS,Wrong,Baidu Online Network Technology,Wrong,https://www.jomotech.com/,Correct,
+1642,jomodns.com,"Jomo Technology Co., Ltd.",https://www.jomotech.com/,DNS,Wrong,Baidu Online Network Technology,Wrong,https://www.jomotech.com/,Correct,
+1311,scruffapp.com,"Perry Street Software, Inc.",https://www.perrystreet.com/,marketing,Correct,,Correct,https://www.perrystreet.com/,Correct,
+1311,scruffapp.com,"Perry Street Software, Inc.",https://www.scruff.com/,marketing,Correct,,Correct,https://www.perrystreet.com/,Correct,
+1057,your-server.de,Hetzner Online GmbH,https://www.hetzner.com/,static server,Correct,,Correct,,Correct,CDN?
+1057,your-server.de,Hetzner Online GmbH,https://www.hetzner.com/,static server,Correct,,Correct,,Correct,CDN?
+858,hubspot.com,HubSpot,https://www.hubspot.com/,marketing,Correct,,Correct,,Correct,
+858,hubspot.com,HubSpot,https://www.hubspot.com/,marketing,Correct,,Correct,,Correct,
+619,bellmedia.ca,Bell Media Inc.,https://www.bellmedia.ca/,first-party host,Correct,,Correct,,Not sure,Advertising
+619,bellmedia.ca,Bell Media,https://www.bellmedia.ca/,first-party host,Correct,,Correct,,Not sure,Advertising
+352,sony.tv,Sony,https://www.sony.com/,marketing,Correct,,Correct,,Correct,First-party too
+352,sony.tv,Sony,https://www.sony.com/,marketing,Correct,,Correct,,Correct,First-party too
+220,jtvnw.net,Fastly,https://www.fastly.com/,CDN,Wrong,Twitch Hostmaster,Wrong,,Correct,
+220,jtvnw.net,Akamai Technologies,https://www.akamai.com/,CDN,Wrong,Twitch Hostmaster,Wrong,,Correct,
+15,roku.com,Roku,https://www.roku.com/,first-party host,Correct,,Correct,,Correct,
+15,roku.com,Roku Inc.,https://www.roku.com/,first-party host,Correct,,Correct,,Correct,
+120,ravm.tv,RAVM,https://ravm.tv/,static server,Unknown,,Unknown,,Not sure,
+120,ravm.tv,Unknown,,CDN,Unknown,,Unknown,,Not sure,
+110,playstation.net,Sony Interactive Entertainment LLC,https://www.playstation.com/,first-party host,Correct,,Correct,https://www.sie.com/,Correct,
+110,playstation.net,Sony Interactive Entertainment Inc.,https://www.sie.com/,first-party host,Correct,,Correct,https://www.sie.com/,Correct,
+322,google.ca,Google,https://www.google.com/,first-party host,Correct,,Correct,,Correct,
+322,google.ca,Google,https://www.google.com/,search engine,Correct,,Correct,,Correct,
+491,adobe.io,Adobe,https://www.adobe.com/,CDN,Correct,,Correct,,Correct,"Analytics,Marketing too"
+491,adobe.io,Adobe,https://www.adobe.com/,CDN,Correct,,Correct,,Correct,"Analytics,Marketing too"
+586,adsafeprotected.com,Integral Ad Science,https://integralads.com/,advertising,Correct,,Correct,,Correct,
+586,adsafeprotected.com,Integral Ad Science,https://integralads.com/,tracking,Correct,,Correct,,Correct,
+743,noip.com,"Vitalwerks Internet Solutions, LLC",https://www.noip.com/,DNS,Wrong,Vitalwerks,Correct,,Correct,
+743,noip.com,No-IP,https://www.noip.com/,DNS,Wrong,Vitalwerks,Correct,,Correct,
+835,aerserv.com,Aerserv,https://www.aerserv.com/,advertising,Correct,,Correct,,Correct,
+835,aerserv.com,Aerserv,https://www.aerserv.com/,Advertising,Correct,,Correct,,Correct,
+925,parastorage.com,Wix,https://www.wix.com/,CDN,Wrong,,Unknown,Domain not connected to a website yet,Wrong,Marketing
+925,parastorage.com,Para,https://www.para.com/,CDN,Wrong,,Unknown,Domain not connected to a website yet,Wrong,Marketing
+1073,caacbook.com,,,,Unknown,,Unknown,,Not sure,
+1073,caacbook.com,Unknown,,Invalid URL,Unknown,,Unknown,,Not sure,
+1246,bbox.fr,Bouygues Telecom,https://www.bouyguestelecom.fr/,CDN,Wrong,,Correct,,Correct,
+1246,bbox.fr,Bbox,https://www.bouyguestelecom.fr/offres-internet,CDN,Wrong,,Correct,,Correct,
+1352,herokuspace.com,Heroku,https://www.heroku.com/,static server,Correct,,Correct,,Wrong,Cloud service
+1352,herokuspace.com,Heroku,https://www.heroku.com/,static server,Correct,,Correct,,Wrong,Cloud service
