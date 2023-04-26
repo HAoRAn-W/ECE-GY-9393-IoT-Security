@@ -1,0 +1,567 @@
+,result
+marketing,574
+DNS,517
+CDN,487
+first-party host,473
+static server,268
+advertising,161
+analytics,151
+It is not possible to determine the purpose of the provided URL without additional information.,25
+tracking,23
+First-party host,21
+{'purpose': 'first-party host'},19
+Cannot determine the purpose of the provided URL,14
+Unable to determine the purpose of the provided URL,13
+{'purpose': 'DNS'},13
+{'purpose': 'CDN'},12
+It is not possible to determine the purpose of the URL without additional information.,11
+Unable to determine the purpose of the URL,11
+Advertising,10
+VPN service provider,9
+{'purpose': 'static server'},8
+e-commerce,8
+search engine,7
+{'purpose': 'analytics'},7
+Cannot determine the purpose of the URL,7
+Internet Service Provider,6
+news website,6
+{'purpose': 'First-party host'},5
+This URL does not provide enough information to determine its purpose.,5
+It is not possible to determine the purpose of this URL without additional information.,5
+Internet Service Provider (ISP),4
+Marketing,4
+e-commerce platform,4
+Content Delivery Network,4
+Static Server,4
+streaming service,3
+video streaming service,3
+It is not possible to determine the purpose of the provided URL without further information.,3
+It is not possible to determine the purpose of the URL without further information.,3
+URL shortening service,3
+internet service provider,3
+Unable to determine the purpose of the provided URL.,3
+news and media website,3
+The purpose of the provided URL could not be determined.,3
+adult entertainment,2
+The purpose of the provided URL is unclear or unknown.,2
+It is not possible to determine the purpose of the provided URL.,2
+news website - first-party host,2
+video streaming platform,2
+URL shortener,2
+Unable to determine the purpose of the URL.,2
+e-learning platform,2
+news and media,2
+{'purpose': 'marketing'},2
+{'purpose': 'tracking'},2
+content delivery network (CDN),2
+e-commerce marketplace,2
+travel website,2
+It is a first-party host,2
+video sharing platform,2
+"{'purpose': 'first-party host', 'description': 'It is the official website of RAI, the Italian national public broadcasting company. It serves as a first-party host for their content and services.'}",1
+The provided URL seems to be a CDN (Content Delivery Network) used for delivering content efficiently and quickly to users around the world.,1
+Image compression and optimization service,1
+This URL is the domain name for Aeris Weather API services which provides weather data and analytics for businesses and developers to integrate into their applications.,1
+The provided URL is a tracking service used for package and shipment tracking from different carriers and postal services worldwide.,1
+fact-checking,1
+authentication and authorization service,1
+Payment System,1
+"Cannot determine the purpose of the URL. It could be for any of the following: tracking, marketing, advertising, analytics, CDN, static server, DNS, first-party host.",1
+technology news and reviews,1
+It is not possible to determine the purpose of this URL based solely on its domain name.,1
+"This is a first-party host URL for Eye4, a company that provides security camera solutions and services.",1
+"The provided URL is a content delivery network (CDN) that helps to distribute web content, such as images and videos, across multiple servers and locations to improve page load times and user experience.",1
+API development and collaboration platform,1
+video conferencing platform,1
+"This URL is the main website of Tencent, which is a multinational Chinese technology conglomerate. It offers various services such as social media, gaming, e-commerce, and more. Therefore, it does not serve any of the mentioned purposes (tracking, marketing, advertising, analytics, CDN, static server, DNS, first-party host).",1
+technology news and analysis,1
+remote desktop software,1
+B17g.net appears to be a marketing URL that is used to track user activities and campaigns in order to optimize marketing strategies and increase the effectiveness of marketing campaigns.,1
+"music streaming service, first-party host",1
+There is no provided URL to analyze.,1
+The provided URL does not seem to belong to a well-known company or service in the web industry,1
+It is not possible to determine the purpose of daily-choices.com URL without additional information or analysis.,1
+mapping and navigation services,1
+"{'purpose': 'first-party host', 'description': 'Yelp is an online platform that provides business listings, user reviews, and ratings of local businesses.'}",1
+"The provided URL belongs to the Address and Routing Parameter Area (ARPA) top-level domain, which is used exclusively for technical infrastructure purposes such as reverse DNS lookups. Therefore, it is unlikely that this URL is used for tracking, marketing, advertising, analytics, CDN, static server, or first-party hosting purposes.",1
+The purpose of the provided URL is to provide the DNS lookup service for resolving the IP address of a given domain name.,1
+"{'purpose': 'Internet Service Provider', 'category': 'Telecommunications'}",1
+"{'purpose': 'DNS', 'description': 'VoIP.ms is a provider of Voice over Internet Protocol (VoIP) services. The URL provided is likely used for DNS, which is responsible for translating domain names into IP addresses that can be understood by computers.'}",1
+"{'purpose': 'CDN', 'description': ""Ljusnet.se is a content delivery network (CDN) that delivers static content, such as images, videos, and files, to users from servers located in multiple geographic locations. This helps to improve the website's performance, speed, and availability by reducing the load on the main server and minimizing the distance data needs to travel. Ljusnet.se is used by the company Ljusnet AB to ensure fast and reliable delivery of their web content to users.""}",1
+video surveillance software and hardware,1
+Cannot determine the purpose of the URL without more information.,1
+"The purpose of gpsonextra.net URL is unclear and cannot be determined with certainty. It could potentially serve as a tracking, marketing, advertising or analytics tool, but further investigation is required to determine its exact function and ownership.",1
+"{'purpose': 'CDN', 'description': ""VMware uses a Content Delivery Network (CDN) to distribute their website's content globally to provide faster and more efficient access to their website visitors. The CDN allows for faster loading times, increased reliability, and reduced latency by delivering the website's assets from a server closer to the user's location.""}",1
+"{'purpose': 'first-party host', 'description': 'The provided URL belongs to Amazon, which is a first-party host.'}",1
+tag management system for marketing and analytics,1
+logging and log management service,1
+email sending and receiving service,1
+authentication and login service,1
+API for accessing Magic: The Gathering card data and images,1
+classifieds advertising,1
+IoT solution provider,1
+"{'purpose': 'IoT platform services', 'description': 'Particle is an IoT platform that provides a wide range of services for building, deploying, and managing connected devices at scale. The URL provided is likely used to serve static content or provide access to Particle API endpoints for various platform functions such as device management, OTA updates, and event logging.'}",1
+knowledge sharing platform,1
+payment processing and money transfer service,1
+email client,1
+"{'purpose': 'First-party host', 'description': ""Fandom is a platform for hosting wikis and fan-made content related to various topics such as entertainment, gaming, and pop culture. The provided URL is likely used to serve content and resources related to these topics through Fandom's own servers.""}",1
+"{'purpose': 'news and media', 'category': 'first-party host'}",1
+"{'purpose': ['DNS', 'CDN', 'Analytics']}",1
+The provided URL (dc-1.net) belongs to a content delivery network (CDN) called MaxCDN (now known as StackPath). A CDN is a geographically distributed group of servers that work together to provide fast delivery of Internet content. The purpose of this CDN is to improve website speed and reduce the load on the website's origin server.,1
+This URL belongs to a DNS service provided by Amazon Web Services (AWS). AWS provides highly available and scalable DNS services to route traffic to internet applications.,1
+proxy and CDN network,1
+proxy network for web data extraction and online privacy solutions,1
+"The provided URL (ntp.org.cn) appears to be a DNS (Domain Name System) server, which translates domain names to IP addresses and manages the distribution of domain names and IP addresses across the internet.",1
+network infrastructure management and monitoring platform,1
+"This domain appears to belong to a DNS provider, which may be providing DNS resolution services for a customer's domain name. It is not possible to determine the exact purpose or customer of the domain without further information or investigation.",1
+search engine and language input software,1
+"The provided URL 'f3322.org' is a first-party host, which means it is a server that hosts content for the website owner themselves.",1
+"{'purpose': 'IoT Network Service Provider', 'description': 'The provided URL belongs to The Things Industries, a company that provides IoT network services. The Things Network is an IoT network infrastructure based on LoRaWAN technology that enables device connectivity and communication. The URL may be used for management and operation of the network, and for accessing network-related tools and resources.'}",1
+"{'purpose': 'dictionary and reference website', 'type': 'first-party host'}",1
+"{'purpose': 'task management service', 'category': 'first-party host'}",1
+"The provided URL belongs to GoDaddy, a popular DNS provider that offers domain registration, website hosting, and other related services.",1
+real-time messaging CDN,1
+The provided URL is a content delivery network (CDN) used to deliver audio content efficiently to end users through the internet.,1
+The provided URL is a domain name system (DNS) server for the domain awsdns-29.org.,1
+This URL is a DNS provider domain used by Amazon Web Services (AWS) Route 53 service.,1
+antivirus software,1
+It is not possible to determine the purpose of this URL with this limited information.,1
+authentication and user management,1
+"The provided URL is likely used for web content assessment and quality assurance purposes by Lionbridge, rather than for tracking, marketing, advertising, analytics, CDN, static server, DNS, or first-party hosting.",1
+GIS Mapping and Analysis platform,1
+The provided URL is a content delivery network (CDN) used to deliver files and static content from Box.com to end-users quickly and efficiently across the globe.,1
+"{'purpose': 'first-party host', 'description': 'Atlassian.com is a first-party host that serves as the primary web presence for Atlassian. It hosts various products and services offered by the company.'}",1
+This domain appears to be a first-party host for a captive portal used for network authentication and/or access control in a Fortinet-based network.,1
+HTTPS traffic interception and analysis,1
+Cannot determine the purpose of the URL with just the company website. Please provide a specific URL for analysis.,1
+"This URL appears to be a development or testing URL for Heroku's platform, and does not have a clear purpose in terms of tracking, marketing, advertising, analytics, CDN, static server, DNS, or first-party hosting.",1
+{'purpose': 'content delivery network (CDN)'},1
+sports news and media platform,1
+API for accessing Bible-related content and features provided by YouVersion,1
+"The provided URL 'ip-158-69-27.net' indicates a static server, which is used to store and serve static content, such as website files, images or videos, to end-users. Static servers do not generate dynamic content, but focus on delivering content quickly and reliably to users around the world.",1
+ticketing and event management,1
+"Basis is a content delivery network (CDN) providing fast and secure delivery of static files, images, videos, and other content from a globally distributed network of servers. It is used to speed up websites and applications, reduce server load, and improve user experience.",1
+"Openload is a content delivery network (CDN) that provides a platform for users to upload and share videos, music, and other files. It serves as a storage and distribution platform for various types of media content.",1
+It is not possible to determine the exact purpose of the provided URL without additional information.,1
+file storage and sharing,1
+memes and entertainment,1
+"{'purpose': 'Music-Streaming Server', 'description': 'Mopidy is a music streaming server written in Python. It plays music from local disk, Spotify, SoundCloud, Google Play Music, and more. You edit the playlist from any phone, tablet, or computer using a variety of MPD and web clients.', 'category': 'Media'}",1
+"{'purpose': 'e-commerce', 'description': 'Amazon.com.br is an online retail store, offering books, electronics, clothing, home appliances and many other products.'}",1
+This domain is used as a DNS service provider.,1
+comic and blog website,1
+"{'purpose': 'Internet Service Provider', 'description': 'TTNET is the largest Internet service provider in Turkey, providing broadband Internet, phone, and IPTV services.'}",1
+"The provided URL belongs to a CDN (Content Delivery Network) provider, which is a distributed network of servers that delivers web content and pages to users based on their geographic location, server availability, and other factors. CDNs help to improve website performance and reduce latency by caching content closer to users and distributing the load across multiple servers.",1
+"{'purpose': 'shipping and logistics', 'category': 'first-party host', 'description': 'The provided URL belongs to UPS, a shipping and logistics company. The website is used by the company to provide information about their services and allow customers to track and manage their shipments. This is a first-party host as it is owned and operated by UPS and not used for any external tracking, marketing, or advertising purposes.'}",1
+API for game development and management,1
+video streaming and television broadcasting services,1
+"{'purpose': 'first-party host', 'description': 'Craigslist is a website where people can post classified ads for free. The purpose of the provided URL is to serve as a first-party host for the website.'}",1
+identity and access management solutions,1
+"{'purpose': 'streaming and on-demand TV services', 'type': 'first-party host'}",1
+remote desktop software and online meeting software,1
+customer support,1
+file synchronization tool,1
+peer-to-peer file sharing website,1
+The purpose of eztv.ag is for tracking and providing torrent downloads for TV shows.,1
+This URL is not associated with any of the given options,1
+The provided URL does not contain enough information to determine its purpose.,1
+"The provided URL is not associated with any of the mentioned categories (tracking, marketing, advertising, analytics, CDN, static server, DNS, first-party host). It is likely to be a personal or non-commercial website.",1
+"Unfortunately, we could not determine the purpose of the provided URL",1
+The purpose of the provided URL could not be identified.,1
+possible marketing or advertising purpose,1
+news aggregation,1
+"{'purpose': 'DNS', 'description': ""The provided URL is for the Domain Name System (DNS) of NRK, which is responsible for translating domain names (such as nrk.no) to IP addresses that can be used to access the website's content.""}",1
+This is a special domain used for reverse DNS lookup to find the hostname associated with an IP address.,1
+IP Geolocation and reverse DNS lookup,1
+cloud-based video surveillance service,1
+booking and reservation website (first-party host),1
+community forum for Node.js developers,1
+video player and video hosting,1
+RSS feed for TV shows,1
+"Stanza is a Content Delivery Network (CDN) provider, which accelerates web pages, digital assets, and mobile applications by caching content in multiple edge locations around the world.",1
+The provided URL belongs to an advertising company.,1
+"{'purpose': 'DNS', 'description': 'Gandi is a domain name registrar and DNS provider. This URL may be used to manage DNS records for a domain registered with Gandi.'}",1
+"{'purpose': 'first-party host', 'description': 'Phuket.com is most likely the primary domain for the company operating within the Phuket region, providing information and services related to tourism, travel, hospitality or local businesses. As a first-party host, the domain serves its own content, without relying on external servers.'}",1
+"{'purpose': 'first-party host', 'description': 'The URL belongs to the official website of Wake Forest University, which is a first-party host. It is used to provide information about the university, its programs, and services to its students, faculty, staff, and visitors.'}",1
+No information available on the purpose of the provided URL,1
+"The purpose of wgrusers.com cannot be determined with certainty as the domain does not currently have a website associated with it. It is possible that it may have been used for one of the following purposes in the past: tracking, marketing, advertising, analytics, CDN, static server, DNS, or first-party host. However, without more information, it is not possible to determine the exact purpose at this time.",1
+"It is impossible to determine the purpose of the provided URL with certainty as it could be used for multiple purposes. However, based on the name of the website, it seems to be related to downloading files from foreign trade websites. Therefore, it could be categorized as a static server.",1
+mining pool,1
+"The provided URL belongs to a first-party host, which is an internal domain used by an organization or an individual for their own website/application. It is not intended for tracking, marketing, advertising, analytics, CDN or any other external purpose.",1
+URL shortening and tracking service,1
+The provided URL is not specific enough to determine its purpose.,1
+The provided URL is likely serving static content from a web server.,1
+"The domain name does not provide enough information to determine the purpose of the URL with certainty. However, based on the company name and website, it is likely that the purpose of the URL is advertising.",1
+security cameras and home automation devices,1
+"The provided URL is a domain name server (DNS). DNS is a hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network. It translates more readily memorized domain names to the numerical IP addresses needed for locating and identifying computer services and devices with the underlying network protocols. The domain name 'hopto.org', when queried, will return a corresponding IP address.",1
+"{'purpose': 'DNS', 'description': 'The provided URL belongs to Trafikverket, which is the Swedish Transport Administration. This domain is used for hosting their DNS service and managing their network infrastructure.'}",1
+news media,1
+The provided URL serves as a Content Delivery Network (CDN) for the website https://www.bt-chat.com/. CDN improves website speed and user experience by storing website content in multiple geographical locations and serving requests from the closest server to the user's location.,1
+The purpose of linkpc.net is unclear and requires further investigation.,1
+Invalid URL or URL purpose is unclear,1
+weather tracking and analytics,1
+It is not possible to determine the exact purpose of the URL without additional information.,1
+Not enough information to determine the purpose of the provided URL,1
+identity and access management solution provider,1
+The purpose of the provided URL is unclear and could not be determined.,1
+The purpose of yts.mx URL is a static server that provides a collection of high-quality movie torrents.,1
+"The purpose of the provided URL cannot be determined as it is not associated with any known company or service in the context of tracking, marketing, advertising, analytics, CDN, static server, DNS or first-party host.",1
+VPN software and related services,1
+The provided URL appears to be a Dynamic DNS (DDNS) service provider.,1
+"{'purpose': 'static server', 'description': 'The provided URL is the main website of the company Arduino. It serves as a static server to deliver the web pages and other resources to the visitors of the website.'}",1
+blogging and social media platform,1
+"mapping and location platform for airports, airlines, and travel companies",1
+The purpose of this URL is to serve as a DNS host for domains registered with Nochost.ru.,1
+It is not possible to determine the purpose of the URL provided as it appears to be a randomly generated sequence of characters and does not correspond to any known company or service.,1
+Smart TV platform for streaming and accessing online content,1
+"{'purpose': 'first-party host', 'description': 'The URL belongs to the website of Freie Universität Berlin, serving as the first-party host for its own web content and resources.'}",1
+It is not possible to determine the purpose of the URL with the provided information.,1
+"{'purpose': 'first-party host', 'description': 'Bain & Company is an international management consulting firm that serves clients in various industries. The purpose of their website (bain.com) is to host and provide information about their company, services, and thought leadership.'}",1
+"Used for reverse DNS lookups, maps an IP address to a domain name.",1
+It's not possible to determine the purpose of the URL without additional information.,1
+The URL is a reverse DNS lookup domain used to map an IP address to a hostname.,1
+tag management and data integration for marketing and advertising purposes,1
+"It is not possible to determine the purpose of the provided URL as it appears to be a company website and not a specific tracking, marketing, advertising, analytics, CDN, static server, DNS, or first-party host service.",1
+"{'purpose': 'first-party host', 'explanation': 'mystrom.ch seems to be the official website of the company, therefore it is considered a first-party host. It is not used for tracking, marketing, advertising, analytics, CDN or static server purposes.'}",1
+"{'purpose': 'DNS', 'description': 'OVH is a provider of domain name registration and DNS services.'}",1
+IoT analytics platform and cloud service provider,1
+media streaming and recording software,1
+authentication service,1
+VPN service provider for secure and private internet access.,1
+"{'purpose': 'first-party host', 'description': 'MasMovil website is a first-party host, which means it hosts its own content and does not rely on third-party services for its website functionality.'}",1
+Internet and TV service provider,1
+The URL belongs to the root DNS servers maintained by IANA.,1
+The provided URL is for reverse DNS resolution,1
+The provided URL is most likely used for DNS purposes.,1
+The provided URL appears to be a content delivery network (CDN).,1
+"The provided URL belongs to a Content Delivery Network (CDN) provided by HostDime. CDNs are networks of servers that are used to distribute content over the internet, typically for the purpose of improving website performance by reducing load times and improving reliability. HostDime is a company that provides web hosting, cloud hosting, VPS hosting and other related services to businesses and individuals worldwide.",1
+"CDNNET is a content delivery network provider. The purpose of the provided URL is to serve static content, such as images, videos, and other files, to users with high availability and performance through their CDN network.",1
+Cannot determine the purpose of the URL.,1
+It is difficult to determine the purpose of this URL without additional information.,1
+Internet service provider,1
+file hosting and sharing platform,1
+The provided URL does not have a clear purpose or it may not exist.,1
+"{'purpose': 'Internet Service Provider', 'description': 'Virtua is a Brazilian internet service provider that offers high-speed internet and digital TV services to residential and corporate customers.'}",1
+"{'purpose': 'Static Server', 'description': 'popularmechanics.com is served by a Static Server, which is designed to deliver content such as HTML, CSS, images, and videos to users without any processing or computation. Static servers are often used for hosting websites that do not require frequent updates or dynamic content, and are optimized for speed and reliability.'}",1
+The provided URL is a content delivery network (CDN) used by medium.com to improve the performance and availability of their website. Fastly is the CDN provider used by medium.com.,1
+news and information website,1
+tech news website,1
+"{'purpose': 'first-party host', 'description': 'La Poste is hosting content on this domain for its own use, not for the purpose of tracking, marketing, advertising, analytics or CDN.'}",1
+"This URL is the main website for their online multiplayer game 'War Thunder'. The purpose of this URL is to serve as a first-party host for the game's web portal, where players can access game information, news, and community features.",1
+SSL/TLS Certificate Provider,1
+The provided URL belongs to a Content Delivery Network (CDN).,1
+"{'purpose': 'smart lock technology', 'description': 'Nuki is a smart lock technology company that provides solutions for smart access to your home or office. Their URL is used for marketing and advertising their products and services.'}",1
+e-commerce website,1
+Weather forecasting and reporting website,1
+The provided URL belongs to the DNS (Domain Name System) of Google Portugal.,1
+Website Monitoring and Status Checking,1
+news and opinion website,1
+video hosting platform,1
+"{'purpose': 'first-party host', 'description': 'The URL belongs to Daily FT website, which is the first-party host (the website that a user intends to visit directly) where the content is hosted.'}",1
+logistics and transportation,1
+RSS feed reader and content aggregator service,1
+"This URL is a content delivery network (CDN) used to deliver static content like images, videos and scripts to end-users. CDNs provide faster and more reliable access to content by caching it in multiple servers around the world and delivering it from the server closest to the user.",1
+technology news website,1
+It is impossible to determine the purpose of the provided URL without additional information or context.,1
+"The purpose of dtscdn.com is to serve as a content delivery network (CDN) for faster and more reliable delivery of digital content, such as images, videos, and other media files.",1
+copy-paste analytics and attribution platform,1
+"{'purpose': 'mix of marketing, advertising, and analytics', 'details': 'The yamaha.com website serves as a platform for Yamaha to showcase and market their products to potential customers. The website also includes advertising to promote their products and services. Additionally, analytics tools are likely used to track user behavior and website performance.'}",1
+"{'purpose': 'first-party host', 'description': 'Siol.net is a website owned and operated by Siol, serving as their primary digital presence.'}",1
+The purpose of the provided URL is to serve static content from a CDN (Content Delivery Network). This helps to improve website performance and reduce latency by caching content closer to the user's geographical location.,1
+"{'purpose': 'project management tool', 'category': 'first-party host', 'description': 'Trello is a web-based project management tool that provides users with a visual way to organize their work. The website is a first-party host as it is owned and operated by Trello itself and does not rely on third-party services for its functionality.'}",1
+It is not possible to determine the purpose of the provided URL without additional information or context.,1
+The provided URL is for the first-party host of Garmin's website.,1
+SSL certificates and digital signatures.,1
+coupon and deal website,1
+"The provided URL is a content delivery network (CDN) used to speed up the delivery of web content, including images, videos, and scripts. The company behind this CDN is Memcached, an open-source caching system popular among developers for its speed and scalability.",1
+Media streaming and server software,1
+"This URL is used for redirecting web traffic as part of a marketing campaign, most likely to track clicks and conversions.",1
+"{'purpose': 'dating', 'category': 'first-party host'}",1
+GIF search engine and database,1
+"{'purpose': 'DNS', 'description': 'orange.fr is a domain name that belongs to Orange, a French multinational telecommunications corporation. The purpose of the domain is to serve as a DNS (Domain Name System) which translates human-readable domain names into IP addresses that computers can understand.'}",1
+proxy provider,1
+It is not possible to accurately determine the purpose of the URL without further information.,1
+It is not possible to determine the purpose of the URL,1
+"video hosting, marketing, and analytics platform.",1
+VPN service provider for online privacy and security,1
+The purpose of the provided URL is tracking.,1
+"{'purpose': 'first-party host', 'description': 'The provided URL is the first-party host for SC Television SA website.'}",1
+"{'purpose': 'news website', 'category': 'first-party host'}",1
+"{'purpose': 'news', 'description': 'LCI is a French news channel that provides live news updates and analysis of current events in France and around the world. The purpose of lci.fr is to provide news content to its audience.', 'category': 'first-party host'}",1
+First-party Host,1
+event management and social networking platform,1
+sports news and media website,1
+file hosting and collaboration platform,1
+"The provided URL is a content delivery network (CDN) used to deliver digital content, such as images, videos, and software updates, to a large number of users through various servers around the world.",1
+This URL is a special domain name in the in-addr.arpa domain. It is used for reverse DNS lookups for IP addresses within the 149.0.0.0/8 address block. Reverse DNS lookups are used to map an IP address to a domain name.,1
+"This URL is for DNS (Domain Name System) which is used to map IP addresses to domain names and vice versa. In this specific case, the URL 162.in-addr.arpa is a special domain name used in reverse DNS lookups to map a given IP address (in this case, an IP address that starts with 162) to the corresponding domain name, if one exists.",1
+"{'purpose': 'first-party host', 'description': 'This URL belongs to Daily Mirror which is the first-party host. It means that this URL hosts the content of the Daily Mirror website and is not used for any tracking, marketing, advertising, analytics, CDN or static server purposes.'}",1
+job board platform,1
+privacy management,1
+"The provided URL 'us.to' is a DNS (Domain Name System). It is used to resolve domain names to IP addresses, allowing users to access websites by their human-readable names instead of their numerical IP addresses.",1
+Real Estate Marketplace,1
+CMS and API for digital content management and delivery,1
+audio streaming - first-party host,1
+The purpose of n1272adserv.xyz is advertising.,1
+Cannot determine the purpose of the provided URL.,1
+This URL is inappropriate and will not be analyzed for any purpose.,1
+"{'purpose': 'DNS', 'description': ""The provided URL belongs to Internet Systems Consortium, a non-profit organization that develops and maintains the BIND DNS software, used by a large portion of the internet's DNS servers. The URL is likely used for the distribution of the DNS software and related documentation.""}",1
+live chat and customer support tool,1
+surveillance and monitoring software,1
+media/news organization,1
+The purpose of the provided URL is unclear and cannot be determined.,1
+travel itinerary management,1
+cloud storage,1
+"{'purpose': 'news and media website', 'category': 'first-party host'}",1
+Tag management system used for marketing and analytics purposes.,1
+The purpose of googlezip.net could not be determined,1
+VPN provider,1
+"{'purpose': 'news website', 'description': 'The provided URL belongs to a news website which provides breaking news, latest news, and current events from around the world.'}",1
+testing environment,1
+Cannot determine the purpose of the URL since it is the main website of 9c9 Media.,1
+streaming platform for Red Bull-sponsored events and content,1
+"The provided URL (maigreatjob.com) seems to be a job board or a company website. It does not appear to be used for tracking, marketing, advertising, analytics, CDN, static server, DNS or first-party hosting purposes.",1
+The purpose of the provided URL 'netflixdnstest10.com' is to test DNS resolution and is not associated with any specific company or service.,1
+"{'purpose': 'first-party host', 'description': 'The provided URL belongs to the Canadian Broadcasting Corporation (CBC) and serves as their first-party host for their website content.'}",1
+The provided URL is used for analytics purposes.,1
+authentication for Microsoft's online services,1
+video hosting and sharing platform,1
+"This domain is not associated with any known company for tracking, marketing, advertising, analytics, CDN or DNS purposes. However, it appears to be a static server hosting personal websites.",1
+"{'purpose': 'first-party host', 'description': 'GMX is a popular email service provider based in Germany. The provided URL is the domain for their email service and is used as a first-party host to serve their own content.'}",1
+"{'purpose': 'first-party host', 'description': ""The provided URL belongs to Spectrum, which is a first-party host. This means that it is the domain where Spectrum's website and services are hosted.""}",1
+"{'purpose': 'DNS', 'description': ""google.cn is a domain name used as a DNS record for Google in China. It resolves to the IP address of Google's servers in that region.""}",1
+The provided URL belongs to a DNS service provider.,1
+"The purpose of the provided URL is DNS (Domain Name System), which is used to translate human-readable domain names into IP addresses that machines can understand.",1
+developer platform for creating web and mobile applications using Adobe products and APIs,1
+It is not possible to determine the purpose of the URL provided as it appears to be currently inactive or not associated with any known company or service.,1
+It is not possible to determine the purpose of the provided URL with certainty without additional context.,1
+e-commerce platform provider,1
+payment and checkout service provided by Amazon for merchants and customers,1
+"The purpose of the provided URL is to provide a content delivery network (CDN) service. Amazon.de is primarily used as a content server for static resources such as images, videos, and other files that are delivered to users around the world through Amazon's global network of servers. This helps to improve the performance and speed of websites and applications that use Amazon.de's CDN service.",1
+bot protection and website security,1
+"{'purpose': 'first-party host', 'description': 'The provided URL belongs to the Public Broadcasting Service (PBS), which is a non-profit media organization and a well-known broadcaster in the United States that provides educational and entertaining programming. The website serves as the official website of PBS where users can access information on the shows that PBS offers, as well as watch full episodes, clips, and previews. As a first-party host, PBS uses this website to provide content and services directly to its audience without relying on third-party entities.', 'category': 'Broadcasting / Media'}",1
+language learning platform,1
+"{'purpose': 'first-party host', 'description': ""nyt.com is the official website of The New York Times Company, it serves as a first-party host for the company's news articles, digital content, and services.""}",1
+commenting and discussion platform for websites,1
+job search platform,1
+"This website is a first-party host, used for providing information and services related to the DIRECTV satellite television service to their customers and potential customers.",1
+office.net is a first-party host for Microsoft Office suite.,1
+authentication and security,1
+Invalid domain,1
+"{'purpose': 'Time and date information provider', 'category': 'First-party host'}",1
+"Giize.com appears to be a marketing website, potentially used for promoting products and services.",1
+It is not possible to determine the purpose of the URL with certainty as it seems to be invalid or not associated with any known company or service.,1
+"The provided URL belongs to Dynu, which is primarily a domain name system (DNS) service provider. DNS is a crucial component of the internet that translates domain names into IP addresses. Dynu offers DNS services, domain registration, and dynamic DNS updates. Therefore, the purpose of the provided URL is to provide DNS services.",1
+weather forecasting and meteorological services,1
+"{'purpose': 'static server', 'description': 'The URL is the website for WineHQ, which is a compatibility layer that allows running Windows applications on Unix-like operating systems. The purpose of the URL is to serve static content, such as HTML, CSS, JavaScript, and images, to users who visit the website.'}",1
+SDK for mobile app developers to enhance app stability and control third-party SDKs,1
+"This URL belongs to a Content Delivery Network (CDN), which is a system of distributed servers that delivers content to users based on their geographic location or other specific criteria. CDNs are commonly used to improve website performance by caching static content, such as images and videos, and delivering them from a server nearest to the user to reduce latency and network congestion.",1
+"{'purpose': 'CDN', 'description': 'appcenter.ms is a Content Delivery Network (CDN) used by Microsoft to efficiently distribute their mobile applications to users around the world.'}",1
+The provided URL belongs to a DNS (Domain Name System) service provider. DNS is responsible for translating a domain name into an IP address to locate and connect to the appropriate server hosting the requested content.,1
+Q&A platform,1
+"{'purpose': 'first-party host', 'description': 'The provided URL belongs to Australian Broadcasting Corporation which is a first-party host. This means that the website is the primary source of content and does not serve any third-party requests related to tracking, marketing, advertising, analytics, CDN or static server.'}",1
+automation and integration platform for connecting various apps and devices,1
+tag management and customer data platform provider,1
+"The provided URL is a Content Delivery Network (CDN) used to deliver various types of content, such as images, videos, scripts or stylesheets, to users based on their geographical location and network conditions. In the case of redditmedia.com, it is used by Reddit to serve media files for its platform.",1
+"{'purpose': 'first-party host', 'description': ""The provided URL belongs to Lego's official website and is used as a first-party host for their online presence. It hosts information related to their products, services, and other corporate information.""}",1
+Content Delivery Network (CDN),1
+streaming platform for TV shows and movies,1
+accounting and financial management software,1
+"technology news, reviews, and prices",1
+browser extension for dark mode on websites,1
+"The URL belongs to ESPN's Content Delivery Network (CDN) which is responsible for delivering content such as images, videos, and other media files to users across the world. CDNs are used to improve website performance by caching content closer to end-users, reducing latency and improving page load times.",1
+streaming platform for gamers,1
+"{'purpose': 'network scanner and security tool', 'category': 'networking'}",1
+"{'purpose': 'first-party host', 'description': 'SBS website is a first-party host, meaning that it serves as the primary source of content and does not rely on external hosts to provide its services.'}",1
+The purpose of the provided URL cannot be determined.,1
+digital distribution platform for video games,1
+The purpose of the provided URL is unclear and cannot be identified.,1
+App Store,1
+The provided URL is primarily used for advertising purposes.,1
+privacy compliance and risk management solutions provider,1
+cloud storage and file synchronization service,1
+This URL is associated with a DNS server.,1
+"{'purpose': 'first-party host', 'description': ""Apple's website is primarily used to host content related to its products, services, and support.""}",1
+It is not possible to determine the purpose of this URL without more information.,1
+security and antivirus software,1
+professional networking and job search platform,1
+"{'purpose': 'First-party host', 'description': ""The provided URL belongs to Samsung's official website and serves as a first-party host for their web content.""}",1
+social networking and community-building platform,1
+"It is not possible to determine the purpose of the URL provided (mineproxy.club) as it does not belong to any known company or service in the fields of tracking, marketing, advertising, analytics, CDN, static server, DNS or first-party host.",1
+"{'purpose': 'DNS', 'description': 'Duck DNS is a free Dynamic DNS service that provides you with a unique hostname to access your home network.'}",1
+streaming service provider,1
+It is difficult to determine the purpose of the provided URL as it does not belong to any known company or service. It is recommended to exercise caution before accessing this URL.,1
+proxy server,1
+video content distribution network (CDN),1
+Streaming platform - First-party host,1
+IoT cloud platform for managing and monitoring IoT devices and services provided by Samsung.,1
+Email client for mobile devices,1
+"The provided URL belongs to a Content Delivery Network (CDN) which is designed to deliver content faster by caching it on servers distributed around the world. Slack-imgs.com may be used to store and deliver images used by the Slack platform, resulting in faster load times for end-users.",1
+network monitoring and management solution provider,1
+The provided URL is associated with an advertising company.,1
+mgo-images.com URL is a content delivery network (CDN) used to distribute images and other static content to users from servers located around the world to improve website performance and speed.,1
+"{'purpose': 'content delivery (CDN)', 'description': ""The provided URL is primarily used as a content delivery network (CDN) providing quick and reliable access to HBO's shows, movies and other content to their viewers via their website, apps and other digital platforms. The CDN allows for faster and more efficient content delivery by caching content on multiple servers located around the world, reducing the distance between the viewer and the content they want to access.""}",1
+"The provided URL serves as a content delivery network (CDN) for Google's video content, enabling fast and reliable streaming to users around the world.",1
+"The provided URL is a content delivery network (CDN) used by Amazon to distribute static content, such as images and videos, to end users worldwide. CloudFront is Amazon's global CDN service that securely delivers data, videos, applications, and APIs to customers globally with low latency, high transfer speeds, all within a developer-friendly environment.",1
+Cannot determine the purpose of the URL. It may not have a clear purpose or there may not be enough information available.,1
+streaming service provider - first-party host,1
+content discovery and curation platform,1
+"Content Delivery Network (CDN) provider allowing faster and more efficient delivery of web content (including images, videos, stylesheets, scripts etc.) to end-users based on their geographic location",1
+It is a company website,1
+"{'purpose': 'search engine', 'description': ""DuckDuckGo is a search engine that emphasizes protecting searchers' privacy and avoiding filter bubble of personalized search results.""}",1
+media network offering technology podcasts and live streaming shows,1
+This is a first-party host for Samsung's HRM (Human Resource Management) portal.,1
+success,1
+It is not possible to determine the purpose of the URL based only on the domain name.,1
+"{'purpose': 'music streaming', 'description': ""Pandora is an online music streaming service that offers personalized radio stations based on users' music preferences.""}",1
+recipe sharing and search platform,1
+It is not possible to determine the purpose of the URL from the given domain name alone.,1
+Analytics,1
+"It is not possible to determine the purpose of the provided URL as it redirects to the VIDO homepage, which does not provide information about their services or products related to tracking, marketing, advertising, analytics, CDN, static server, DNS, or first-party hosting.",1
+Video hosting and streaming platform provider.,1
+cloud-based photo sharing and storage service,1
+"{'purpose': 'Streaming media platform', 'type': 'First-party host'}",1
+"{'purpose': 'CDN', 'description': ""The provided URL is used as a Content Delivery Network (CDN) for Amazon's online retail platform in Japan.""}",1
+"The provided URL points to the domain name system (DNS) for Google Taiwan. The DNS resolves domain names to IP addresses, allowing users to access Google's various online services, including search, email, and cloud storage.",1
+The provided URL does not exist or is currently not active.,1
+"Domain Name System (DNS) is a system that translates domain names into IP addresses, allowing users to access websites by their domain name instead of a numerical IP address. As such, the purpose of the provided URL (google.ch) is to serve as a DNS entry point for accessing Google's services in Switzerland.",1
+The provided URL appears to be a Domain Name System (DNS) server for google.com.ua domain.,1
+The provided URL is likely used for marketing purposes.,1
+It is not possible to determine the purpose of the provided URL,1
+security software and fraud prevention solutions for financial institutions and enterprises,1
+The purpose of statuspage.io is to provide a status communication platform for companies to keep their customers informed about any service interruptions or downtime.,1
+task management and productivity platform,1
+"The provided URL belongs to a Content Delivery Network (CDN) known as Gfycat. Gfycat is a popular platform for hosting and sharing short looping videos, and its CDN serves these videos to users across multiple devices and platforms for seamless playback.",1
+payment and financial services,1
+streaming television service,1
+The purpose of the provided URL is Marketing.,1
+"{'purpose': 'first-party host', 'description': 'The provided URL belongs to the British Broadcasting Corporation (BBC) which is a first-party host. It is the primary domain used to serve BBC content to the public. It is not used for tracking, marketing, advertising, analytics, CDN, static server or DNS purposes.'}",1
+"It is not possible to determine the purpose of the provided URL as it could serve multiple purposes, including but not limited to tracking, marketing, advertising, analytics, CDN, static server or DNS. Further analysis would be required to identify the specific purpose or use of the URL.",1
+sports streaming service,1
+{'purpose': 'Static Server'},1
+weather forecasting and visualization service,1
+The provided URL is a first-party host used for publishing technology news and information.,1
+live chat and customer engagement platform,1
+healthcare information and services,1
+"{'purpose': 'news and media', 'category': 'first-party host', 'description': ""The URL belongs to The Washington Post which is a news and media company. The purpose of the URL is to serve the content of the company's website. Therefore, it can be classified as a first-party host.""}",1
+"{'purpose': 'API (Content distribution)', 'description': ""Guardian APIs provide access to the Guardian's journalism content and data, allowing developers to build applications that can search, discover, contribute to, and re-use Guardian journalism.""}",1
+"{'purpose': 'Static server', 'description': 'The provided URL belongs to NTL, which is a cable telecommunications company. It seems to be a static server that hosts content that does not change frequently, such as images, HTML, CSS, and JavaScript files.'}",1
+"{'purpose': 'first-party host', 'description': ""The provided URL belongs to the University of Twente's website, which is a first-party host. A first-party host is a website or domain that a user intentionally visits and interacts with directly. It is the actual owner of the content and the data collected on that website, and does not share it with any third-party services or domains.""}",1
+file transfer service,1
+"{'purpose': 'DNS', 'description': 'hosts-file.net provides a regularly updated list of known malicious websites and serves as a DNS blocklist to protect users from accessing them.'}",1
+payment processing platform,1
+It is not possible to determine the purpose of the provided URL as it is a company website.,1
+"The provided URL seems to be a first-party host, which is a website that hosts its own content and is responsible for serving its own data to its visitors.",1
+It is not possible to determine the purpose of the provided URL as it does not contain any specific endpoint or path.,1
+"The provided URL belongs to a content delivery network (CDN) called CacheFly, which provides fast and reliable content delivery services to its customers.",1
+cloud storage and file hosting service,1
+financial news and analysis,1
+"{'purpose': 'advocacy', 'description': 'The Electronic Frontier Foundation (EFF) is an international non-profit organization that works to protect civil liberties in the digital world.'}",1
+The purpose of the URL mb-internal.com cannot be determined without further information.,1
+security software,1
+"{'purpose': 'DNS', 'description': 'IONOS is a web hosting company that provides DNS services to its customers. DNS stands for Domain Name System, which is a system that translates domain names into IP addresses that computers can understand. DNS is essential for the functioning of the internet, as it allows users to access websites using human-readable domain names instead of IP addresses.'}",1
+It is not possible to determine the purpose of the URL with certainty as it could serve different purposes depending on how the website is used.,1
+video conferencing and web conferencing platform,1
+streaming service for DISH Network customers to access their TV subscription remotely,1
+ticket sales and resale marketplace,1
+"The purpose of the provided URL is to serve as a Content Delivery Network (CDN) for TED Talks, delivering static content such as images, videos, and scripts to users around the world to improve their browsing experience.",1
+"The provided URL 'mi-img.com' belongs to a CDN (Content Delivery Network) which is typically used to distribute content to multiple servers, improving website performance and user experience.",1
+ADX1 is an advertising network that specializes in programmatic advertising technology and solutions.,1
+The provided URL (ghool.xyz) does not provide enough information to determine its purpose or the company behind it.,1
+The provided URL (onlineman.top) does not match any known purpose. It could be a personal or non-commercial website.,1
+customer service and support software,1
+URL shortening and deep linking platform for mobile apps,1
+"The provided URL is a first-party host, which means it is the primary domain used by the website owner and is responsible for serving content directly to the end-users.",1
+The provided URL belongs to a DNS server,1
+Cannot determine the purpose of the URL without additional information,1
+Tracking,1
+The purpose of the URL is unclear and requires further investigation.,1
+health analytics,1
+"TNG Technology Consulting GmbH is a technology consulting company. The provided URL does not seem to be for tracking, marketing, advertising, CDN, static server, DNS, or first-party host purposes. It could be a regular web page or serve other purposes.",1
+NTP.br is a first-party host that provides network time synchronization services for computers and other devices connected to the internet.,1
+security solutions provider,1
+"browser extension for price comparison, coupon finder, and deals aggregator",1
+food delivery service,1
+sports news and media,1
+login portal for Comdata customers and cardholders,1
+"{'purpose': 'DNS', 'description': ""HostGator.ro is a domain name registered with HostGator's DNS service. DNS (Domain Name System) is responsible for resolving human-readable domain names into IP addresses that computers use to identify each other on the internet.""}",1
+"{'purpose': 'first-party host', 'description': 'The provided URL belongs to Michigan Technological University, which means it is a first-party host. This is the primary domain of the university used to deliver contents and services to their visitors.'}",1
+SSL Certificates Provider,1
+streaming service (content delivery),1
+"{'purpose': 'first-party host', 'description': ""The provided URL belongs to Telenor's website in Serbia, which serves as a first-party host for their own content and services."", 'source': 'https://www.telenor.rs/'}",1
+API for embedding content from other websites,1
+This URL is serving static content or files hosted on the server of glipTV.com,1
+"The provided URL belongs to a Content Delivery Network (CDN) that helps to improve the performance, speed, and availability of web pages and other types of content by distributing them across a network of servers located around the world.",1
+The provided URL is a CDN (Content Delivery Network).,1
+"It is a website for torrenting, which means sharing files over a peer-to-peer network. It does not fit into any of the given options of tracking, marketing, advertising, analytics, CDN, static server, DNS, or first-party host.",1
+"CDNTIP is a website that offers tools for testing and optimizing content delivery networks (CDNs). They provide information on how to choose the right CDN for your website, and also offer a range of tools for testing the performance of CDNs. Therefore, the purpose of the provided URL is CDN.",1
+Q&A website and social media platform,1
+API provider for Bing Web Search and Bing Autosuggest services.,1
+It is not possible to determine the purpose of the provided URL as it does not belong to any known company and does not provide any indication of its purpose.,1
+The provided URL belongs to DNS (Domain Name System) which translates human-readable domain names (like google.co.nz) to IP addresses that machines can understand.,1
+"The provided URL belongs to a CDN (Content Delivery Network) which is a service that helps to distribute content across multiple servers and geographically dispersed locations, with the aim of providing faster access to content and improving website performance.",1
+feature flagging and experimentation platform,1
+product reviews and recommendations,1
+"{'purpose': 'news delivery', 'type': 'first-party host'}",1
+The provided URL belongs to a Content Delivery Network (CDN) used to cache and deliver static content efficiently.,1
+Cannot determine the exact purpose of the provided URL,1
+"Google.fi is a domain name that belongs to Google and it is used as their country code top-level domain (ccTLD) for Finland. However, the provided URL only specifies the domain name, which means it is not pointing to any specific webpage or server. Instead, it is used as a DNS request to resolve the IP address associated with google.fi domain name.",1
+"This URL is the company's main website and does not serve any of the mentioned purposes (tracking, marketing, advertising, analytics, CDN, static server, DNS, first-party host).",1
+The provided URL appears to belong to a marketing company.,1
+"{'purpose': 'news publishing', 'description': 'The provided URL belongs to The Guardian, a well-known British news organization. The purpose of this website is primarily for news publishing and journalism, rather than any tracking, marketing, advertising, analytics, CDN or static server purposes. Therefore, it can be considered a first-party host.'}",1
+real estate marketplace,1
+"{'purpose': 'E-commerce', 'description': 'Amazon.ca is an online retailer that offers a wide selection of products such as books, electronics, clothing, and more to customers in Canada.'}",1
+ISP and telecommunication provider,1
+local news and information platform,1
+"search engine for internet-connected devices and systems; used for security research, vulnerability scanning, and finding internet-facing devices and services",1
+"The provided URL appears to be a static server that serves static content such as HTML, CSS, and JS files.",1
+invalid URL,1
+Cannot determine the purpose of the URL without additional information.,1
+The provided URL is likely being used as a Dynamic DNS (DDNS) service.,1
+IoT platform for manufacturers to connect and manage their devices,1
+streaming service for anime and manga,1
+security software and services,1
+"The provided URL is for a Content Delivery Network (CDN) that is used to deliver media content, such as videos, to end-users efficiently and reliably. Shoofle.tv is likely using this CDN to ensure that their videos are streamed and loaded quickly without interruption.",1
+ride-hailing and transportation network company,1
+API service for accessing data related to Bilibili video sharing platform,1
+security and identity solutions,1
+The provided URL belongs to a Content Delivery Network (CDN) provided by Akamai Technologies.,1
+music streaming service,1
+DNS (Domain Name System),1
+"{'purpose': 'weather forecasting', 'description': 'yr.no is a weather forecasting service providing up-to-date and accurate weather information for various locations around the world.', 'category': 'first-party host'}",1
+remote access software provider,1
+{'purpose': 'Static server'},1
+content and media company,1
+payment processing and management platform,1
+"{'purpose': 'first-party host', 'description': 'KQED.org is the official website of KQED, a public radio and television station primarily serving the San Francisco Bay Area.'}",1
+entertainment news,1
+"Proxy Planet is likely a provider of proxy servers and VPN services, rather than any of the listed options. As such, this URL is likely related to CDN, static server, or DNS hosting services provided by Proxy Planet.",1
+"{'purpose': 'Meteorological information provider', 'description': ""The Bureau of Meteorology is Australia's national weather agency, providing information and services to all Australians. The Bureau monitors, analyses and forecasts Australia's weather and issues warnings and advice to help Australians plan and respond to severe weather events.""}",1
+Content Delivery Network (CDN) provider,1
+"{'purpose': 'research and development of information and communication technologies', 'category': 'non-profit organization'}",1
+content provider,1
+"Sublink.org is a domain name and its purpose cannot be determined solely by analyzing the URL. However, it appears that the domain is using Cloudflare as its DNS service provider.",1
+The provided URL belongs to a marketing company that provides services such as call blocking and caller identification for mobile devices.,1
+music identification and discovery application,1
+"{'purpose': 'news and media', 'type': 'first-party host'}",1
+search and insights platform for websites,1
+"{'purpose': 'first-party host', 'description': ""This URL belongs to the host of Channel 5, a UK television channel. It is likely used to serve content and provide access to the channel's website, media and services.""}",1
+APIs,1
+It is a first-party host for Atlassian services and products.,1
+"{'purpose': 'First-party host', 'description': 'Digitalgov.gov is a first-party host website that provides information and resources about digital government services in the United States. The website is managed by the U.S. General Services Administration and aims to help federal agencies improve their digital services and better serve the public through technology.'}",1
+"{'purpose': 'first-party host', 'description': 'The provided URL belongs to TheTVDB website which serves as a first-party host for TV show and movie information. It serves as a central database for TV show and movie metadata and provides an API for developers to access this information. The website does not seem to use any tracking, marketing, advertising, analytics or CDN services on this specific URL.'}",1
+Unable to determine the purpose of the URL without additional information.,1
+"The purpose of the provided URL is to offer security solutions for protecting websites from automated attacks such as scraping, account takeover, and denial-of-service (DoS) attacks.",1
+second-hand marketplace,1
+sports news and recruiting website,1
+CMS for managing and delivering digital content across all channels and devices,1
+recaptcha.net is used for implementing reCAPTCHA on websites to prevent spam and abuse. It is a security measure provided by Google.,1
+"{'purpose': 'weather forecasting and visualization', 'category': 'first-party host'}",1
+"The provided URL is not associated with any known purpose of tracking, marketing, advertising, analytics, CDN, static server, DNS or first-party host.",1
+"The provided URL (eu.org) is a top-level domain (TLD) provided by DNS.eu.org, which offers free domain name registration under the .eu.org subdomain.",1
+Invalid URL,1
+email marketing and management platform,1
+Reverse DNS lookup for IPv4 addresses,1
+"The provided URL is for DNS (Domain Name System) service of Google which translates domain names into IP addresses, enabling communication between devices on the internet.",1
+"ticket sales, event management, and marketing",1
+Customer feedback management platform,1
+It is not possible to determine the purpose of the URL based solely on the domain name provided.,1
