@@ -17,3 +17,7 @@ temperature1 = 1
 temperature2 = 0.6
 
 temperature3 = 1.5
+
+temperature4 = 0
+
+temperature5 = 2
