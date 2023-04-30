@@ -1,0 +1,101 @@
+Unnamed: 0,remote_hostname,company,company_website,result,company_validation,correct_company,website_validation,correct_website,result_validation,correct_result
+868,belkin.com,Belkin,https://www.belkin.com/,first-party host,Correct,,Correct,,Correct,
+2252,m2.ai,,,,Not sure,,Not sure,,Not sure,
+568,showtimeanytime.com,Showtime Networks Inc.,https://www.sho.com/,first-party host,Correct,,Correct,,Wrong,Streaming platform
+3413,googledomains.com,Google,https://www.google.com/,DNS,Correct,,Correct,,Correct,
+1828,fossmint.com,FOSSMint,https://www.fossmint.com/,tech news and reviews,Not sure,,Correct,,Correct,
+1825,w55c.net,,,,Not sure,,Not sure,,Not sure,
+127,disquscdn.com,Disqus,https://disqus.com/,CDN,Correct,,Correct,,Correct,
+3230,nanit.com,Nanit,https://www.nanit.com/,marketing,Correct,,Correct,,Correct,
+1037,oculus.com,Oculus,www.oculus.com,first-party host,Correct,,Correct,,Correct,
+2686,kalay.net.cn,Kalay,https://www.kalay.net.cn/,First-party host,Correct,,Correct,,Correct,
+3525,inaf.it,National Institute for Astrophysics (INAF),https://www.inaf.it/en/,first-party host,Wrong,Italian National Institute for Astrophysics,Correct,,Not sure,
+3390,kort.co,,,,Not sure,,Not sure,,Not sure,
+1624,bahnhof.se,Bahnhof,https://www.bahnhof.se/,first-party host,Correct,,Correct,,Correct,
+1182,weborama.fr,Weborama,https://weborama.com/,marketing,Correct,,Correct,,Correct,Analytics
+1576,hsforms.com,HubSpot,https://www.hubspot.com/,marketing,Correct,,Correct,,Correct,
+3380,bt.com,BT Group plc,https://www.bt.com/,first-party host,Correct,,Correct,,Correct,
+1127,stackassets.com,StackPath,https://www.stackpath.com/,CDN,Not sure,,Not sure,,Not sure,
+3550,anovaculinary.com,Anova Culinary,https://anovaculinary.com/,marketing,Correct,,Correct,,Correct,
+2656,hubapi.com,HubSpot,https://www.hubspot.com/,marketing,Correct,,Correct,,Correct,
+1619,kxcdn.com,KeyCDN,https://www.keycdn.com/,CDN,Correct,,Correct,,Correct,
+30,mgo.com,"MongoDB, Inc.",https://www.mongodb.com/,DNS,Wrong,Technicolor SA,Wrong,https://www.technicolor.com/,Wrong,First part? ISP?
+634,synology.com,Synology,https://www.synology.com/,first-party host,Correct,,Correct,,Correct,
+2279,afterpay.com,Afterpay,https://afterpay.com,marketing,Correct,,Correct,,Correct,Banking/Finance
+811,sharethrough.com,Sharethrough,https://www.sharethrough.com/,advertising,Correct,,Correct,,Correct,
+3412,kali.ru,,,,Not sure,,Not sure,,Not sure,
+410,twitch.tv,Twitch Interactive,https://www.twitch.tv/,first-party host,Correct,,Correct,,Wrong,Streaming/Gaming
+137,sitescout.com,SiteScout,https://www.sitescout.com/,advertising,Correct,,Not sure,,Correct,
+715,freeviewplus.net.au,Freeview Australia Limited,https://www.freeview.com.au/,marketing,Correct,,Correct,,Wrong,Streaming
+3559,vzwfemto.com,Verizon Wireless,https://www.verizonwireless.com/,DNS,Correct,,Correct,,Wrong,Marketing/ISP
+3217,multidoge.org,MultiDoge,https://multidoge.org/,First-party host,Correct,,Correct,,Wrong,Cryptocurrency/Finance
+300,ticktick.com,TickTick,https://ticktick.com/,productivity app,Correct,,Correct,,Correct,
+178,localytics.com,Localytics,https://www.localytics.com/,analytics,Correct,,Correct,,Correct,
+2885,mb3admin.com,Media Browser,https://www.mediabrowser.tv/,first-party host,Wrong,Emby,Correct,,Wrong,Support party
+2975,rockstargames.com,Rockstar Games,https://www.rockstargames.com/,first-party host,Correct,,Correct,,Wrong,Gaming platform
+585,bluekai.com,Oracle,https://www.oracle.com/,tracking,Correct,,Correct,,Wrong,Advertising
+2529,canalplus-cdn.net,Canal+ Group,https://www.canalplusgroup.com/,CDN,Correct,,Wrong,https://www.canalplus.com/,Wrong,Streaming platform
+2681,nuri.net,Nuri,https://nuri.net/,first-party host,Correct,,Wrong,https://bitwala.com/,Wrong,Cryptocurrency/Finance
+1036,svtstatic.se,Sveriges Television AB,https://www.svt.se/,static server,Correct,,Correct,,Correct,News
+1937,dynect.net,Dyn,https://dyn.com/,DNS,Correct,,Correct,,Correct,
+2006,rakuten.com,Rakuten,https://www.rakuten.com/,marketing,Correct,,Correct,,Correct,Online shopping
+855,hismarttv.com,Hisense,https://www.hisense-usa.com/,first-party host,Correct,,Correct,,Correct,
+1307,weather.gc.ca,Environment and Climate Change Canada,https://www.canada.ca/en/environment-climate-change.html,Government website providing weather forecasts and related information,Correct,,Correct,,Correct,
+1638,zhihu.com,Zhihu,https://www.zhihu.com/,first-party host,Correct,,Correct,,Wrong,Advertising/Content host
+1090,fwupd.org,fwupd,https://fwupd.org/,static server,Wrong,Linux Firmware Updater,Correct,,Correct,
+2721,alshamil.net.ae,Al Shamil,https://www.alshamil.net.ae/,DNS,Wrong,Etisalat,Wrong,https://www.etisalat.ae/en/index.html,Wrong,Marketing/ISP
+3558,foobot.io,Foobot,https://foobot.io/,analytics,Correct,,Correct,,Wrong,Air Quality Monitoring
+2788,dianomi.com,Dianomi,https://www.dianomi.com/,marketing,Correct,,Correct,,Correct,Advertising
+2439,ypncdn.com,Yottaa Inc.,https://www.yottaa.com/,CDN,Not sure,Yandex LLC,Not sure,,Not sure,
+838,zynga.com,Zynga,https://www.zynga.com/,marketing,Correct,,Correct,,Correct,Gaming platform
+3023,inetia.pl,Inetia,https://www.inetia.pl/,first-party host,Correct,,Wrong,,Not sure,
+1307,weather.gc.ca,Environment and Climate Change Canada,https://www.canada.ca/en/environment-climate-change.html,Government website providing weather forecasts and related information,,,,,,
+2735,sol.az,SOL,https://www.sol.az/,first-party host,,,,,,
+1695,dashjr.org,Luke Dashjr,https://luke.dashjr.org/,first-party host,,,,,,
+1758,rogers.com,Rogers Communications,https://www.rogers.com/,first-party host,,,,,,
+1037,oculus.com,Oculus,www.oculus.com,first-party host,,,,,,
+1808,doodle.com,Doodle AG,https://doodle.com,first-party host,,,,,,
+2867,cubecraft.net,CubeCraft Games,https://www.cubecraft.net/,first-party host,,,,,,
+158,cogocast.net,Cogocast,https://www.cogocast.net/,CDN,,,,,,
+720,gdsec.net,GD-SEC,https://www.gd-sec.com/,DNS,,,,,,
+1302,thetvdb.com,TheTVDB,https://thetvdb.com/,first-party host,,,,,,
+2986,ipapi.co,ipapi,https://ipapi.co/,analytics,,,,,,
+3247,stanza.co,Stanza,stanza.co,marketing,,,,,,
+1757,afilias-nst.info,Afilias,https://afilias.info/,DNS,,,,,,
+996,lyft.com,Lyft,https://www.lyft.com/,first-party host,,,,,,
+3524,posttv.com,The Washington Post,https://www.washingtonpost.com/,marketing,,,,,,
+2616,feedly.com,Feedly,https://feedly.com/,RSS reader,,,,,,
+1441,lge.com,LG Electronics,https://www.lg.com,first-party host,,,,,,
+2179,imsbiz.com,IMSbiz,https://imsbiz.com/,marketing,,,,,,
+1020,googlehosted.com,Google,https://www.google.com/,CDN,,,,,,
+1936,dynamicnetworkservices.net,Dynamic Network Services,https://dyn.com,DNS,,,,,,
+409,steampowered.com,Valve Corporation,https://www.valvesoftware.com/,first-party host,,,,,,
+3090,under.net.ua,,,,,,,,,
+549,windows.net,Microsoft Corporation,https://www.microsoft.com/,CDN,,,,,,
+3558,foobot.io,Foobot,https://foobot.io/,analytics,,,,,,
+2942,darpanet.org,Defense Advanced Research Projects Agency,https://www.darpa.mil/,first-party host,,,,,,
+236,ubi.com,Ubisoft Entertainment,https://www.ubisoft.com/,first-party host,,,,,,
+1903,marketo.net,Marketo,https://www.marketo.com/,marketing,,,,,,
+2267,scarabresearch.com,Scarab Research,https://scarabresearch.com/,analytics,,,,,,
+1287,247sports.com,247Sports,https://247sports.com/,Sports news and recruiting website,,,,,,
+3251,ultradns.net,Neustar,https://www.neustar.biz/,DNS,,,,,,
+2394,soletechnology.com,Sole Technology,https://www.soletechnology.com/,first-party host,,,,,,
+1412,onelouder.com,OneLouder Apps,https://onelouder.com/,marketing,,,,,,
+862,mxpnl.com,Mixpanel,https://mixpanel.com/,analytics,,,,,,
+847,me.com,Apple Inc.,https://www.apple.com/,first-party host,,,,,,
+2002,usabilla.com,Usabilla,https://usabilla.com/,marketing,,,,,,
+2851,ieee.org,IEEE,https://www.ieee.org/,first-party host,,,,,,
+3202,wfu.edu,Wake Forest University,https://www.wfu.edu/,first-party host,,,,,,
+3466,fibaro.com,Fibar Group,https://www.fibaro.com/,first-party host,,,,,,
+2605,tynt.com,Tynt,https://www.tynt.com/,tracking,,,,,,
+2399,ogury.io,Ogury,https://ogury.com/,analytics,,,,,,
+1313,weather.gov,National Oceanic and Atmospheric Administration,https://www.noaa.gov/,first-party host,,,,,,
+1739,univ-lyon1.fr,University of Lyon 1,https://www.univ-lyon1.fr/,first-party host,,,,,,
+3002,veloxzone.com.br,Veloxzone,https://www.veloxzone.com.br/,first-party host,,,,,,
+564,nordvpn.com,NordVPN,https://nordvpn.com/,VPN service provider,,,,,,
+2284,17track.net,17track,https://www.17track.net/,tracking,,,,,,
+3350,freeboxos.fr,Free,https://www.free.fr/,first-party host,,,,,,
+1206,ispot.tv,iSpot.tv,https://www.ispot.tv/,advertising,,,,,,
+890,gamepass.com,Microsoft Corporation,https://www.microsoft.com/,first-party host,,,,,,
+3041,randomads.us,Random Ads,https://www.randomads.us/,advertising,,,,,,
+2039,answerscloud.com,Answers Corporation,https://www.answers.com/,marketing,,,,,,
