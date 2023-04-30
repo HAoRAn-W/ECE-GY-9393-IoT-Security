@@ -1,0 +1,16 @@
+,remote_hostname,company,company_website,result
+0,dns.google,Google,https://www.google.com/,DNS Service
+1,ec2-34-196-180-37.compute-1.amazonaws.com,Amazon Web Services,https://aws.amazon.com/,It is an EC2 instance. The domain is used to host a server/application on the cloud infrastructure provided by Amazon Web Services.
+2,ec2-34-204-35-119.compute-1.amazonaws.com,Amazon Web Services,https://aws.amazon.com/,EC2 instance
+3,ec2-34-226-113-116.compute-1.amazonaws.com,Amazon,https://aws.amazon.com/,"EC2 instance, possibly used for hosting websites or web applications."
+4,ec2-34-238-5-126.compute-1.amazonaws.com,Amazon Web Services,https://aws.amazon.com/,"This is likely an Amazon EC2 instance hostname, used for hosting websites or applications on the cloud."
+5,ec2-34-238-224-65.compute-1.amazonaws.com,Amazon Web Services,https://aws.amazon.com/,"This is a server hostname in the Amazon Web Services EC2 (Elastic Compute Cloud) infrastructure, which provides scalable computing capacity in the cloud. The purpose of this specific hostname is not clear without additional information."
+6,ec2-35-169-83-25.compute-1.amazonaws.com,Amazon,https://aws.amazon.com/,It is an Amazon Elastic Compute Cloud (EC2) instance hostname used for hosting various types of servers and applications.
+7,ec2-44-214-223-109.compute-1.amazonaws.com,Amazon Web Services,https://aws.amazon.com/,This is a domain name for the EC2 instance with IP address 44.214.223.109. It is likely used for hosting various types of applications or services on the AWS cloud infrastructure.
+8,ec2-52-23-39-189.compute-1.amazonaws.com,Amazon Web Services,https://aws.amazon.com/,"This is an Amazon Elastic Compute Cloud (EC2) instance that can be used for a variety of purposes depending on the configuration and software installed on it. Without further information, it is not possible to determine the specific purpose of this domain."
+9,ec2-52-72-63-134.compute-1.amazonaws.com,Amazon Web Services,https://aws.amazon.com/,EC2 instance
+10,ec2-52-203-70-243.compute-l.amazonaws.com,Amazon,https://aws.amazon.com/,It is an EC2 instance in the Amazon Web Services (AWS) cloud used as a server for hosting applications or services.
+11,api.tplinkra.com,TP-Link,https://www.tp-link.com/,DNS
+12,ec2-54-204-244-84.compute-1.amazonaws.com,Amazon Web Services,https://aws.amazon.com/,"This is an Amazon EC2 instance. It could be used for various purposes such as hosting web applications, databases, or running virtual machines."
+13,ec2-54-227-133-180.compute-1.amazonaws.com,Amazon Web Services,https://aws.amazon.com/,"This is likely an EC2 instance hostname on AWS cloud, which can serve various purposes such as hosting a website, running applications, or processing data."
+14,ec2-54-237-14-244.compute-1.amazonaws.com,Amazon Web Services,https://aws.amazon.com,"This is likely an Amazon EC2 instance with the IP address 54.237.14.244. It could be hosting any type of application or service, and further analysis would be required to determine its specific purpose."
