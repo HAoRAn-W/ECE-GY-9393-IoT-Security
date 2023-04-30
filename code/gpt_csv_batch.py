@@ -10,7 +10,7 @@ import prompts
 # and set up your key in OS (https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety)
 openai.api_key = os.environ["OPENAI_API_KEY"]
 
-domains = pd.read_csv("./data/domains.csv")
+domains = pd.read_csv("./data/kasa_working.csv")
 domains.insert(len(domains.columns), 'company', "")
 domains.insert(len(domains.columns), 'company_website', "")
 domains.insert(len(domains.columns), 'result', "")
@@ -79,7 +79,9 @@ for start in range(0, total_count, step):
     
     
 
-    filename = "./data/full/haoran/prompt6/answers_" + str(start) + ".csv"
+    # filename = "./data/full/haoran/prompt6/answers_" + str(start) + ".csv"
+    filename = "./data/full/haoran/prompt6/working_results.csv"
+
 
     domains.loc[list(range(start, min(start + step, total_count)))].to_csv(filename)  # , index=False
 
